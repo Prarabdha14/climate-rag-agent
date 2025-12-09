@@ -61,7 +61,35 @@ pytest
 
 Project Structure
 src/core/: Application logic (Orchestrator, Summarizer, Cost Logic).
+
 src/api/: FastAPI routes and Search endpoints.
+
 frontend/: React application.
+
 data/: Storage for uploaded files and vector indices.
+
 tests/: Automated test suite.
+
+## 🛠️ System Architecture
+
+The system uses a **Local-First** architecture to ensure privacy and zero recurring costs.
+
+<br>
+
+```mermaid
+graph TD
+    User[React UI] <-->|JSON| API[FastAPI]
+    API --> Orchestrator[Orchestrator]
+    
+    Orchestrator -->|PDF| PDFProc[PDF Processor]
+    Orchestrator -->|Audio| AudioProc[FFmpeg + Vosk]
+    Orchestrator -->|Image| ImgProc[Tesseract OCR]
+    
+    subgraph "Core Logic"
+        PDFProc & AudioProc & ImgProc --> Cleaner[Text Cleaner]
+        Cleaner --> Cost[Cost Estimator]
+        Cleaner --> Summarizer[Extractive Summarizer]
+    end
+    
+    Summarizer --> DB[(SQLite / JSON)]
+    Cleaner --> Index[Search Index]
