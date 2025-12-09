@@ -22,27 +22,6 @@ This agent meets all core requirements plus bonus objectives:
 - **🔍 Semantic Search:** Chunked vector retrieval (TF-IDF/Cosine Similarity) for precise answers.
 - **📊 Modern UI:** React-based dashboard with Glassmorphism design, Executive Summaries, and Detailed Logs.
 
-## 🛠️ System Architecture
-
-The system uses a **Local-First** architecture to ensure privacy and zero recurring costs.
-
-```mermaid
-graph TD
-    User[React UI] <-->|JSON| API[FastAPI]
-    API --> Orchestrator[Orchestrator]
-    
-    Orchestrator -->|PDF| PDFProc[PDF Processor]
-    Orchestrator -->|Audio| AudioProc[FFmpeg + Vosk]
-    Orchestrator -->|Image| ImgProc[Tesseract OCR]
-    
-    subgraph "Core Logic"
-        PDFProc & AudioProc & ImgProc --> Cleaner[Text Cleaner]
-        Cleaner --> Cost[Cost Estimator]
-        Cleaner --> Summarizer[Extractive Summarizer]
-    end
-    
-    Summarizer --> DB[(SQLite / JSON)]
-    Cleaner --> Index[Search Index]
 
 Setup & Installation
 1. Prerequisites
