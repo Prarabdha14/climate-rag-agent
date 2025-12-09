@@ -3,7 +3,9 @@
 A multi-modal AI agent capable of ingesting **PDFs, Images, Audio, and Text** to answer climate-related queries. Built for the Datasmith AI assignment.
 
 ## 📹 Demo Video
-**[👉 WATCH THE DEMO WALKTHROUGH HERE]((https://youtu.be/NoqMxjRmjy4))**
+[![Watch the Demo](https://img.youtube.com/vi/NoqMxjRmjy4/0.jpg)](https://youtu.be/NoqMxjRmjy4)
+
+**[👉 Click Here to Watch the Demo Walkthrough](https://youtu.be/NoqMxjRmjy4)**
 
 ---
 
@@ -21,6 +23,7 @@ This agent meets all core requirements plus bonus objectives:
 - **📊 Modern UI:** React-based dashboard with Glassmorphism design, Executive Summaries, and Detailed Logs.
 
 ## 🛠️ System Architecture
+
 The system uses a **Local-First** architecture to ensure privacy and zero recurring costs.
 
 ```mermaid
