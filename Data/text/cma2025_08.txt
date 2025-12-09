@@ -1,0 +1,4222 @@
+  United Nations 
+
+FCCC/PA/CMA/2025/8 
+
+Distr.: General 
+28 October 2025 
+
+English only 
+
+Conference of the Parties serving as the meeting 
+of the Parties to the Paris Agreement 
+Seventh session 
+Belém, 10–21 November 2025 
+
+  Nationally determined contributions under the Paris 
+
+Agreement 
+
+Synthesis report by the secretariat 
+
+Summary 
+
+This  report  synthesizes  information  from  the  64  new  nationally  determined 
+contributions  communicated  by  64  Parties  to  the  Paris  Agreement  and  recorded  in  the 
+registry of nationally determined contributions between 1 January 2024 and 30 September 
+2025. 
+
+GE.25-17206  (E) 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+Contents 
+
+  Abbreviations and acronyms ............................................................................................................  
+
+I.  Executive summary ..........................................................................................................................  
+
+II. 
+
+Introduction ......................................................................................................................................  
+
+  A.  Mandate and background .........................................................................................................  
+
+  B.  Scope and approach .................................................................................................................  
+
+III.  Overview of nationally determined contributions ............................................................................  
+
+IV.  Cross-cutting elements, including planning and implementation processes, in nationally determined 
+
+contributions .....................................................................................................................................  
+
+  A.  Policy frameworks, climate laws and governance mechanisms ..............................................  
+
+  B.  Gender .....................................................................................................................................  
+
+  C.  Children and youth ..................................................................................................................  
+
+  D. 
+
+Indigenous Peoples and local communities .............................................................................  
+
+  E.  Action for Climate Empowerment ...........................................................................................  
+
+F.  Broad non-Party stakeholder engagement and voluntary efforts to support climate action .....  
+
+  G. 
+
+International cooperation .........................................................................................................  
+
+  H.  How the outcomes of the first global stocktake are informing nationally determined  
+
+contributions ............................................................................................................................  
+
+I. 
+
+Just transition ...........................................................................................................................  
+
+J.  Voluntary cooperation under Article 6 of the Paris Agreement...............................................  
+
+  K.  Forests ......................................................................................................................................  
+
+  L.  The Ocean ................................................................................................................................  
+
+V.  Mitigation co-benefits resulting from adaptation action and/or economic diversification plans ......  
+
+VI.  Adaptation ........................................................................................................................................  
+
+VII.  Mitigation  .........................................................................................................................................  
+
+  A.  Targets .....................................................................................................................................  
+
+  B.  Domestic mitigation measures .................................................................................................  
+
+VIII.  Means of implementation .................................................................................................................  
+
+IX.  Contribution towards achieving the objective of the Convention as set out in its Article 2, and  
+
+towards Article 2, paragraph 1(a), and Article 4, paragraph 1, of the Paris Agreement ...................  
+
+Page 
+
+3 
+
+4 
+
+9 
+
+9 
+
+10 
+
+10 
+
+11 
+
+12 
+
+14 
+
+15 
+
+15 
+
+16 
+
+17 
+
+19 
+
+21 
+
+23 
+
+24 
+
+25 
+
+28 
+
+29 
+
+30 
+
+36 
+
+36 
+
+41 
+
+47 
+
+52 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbreviations and acronyms 
+
+FCCC/PA/CMA/2025/8 
+
+2006 IPCC Guidelines 
+ACE 
+AFOLU 
+AR 
+BTR 
+CCUS 
+CH4 
+CMA 
+
+CO2 
+CO2 eq 
+COP 
+ETF 
+GHG 
+GST 
+GWP-100* 
+HFC 
+IEA 
+INDC 
+IPCC 
+IPPU 
+LT-LEDS 
+LULUCF 
+MRV 
+N2O 
+NAP 
+NDC 
+NF3 
+PFC 
+REDD+ 
+
+SDG 
+SF6 
+SLCP* 
+UNEP 
+
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Action for Climate Empowerment 
+agriculture, forestry and other land use 
+Assessment Report of the Intergovernmental Panel on Climate Change 
+biennial transparency report 
+carbon dioxide capture, use and storage 
+methane 
+Conference of the Parties serving as the meeting of the Parties to the Paris 
+Agreement 
+carbon dioxide 
+carbon dioxide equivalent 
+Conference of the Parties 
+enhanced transparency framework under the Paris Agreement 
+greenhouse gas 
+global stocktake 
+global warming potential values over a 100-year time-horizon 
+hydrofluorocarbon 
+International Energy Agency 
+intended nationally determined contribution 
+Intergovernmental Panel on Climate Change 
+industrial processes and product use 
+long-term low-emission development strategy(ies) 
+land use, land-use change and forestry 
+measurement, reporting and verification 
+nitrous oxide 
+national adaptation plan 
+nationally determined contribution 
+nitrogen trifluoride 
+perfluorocarbon 
+reducing emissions from deforestation; reducing emissions from 
+forest degradation; conservation of forest carbon stocks; sustainable 
+management of forests; and enhancement of forest carbon stocks 
+(decision 1/CP.16, para. 70) 
+Sustainable Development Goal 
+sulfur hexafluoride 
+short-lived climate pollutant 
+United Nations Environment Programme 
+
+*   Used exclusively in figures. 
+
+3 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+I.  Executive summary 
+
+1. 
+Ten  years  on  from  the  adoption  of  the  Paris  Agreement,  this  2025  NDC  synthesis 
+report provides new indications of real and increasing progress on action to address climate 
+change through national efforts underpinned by global cooperation. In their NDCs, Parties 
+are setting out new national climate targets, and plans to achieve them, that differ in pace and 
+scale  to  any  that  have  come  before.  According  to  their  NDCs,  Parties  are  bending  their 
+combined  emission  curve  further  downward,  but  still  not  quickly  enough.  The  whole-of-
+economy, whole-of-society approaches evident in NDCs point to strong climate action as an 
+increasingly core pillar of ensuring economic stability and growth, jobs, health, and energy 
+security and affordability, among many other policy imperatives, in countries. However, it 
+remains clear that major acceleration is still needed in terms of delivering faster and deeper 
+emission  reductions  and  ensuring  that  the  vast  benefits  of  strong  climate  action  reach  all 
+countries and peoples. This report provides valuable new insights, albeit limited in scope, on 
+the basis of the 64 new NDCs submitted by 64 Parties to the Paris Agreement and recorded 
+in the NDC registry between 1 January 2024 and 30 September 2025, covering about 30 per 
+cent of total global emissions in 2019. It is not possible to draw wide-ranging global-level 
+conclusions or inferences from this limited data set. Nevertheless, the report highlights many 
+key  lessons,  about  progress  being  made  and  major  challenges  ahead,  emerging  from  the 
+NDCs synthesized: 
+
+(a) 
+
+The  new  NDCs  show  a  progression  in  terms  of  quality,  credibility  and 
+economic  coverage,  with  89  per  cent  of  Parties  communicating  economy-wide  targets 
+(compared with 81 per cent in their previous NDCs); 
+
+(b) 
+
+The new NDCs include responses to the outcomes of the first GST, with 88 
+per cent of Parties indicating that their NDCs were informed by the outcomes of the GST and 
+80 per cent specifying how; 
+
+(c) 
+
+The emissions trajectories set out in the new NDCs are broadly consistent with 
+a linear trajectory from the Parties’ 2030 targets to their long-term net zero targets, showing 
+that Parties are laying out clear stepping-stones towards net zero, although acceleration of 
+action is still needed; 
+
+(d) 
+
+Collectively,  the  new  NDCs  show  a  reduction  in  projected  emissions  of  17 
+
+(11–24) per cent below the 2019 level; 
+
+(e) 
+
+All NDCs go beyond mitigation to include elements, inter alia, on adaptation, 
+finance, technology transfer, capacity-building and addressing loss and damage, reflecting 
+the comprehensive scope of the Paris Agreement; 
+
+(f) 
+
+Adaptation and resilience are  featuring more prominently in NDCs, with 73 
+
+per cent of the new NDCs including an adaptation component; 
+
+(g) 
+
+Implementation  of  the  new  NDCs  necessitates  strong,  ongoing  international 
+cooperation,  and  new  and  innovative  approaches  to  unlock  finance  and  support  for 
+developing country Parties at scale. 
+
+2.  With regard to  GHG emission reductions, the  total GHG emission  level resulting 
+from the implementation of Parties’ new NDCs is projected to be around 13.0 (12.0–13.9)1 
+Gt  CO2  eq  in  2035,  which  is  6  per  cent below  the  projected  2030  level  reported  in  those 
+Parties’ previous NDCs and 17 (11–24) per cent below the 2019 level. Full implementation 
+of  all  new  NDCs,  including  all  conditional  elements,  is  estimated  to bring  the  total  GHG 
+emission level of the relevant group of Parties down to 12.3 (12.0–12.7) Gt CO2 eq by 2035, 
+which would be 19–24 per cent below the 2019 level. Implementation of their new NDCs 
+will result in a peaking of GHG emissions for the group of Parties before 2030, with strong 
+emission reductions thereafter until 2035. Most of the new NDCs are linked to the Parties’ 
+long-term decarbonization targets and development pathways, including the net zero targets 
+
+1    A triplet of emission levels indicates the best-estimate and the min-max projection range arising from 
+ranges in NDC targets and uncertainties in the quantification. If not otherwise stated, the range spans 
+both high and low quantifications of conditional and unconditional targets. 
+
+4 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+communicated  in  the  NDCs  or  LT-LEDS,  which  involve  reaching  net  zero  emissions  by 
+between  2040  and  2060,  with  the  majority  for  2050.  The  aggregate  emission  level  of  the 
+Parties  projected  for  2035  is  approximately  consistent  with  a  linear  trajectory  from  the 
+estimated 2030 emission level to their aggregate targeted net zero emission level. 
+
+3. 
+Nearly all Parties (98 per cent) communicated domestic mitigation measures in their 
+new NDCs, with 80 per cent reporting measures for at least one of the six low-cost mitigation 
+options with the highest mitigation potential (more than 2 Gt CO2 eq/year) for up to 2035. 
+Among such options, afforestation and reforestation, solar energy and reducing deforestation 
+are identified as the options with the greater need for support. Quantitative targets relevant 
+to at least one of the global efforts or mitigation options covered in recent CMA decisions 
+were  reported  by  75  per  cent  of  Parties,  of  which  47  per  cent  made  direct  references  to 
+specific efforts or options. In addition to the information in  the  NDCs, some Parties  have 
+announced  domestic  pledges  and  projects  relevant  to  the  above-mentioned  global  efforts, 
+including in relation to tripling global renewable energy capacity by 2030, enhancing low-
+carbon hydrogen production and expanding CCUS capacity. The combined effects of these 
+pledges and projects are projected to significantly exceed the aggregated targets based on the 
+NDCs  for  the  same  global  efforts,  indicating  that  submitted  NDCs  do  not  cover  all 
+domestically announced pledges and projects. Some Parties may nationally determine that 
+progress in these areas, along with other contributing factors such as enhanced international 
+cooperation and support, contributes to potential for accelerated implementation and more 
+ambition. 
+
+4. 
+Parties widely recognized and positively responded to the outcomes of the first 
+GST2 in their NDCs. A total of 88 per cent of Parties indicated that their new NDCs were 
+informed by the findings of and calls arising from the first GST, with 80 per cent of Parties 
+providing information supporting that claim. In terms of considering the GST outcomes in 
+their NDCs, Parties referenced enhanced ambition of mitigation (77 per cent), adaptation (38 
+per cent), means of implementation (33 per cent), loss and damage (14 per cent), response 
+measures (13 per cent) and international cooperation (17 per cent), as well as cross-cutting 
+elements such as just transition, stakeholder engagement and gender-responsiveness. Some 
+Parties indicated how the targets, commitments and actions in their NDCs will contribute to 
+global  efforts  in  relation  to  tripling  renewable  energy  capacity  globally  and  doubling  the 
+global average annual rate of energy efficiency improvement by 2030; transitioning away 
+from  fossil  fuels  in  energy  systems;  conserving,  protecting  and  restoring  nature  and 
+ecosystems;  promoting  sustainable  lifestyles  and  sustainable  patterns  of  consumption  and 
+production; and enhancing adaptation efforts towards achieving the global goal on adaptation. 
+
+5. 
+An  increasing  trend  in  NDCs  mentioning  mitigation  co-benefits  resulting  from 
+adaptation action and/or economic diversification plans can be observed. NDCs are also 
+increasingly  mentioning  plans  to  address  impacts  arising  from  mitigation  actions  by 
+embedding consideration of just transition in the NDCs, thus indicating growing recognition 
+of the importance of just transition. 
+
+6. 
+ A total of 70 per cent of  Parties considered just transition in preparing their new 
+NDCs and the majority of those Parties plan to integrate consideration of just transition into 
+NDC  implementation.  It  is  also  evident  that  Parties  considered  just  transition  across  all 
+aspects of their NDCs, including mitigation, adaptation and means of implementation, and 
+for a variety of sectors and stakeholders, which points to a whole-of-economy and -society 
+approach to considering just transition. Some Parties contextualized just transition as helping 
+to  ensure  that  the  shift  to  low-carbon,  climate-resilient  economies  does  not  exacerbate 
+existing or create new inequalities in societies, thus enabling climate action that is socially 
+inclusive and economically empowering. Plans to monitor or track just transition as part of 
+NDC implementation were explicitly indicated by 8 per cent of Parties. 
+
+7. 
+The  increase  in  Parties  indicating  their  intention  to  participate  in  voluntary 
+cooperation under Article 6 of the Paris Agreement to contribute to reaching their climate 
+targets continued in the new NDCs. 89 per cent of Parties indicated that they plan to or may 
+use at least one of the scopes of voluntary cooperation under Article 6, in comparison with 
+64 per cent in the previous NDCs; with 17 per cent of Parties mentioning the general use of 
+
+2  See decision 1/CMA.5.  
+
+5 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+voluntary  cooperation  under  Article  6,  72  per  cent  referring  to  the  use  of  internationally 
+transferred  mitigation  outcomes  under  Article  6,  paragraphs  2  and  4,  and  20  per  cent 
+expressing interest in non-market approaches under Article 6, paragraph 8. Following the 
+completion of the negotiations on the implementation of Article 6 at COP 29, more Parties 
+are  beginning  to  define  their  approach  to  voluntary  cooperation  and  establish  the  legal, 
+regulatory and institutional frameworks needed to implement and benefit from Article 6. 
+
+8. 
+Acknowledging  the  fundamental  role  of  forests  in  keeping  1.5  °C  within  reach, 
+Parties have integrated forest measures into economy-wide mitigation targets and mentioned 
+forest-specific  contributions  and  indicators  in  their  new  NDCs.  Parties  highlighted 
+international collaboration and REDD+ results-based payments as key to mitigation in the 
+forest sector, while noting synergies with achieving adaptation and biodiversity objectives. 
+Developing country Parties referenced their national REDD+ strategies and safeguards, and 
+ongoing implementation of REDD+ as central to their climate responses. More Parties than 
+previously  included  in  their  NDCs  a  broader  range  of  forest  actions,  covering  reducing 
+deforestation  and  forest  degradation,  afforestation  and  reforestation,  sustainable  forest 
+management, policy frameworks and risk management measures addressing wildfire, pests 
+and  diseases,  often  with  indicative  costings  and  financing  needs,  and  thus  constituting 
+coherent climate action packages. Persistent funding gaps remain, with Parties stressing that 
+predictable domestic and international finance, including REDD+ results-based payments, is 
+essential for turning ambition into durable outcomes, supported by inclusive governance and 
+national systems. 
+
+9. 
+Parties reported a significant increase in ocean-based climate action compared with 
+the previous NDCs, with 78 per cent of Parties including in the new NDCs at least one explicit 
+reference to the ocean – an increase of 39 per cent. Of the 48 per cent of Parties that reported 
+finance-related  needs  for  ocean-based  action,  46  per  cent  have  made  conditional 
+commitments, which were mostly identified by small island developing States to implement 
+ocean-related climate measures. Ocean-based adaptation remains prominent, with measures 
+relating to coastal resilience-building through integrated coastal zone management, marine 
+spatial planning, strengthening the resilience of coastal and marine tourism and responding 
+to sea level rise, conservation and restoration of blue carbon ecosystems through nature-based 
+solutions and marine protected areas, and fisheries and aquaculture. Though fewer in number, 
+reported ocean-based mitigation measures show increasing innovation and sectoral diversity, 
+spanning renewable energy deployment, blue carbon sequestration, fisheries and aquaculture, 
+and decarbonization of maritime transport. 
+
+10.  A total of 73 per cent of Parties included an adaptation component in their new NDCs, 
+focusing  on  the  adaptation  priority  areas  of  food  security  and  nutrition,  water  resources, 
+health,  terrestrial  ecosystems,  key  economic  sectors,  disaster  risk management,  urban  and 
+rural areas, ocean ecosystems, coastal and low-lying regions, poverty and livelihoods, and 
+education.  Parties  demonstrated  progress  across  several  areas  of  adaptation,  including 
+strengthening adaptation-relevant research, data and monitoring to support evidence-based 
+action; developing and implementing adaptation-related policy frameworks; formulating and 
+advancing NAPs; aligning adaptation strategies with the United Arab Emirates Framework 
+for  Global  Climate  Resilience;  defining  time-bound  adaptation  targets  and  indicators  for 
+tracking progress; and identifying synergies between adaptation and mitigation efforts, and 
+linkages between adaptation action and efforts towards achieving the SDGs. A total of 94 per 
+cent of Parties with an adaptation component in their new NDCs, compared with 68 per cent 
+in their previous NDCs, referred to loss and damage, outlining observed and projected loss 
+and damage in various key sectors and describing planned or implemented measures to avert, 
+minimize or address loss and damage. 
+
+11. 
+Parties  reaffirmed  in  their  new  NDCs  their  strong  commitment  to  climate 
+multilateralism under the Convention and the Paris Agreement, recognizing  international 
+cooperation  as  indispensable  for  strengthening  climate  action  and  achieving  the  Paris 
+Agreement’s  goals  to  avert  the  worst  human  and  economic  impacts  of  global  warming. 
+International cooperation was emphasized as critical for mobilizing resources and bridging 
+the gap between NDC ambition and implementation by 97 per cent of Parties. In addition to 
+fulfilling  commitments  under  the  Convention  and  the  Paris  Agreement,  such  as  NDCs, 
+Parties  described  their  engagement  with  international  partners  to  promote  effective  and 
+
+6 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+inclusive climate action through voluntary cooperation initiatives, regional collaboration and 
+sectoral activities such as energy transition. 
+
+12. 
+Information on climate finance was included in their new NDCs by 75 per cent of 
+Parties,  most  often  in  terms  of  support  needed  for  NDC  implementation,  with  fewer 
+referencing their role as finance providers. Costed needs were presented by 21 per cent more 
+Parties  in  their  new  NDCs  than  previously,  particularly  for  adaptation,  reflecting  their 
+increased ambition, broader sectoral coverage and efforts to integrate climate finance into 
+national budgeting and policy frameworks. Nearly 63 per cent of Parties referenced efforts 
+to develop climate financing strategies or investment plans to support NDC implementation. 
+Parties  reporting  financial  needs  provided  cost  estimates  ranging  from  aggregate  totals  to 
+sector-specific breakdowns, amounting to USD 1,970.8–1,975.0 billion overall. Mitigation 
+finance needs, estimated at USD 1,339 billion, are concentrated in the energy, AFOLU, IPPU 
+and waste sectors; while adaptation finance needs, estimated at USD 560.5–564.6 billion, are 
+focused  in  agriculture,  water,  infrastructure,  health,  biodiversity  and  disaster  risk 
+management sectors. A total of 84 per cent of the Parties that reported costed needs identified 
+a mix of international and domestic sources of finance needed, including public and private 
+sources.  Parties  noted  that  international  support  is  sought  through  bilateral  finance, 
+multilateral  climate  funds,  multilateral  development  banks  and  private  sector  investment. 
+Parties also reported that they are exploring use of sovereign instruments such as green bonds 
+and social and sustainability bond instruments as well as innovative finance such as maritime 
+levies, de-risking instruments like credit guarantees, and green credit lines. 
+
+13.  With regard to technology development and transfer and innovation, 97 per cent 
+of Parties provided information, at varying levels of detail, on technology priorities and/or 
+needs  in  their  new  NDCs,  45  per  cent  of  which  include  both  qualitative  and  quantitative 
+aspects. Around 75 per cent mentioned specific information on technology-related measures, 
+often from a sectoral perspective, while others mentioned technology more generally. A total 
+of 92 per cent of Parties outlined technology priorities and/or needs in support of mitigation 
+and 72 per cent in support of adaptation. The predominant share of these needs and priorities 
+for mitigation are related to the energy, transport and AFOLU sectors, which were cited by a 
+majority of Parties (more than 50 per cent). For adaptation, in addition to agrifood systems 
+and the water sector, which were among the most frequently cited priorities in previous NDCs, 
+a  majority  of  Parties  (more  than  50  per  cent)  referred  to  technology  measures  related  to 
+climate  monitoring  and  observations  in  their  new  NDCs,  often  combined  with  geospatial 
+tools and digital solutions, including use of artificial intelligence. The share of Parties (73 per 
+cent) that referred to measures related to technology innovation, research and demonstration 
+for achieving their climate targets has more than doubled since their previous NDCs. 
+
+institutional  strengthening  are 
+
+14.  Capacity-building  and 
+increasingly  being 
+recognized  as  important  for  NDC  implementation.  Of  the  84  per  cent  of  Parties  that 
+referenced  capacity-building  in  their  new  NDCs,  66  per  cent  indicated  that  NDC 
+implementation  is  contingent  upon  receiving  capacity-building  support.  Needs  were 
+identified  across  adaptation,  mitigation  and  cross-cutting  areas,  including  transparency, 
+technology  deployment  and  access  to  climate  finance.  A  total  of  25  per  cent  of  Parties 
+highlighted capacity needs related to addressing loss and damage and accessing related funds, 
+which  were  not  reflected  in  their  previous  NDCs.  Parties  referred  to  institutional 
+arrangements and stakeholder engagement as part of their capacity-building efforts. 
+
+15.  A total of 97 per cent of Parties provided information in their new NDCs on the legal 
+and  policy  frameworks  that  facilitate  their  NDC  implementation.  The  nature  of  such 
+frameworks  varies  across  Parties  and  includes  acts,  laws  and  decrees  as  well  as  policies, 
+strategies and plans.  The adoption of comprehensive climate change acts, laws or decrees 
+that establish the legal framework for NDC implementation was pointed to by 41 per cent of 
+Parties. On the policy side, 39 per cent of Parties referred to their national climate change 
+policies and 41 per cent to their national climate change strategies and plans as important 
+instruments for supporting NDC implementation. Further, a total of 94 per cent of Parties 
+reported  on  legal  and  policy  instruments  that  contribute  to  NDC  implementation  in  key 
+sectors such as energy, environment, water, waste,  agriculture and food security, forestry, 
+disaster risk reduction and management, health, urban and spatial planning,  transport, and 
+buildings, construction and infrastructure. Among these, the environment sector stands out, 
+
+7 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+with  77  per  cent  of  Parties  providing  information  on  environmental  legal  and  policy 
+instruments containing climate-related components. Climate change considerations have also 
+been  incorporated  within  sustainable  development  frameworks:  47  per  cent  of  Parties 
+highlighted sustainable development legislation, agendas, strategies and plans as instruments 
+that underpin the legal and policy frameworks that facilitate NDC implementation. 
+
+16. 
+The new NDCs reflect a deepening and more structured engagement of non-Party 
+stakeholders in climate action. An increasing number of Parties are involving subnational 
+entities, the private sector and civil society in both the design and implementation of NDCs. 
+Notably,  95  per  cent  of  Parties  reported  engagement  of  non-Party  stakeholders  in  NDC 
+implementation,  20  per  cent  more  than  in  their  previous  NDCs.  Subnational  entities  are 
+increasingly involved as partners in planning, implementing and monitoring climate action, 
+helping to embed national goals into local plans for coherent implementation. The private 
+sector  is  positioned  as  a  co-implementer  and  financier,  contributing  through  innovation, 
+partnerships  and  investment  mobilization.  Civil  society  and  academia  play  vital  roles  in 
+shaping  inclusive  policies,  advancing  climate  justice  and  providing  scientific  expertise. 
+Parties are  collaborating with non-Party stakeholders through voluntary efforts, initiatives 
+and coalitions to mobilize resources and scale up climate action, and reported in the NDCs 
+that enhanced enabling environments, such as appropriate incentives, sectoral road maps and 
+knowledge  platforms,  are  supporting  stakeholder  contributions.  This  shift  from  broad 
+consultation  to  multi-stakeholder  implementation  underscores  an  increasing  whole-of-
+society and whole-of-economy approach to climate action, thus signalling an alignment with 
+the  outcomes  of  the  first  GST  and  reinforcing  the  importance  of  collaborative  climate 
+governance. 
+
+17. 
+Parties provided clearer and more detailed information  than previously  on  ACE in 
+their  new  NDCs.3 All  Parties  provided  information  on  using  at  least  one  ACE  element  to 
+promote  implementation  of mitigation  and  adaptation  activities,  generally  communicating 
+more  clearly,  and  in  more  detail,  than  in  the  previous  NDCs  on  general  principles,  past 
+achievements, future commitments, and needs and gaps in relation to ACE. 
+
+18.  Gender  integration  into  NDCs  is  advancing,  with  Parties  increasingly  considering 
+gender to promote inclusive and effective climate action. In their new NDCs, 89 per cent of 
+Parties provided information related to gender and 80 per cent affirmed that they will take 
+gender into account in implementing the NDCs. Of the Parties that referenced gender, 16 per 
+cent had not included reference to gender in their previous NDCs and 35 per cent considered 
+gender to a similar extent to previously. Of the Parties that referenced gender in their previous 
+NDCs, 51 per cent elaborated more on the topic in their new NDCs. 
+
+19.  A  total  of  72  per  cent  of  Parties  reported  an  increased  focus  on  the  vital  role  of 
+Indigenous Peoples and local communities in climate adaptation and mitigation, compared 
+with  66  per  cent  previously.  Parties  not  only  acknowledged  the  particular  climate  change 
+vulnerabilities  of  Indigenous  Peoples  and  local  communities  but  also  emphasized  the 
+importance of strengthening climate action through integration of traditional, Indigenous and 
+local knowledge and the increased participation of these groups in climate leadership. Parties 
+highlighted the benefits of combining traditional and modern practices while ensuring the 
+participation and leadership of Indigenous Peoples and local communities in climate efforts. 
+Adaptation actions involving Indigenous Peoples and local communities include developing 
+community-based adaptation plans; implementing measures related to terrestrial and ocean 
+ecosystems,  food  security,  water  resources  and  disaster  risk  management;  and  using 
+indicators to monitor adaptation progress. Mitigation involving Indigenous Peoples and local 
+communities  include  measures  related  to  sustainable  waste  and  forestry  management, 
+mangrove  restoration,  low-carbon  maritime  transport,  solar-powered  irrigation  and  clean 
+cooking solutions. 
+
+3  ACE denotes work under Article 12 of the Paris Agreement. Its objective is to empower all members 
+
+of society to engage in climate action through education, training, public awareness, public 
+participation, public access to information and international cooperation on these matters (the six 
+ACE elements). Decision 1/CMA.5, para. 176, emphasized the importance of ACE for empowering 
+all members of society to engage in climate action and for the consideration of the outcomes of the 
+first GST. 
+
+8 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+20. 
+It  is  the  first  time  that  a  section  on  children  and  youth  has  featured  in  the  NDC 
+synthesis report. A total of 88 per cent of Parties in their new NDCs (compared with 61 per 
+cent in their previous NDCs) included information, generally more clearly and in more detail 
+than previously, reflecting a stronger commitment to meaningful inclusion, on how children 
+and youth have been or will be considered in NDC development and implementation, with 
+enhanced recognition of the role of children and youth as agents of change. 
+
+II.  Introduction 
+
+A.  Mandate and background  
+
+21. 
+In accordance with the Paris Agreement, each Party is to prepare, communicate and 
+maintain, every five years, successive NDCs that it intends to achieve and each successive 
+NDC  will  represent  progression  reflecting  the  Party’s  highest  possible  ambition  and  be 
+informed by the outcomes of the GST.4 The communicated NDCs are to be recorded in the 
+NDC registry, maintained by the secretariat. 
+
+22. 
+Further,  under  the  Paris  Agreement,  in  communicating  their  NDCs,  Parties  are  to 
+provide the information necessary for clarity, transparency and understanding in accordance 
+with decision 1/CP.21 and any relevant decisions of the CMA.5 
+
+23.  COP 21 decided that Parties shall submit their NDCs to the secretariat at least 9–12 
+months  in  advance  of  the  relevant  CMA  session  with  a  view  to  facilitating  the  clarity, 
+transparency and understanding of the NDCs, including through a synthesis report prepared 
+by the secretariat.6 
+
+24.  CMA  1  adopted  further  guidance  on  the  information  necessary  for  clarity, 
+transparency  and  understanding  of  NDC. 7  It  emphasized  that  the  guidance  is  without 
+prejudice to the inclusion of components other than information on mitigation in an NDC and 
+decided that, in communicating their second and subsequent NDCs, Parties shall provide the 
+information  necessary  for  clarity,  transparency  and  understanding  as  applicable  to  their 
+NDCs.8  
+
+25.  CMA 3 requested the secretariat to annually update the NDC synthesis report and to 
+make it available to the CMA at each of its sessions.9 
+
+26.  CMA  5,  reaffirming  the  nationally  determined  nature  of  NDCs  and  Article  4, 
+paragraph 4, of the Paris Agreement, encouraged Parties to come forward in their next NDCs 
+(2025) with ambitious, economy-wide emission reduction targets, covering all GHGs, sectors 
+and categories and aligned with limiting global warming to 1.5 °C, as informed by the latest 
+science,  in  the  light  of  different  national  circumstances.  It  also  encouraged  Parties  to 
+communicate  in  2025  their  NDCs  with  an  end  date  of  2035,  pursuant  to  paragraph  2  of 
+decision 6/CMA.3.10 
+
+4   Article 4, paras. 2, 3 and 9, of the Paris Agreement. 
+5  Article 4, para. 8, of the Paris Agreement.  
+6  Decision 1/CP.21, para. 25. 
+7  Decision 4/CMA.1, paras. 6–10. The information necessary for clarity, transparency and 
+
+understanding is contained in annex I to that decision. 
+
+8  Decision 4/CMA.1, paras. 7–8. 
+9  Decision 1/CMA.3, para. 30. 
+10  Decision 1/CMA.5, paras. 39 and 170.  
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+B.  Scope and approach 
+
+27. 
+This report synthesizes information from the 64 new NDCs, representing 64 Parties11 
+to  the  Paris  Agreement,  recorded  in  the  NDC  registry12 between  1  January  2024  and  30 
+September 2025.  
+
+The  guidance  on 
+
+28. 
+transparency  and 
+understanding  of  NDCs  was  used  as  a  general  framework  for  synthesizing  the  relevant 
+information  contained  in  the  communicated  NDCs, 13  which  was  supplemented  by  the 
+synthesis of other information included in the NDCs but not covered by the guidance. 
+
+information  necessary  for  clarity, 
+
+the 
+
+29. 
+This report covers information communicated by Parties in their new NDCs and the 
+synthesized  information  is  presented  for  all  those  Parties  taken  together.  It  also  provides, 
+where possible, a comparison between those Parties’ previous and new NDCs. 
+
+The approach to and methods for estimating projected emission levels resulting from 
+
+30. 
+NDC implementation are described in a separate technical document.14 
+
+III.  Overview of nationally determined contributions 
+
+The NDCs considered in this report cover about 30 per cent of total global emissions 
+
+31. 
+(excluding LULUCF) in 2019.  
+
+32.  A  total  of  91  per  cent  of  Parties  provided  the  information  necessary  for  clarity, 
+transparency and understanding of their NDCs in accordance with Article 4, paragraph 8, of 
+the Paris Agreement and paragraph 27 of decision 1/CP.21. 
+
+33. 
+Furthermore, all Parties provided other information, such as on policy frameworks, 
+gender,  children  and  youth,  Indigenous  Peoples  and  local  communities,  ACE,  non-Party 
+stakeholder  engagement,  international  cooperation,  outcomes  of  the  GST,  just  transition, 
+Article 6 of the Paris Agreement, forests, ocean, mitigation co-benefits, adaptation, domestic 
+mitigation measures, and means of implementation necessary for NDC implementation. The 
+relevant information is synthesized in the chapters below. 
+
+34.  All  Parties  communicated  in  their  NDCs  the  time  frame  and/or  period  of 
+implementation,  which  refers  to  a  time  in  the  future  by  or  in  which  an  objective  is  to  be 
+achieved.  A  total  of  89  per  cent  of  Parties  communicated  a  time  frame  and/or  period  of 
+implementation of until 2035, while 9 per cent of Parties specified periods of until 2030 and 
+2 per cent until 2041.  
+
+35.  All  Parties  prepared  their  NDCs  taking  into  account  their  unique  national 
+circumstances,  covering  factors  such  as  government  structure,  population  (i.e.  size  and 
+density),  economic  profile  (e.g.  export-oriented  or  reliant  on  international  trade),  climate 
+conditions  (e.g.  vulnerabilities  such  as  arid  environments,  water  scarcity  and  heat)  and 
+geographical characteristics (e.g. landlocked, mountainous, coastal and archipelagic profiles).  
+
+11    Andorra, Angola, Australia, Bangladesh, Barbados, Belize, Bolivia (Plurinational State of), 
+
+Botswana, Brazil, Cambodia, Canada, Chile, Colombia, Cuba, Ecuador, Eswatini, Ethiopia, Holy See, 
+Iceland, Jamaica, Japan, Kenya, Lebanon, Lesotho, Liberia, Liechtenstein, Madagascar, Maldives, 
+Marshall Islands, Mauritius, Micronesia (Federated States of), Monaco, Mongolia, Montenegro, 
+Morocco, Namibia, Nepal, New Zealand, Nicaragua, Nigeria, Niue, Norway, Pakistan, Panama, 
+Republic of Moldova, Russian Federation, Saint Lucia, Sao Tome and Principe, Serbia, Seychelles, 
+Singapore, Solomon Islands, Somalia, Sri Lanka, Switzerland, Tonga, Tuvalu, United Arab Emirates, 
+United Kingdom of Great Britain and Northern Ireland, United States of America, Uruguay, Vanuatu, 
+Zambia and Zimbabwe. The list of the NDCs considered in this report follows the approach taken by 
+the PAICC in relation to the communication of NDCs; see the report on the 15th meeting of the 
+PAICC (PAICC/2025/M15/3), available at https://unfccc.int/PAICC. 
+
+12  Available at https://unfccc.int/NDCREG.  
+13  As per decision 1/CP.21, para. 25.  
+14  Available at https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-
+
+contributions-ndcs/2025-ndc-synthesis-report.  
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+36. 
+In addition, 67 per cent of Parties highlighted contextual aspirations and priority areas 
+in relation to NDC preparation and implementation, such as maximizing synergies between 
+short- and long-term climate commitments and the SDGs; facilitating adaptation and climate-
+resilient development; facilitating international cooperation among Parties and international 
+organizations  for  the  provision  of  financial,  technological  and  capacity-building  support; 
+deploying low-emission technologies to drive emission reduction; safeguarding food security 
+and  human  health  and  eradicating  poverty;  involving  youth,  local  governments  and 
+communities  and  Indigenous  Peoples  in  a  gender-responsive  and  human  rights-based 
+approach;  ensuring  just  transition  of  the  workforce;  promoting  social  and  climate  justice, 
+circular economy and integrated resource management; ensuring the ecological integrity of 
+ecosystems, oceans and blue carbon; reducing the risk of disasters; and reducing the impacts 
+of loss and damage associated with climate change. 
+
+37.  All Parties explained how they consider their NDCs to be fair and ambitious in the 
+light of their national circumstances. Frequently highlighted elements include Parties’ efforts 
+to reduce emissions despite considering their own responsibility for causing climate change 
+to be limited owing to their low share in either current or historical global emissions, limited 
+financial  resources  and  technical  capacity,  the  need  to  address  other  socioeconomic  and 
+sustainable  development  priorities  such  as  poverty  eradication,  and  the  need  to  prioritize 
+adaptation efforts because of high vulnerability to the adverse impacts of climate change.  
+
+38.  A total of 48 per cent of Parties framed fairness consideration in the context of their 
+past, current and future share in global emissions and per capita emissions compared with 
+global  averages.  Other  aspects  of  fairness  described  by  Parties  include  the  decoupling  of 
+economic development from emission growth; climate justice; mitigation potential; cost of 
+mitigation actions; and degree of progression15 beyond the current level of effort. 
+
+39.  All Parties included information on how their NDCs represent progression and their 
+highest possible ambition. This progression is demonstrated by setting more ambitious and 
+comprehensive  targets,  expanding  sectoral  and  gas  coverage,  strengthening  policy  and 
+legislative frameworks, and aligning  targets  with scientific recommendations and national 
+circumstances.  The  enhanced  emission  reduction  targets  are  aligned  with  the  long-term 
+objective of achieving net zero emissions by 2050. Building on existing policies, measures 
+and investments, new commitments relating to adaptation and addressing loss and damage 
+have been introduced, setting a pathway towards a resilient, net zero society by 2050.  
+
+40.  Meanwhile, 33 per cent of Parties provided information on ambition by linking their 
+NDCs  to  their  commitment  to  transition  to  a  sustainable  and/or  low-carbon  and  resilient 
+economy; 13 per cent expressed that they have incorporated their NDC goals and policies 
+into  national  legislative,  regulatory  and  planning  processes  as  a  means  of  ensuring 
+implementation; and 11 per cent addressed ambition in the context of the inclusive design of 
+their  NDCs,  considering  various  cross-cutting  aspects,  such  as  investment  plans,  gender-
+responsiveness, education and just transition. 
+
+41. 
+Further, 41 per cent of Parties stated that their NDCs are in line with the long-term 
+goals  of  the  Paris  Agreement  or  with  the  mitigation  pathways  towards  limiting  global 
+warming to well below 2 or 1.5 °C above pre-industrial levels.  
+
+IV.  Cross-cutting elements, including planning and 
+
+implementation processes, in nationally determined 
+contributions 
+
+42.  A total of 98 per cent of Parties indicated that domestic institutional arrangements are 
+a key element of coordinating, planning and implementing climate change policy and action 
+at the national and international level. Most of them referred to specific arrangements in place 
+for NDC preparation, such as inter-institutional commissions, councils and committees, led 
+
+15  In this report, “progression” refers to the difference between the estimated emission levels associated 
+with the implementation of Parties’ NDCs communicated to the secretariat by 31 December 2023 and 
+those according to the NDCs recorded in the NDC registry between 1 January 2024 and 30 September 
+2025.  
+
+11 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+by a designated entity with a coordination role and including members from public entities, 
+the private sector, non-governmental organizations and/or academia. 
+
+A.  Policy frameworks, climate laws and governance mechanisms 
+
+1.  Legal and policy frameworks 
+
+43.  A  total  of  97  per  cent  of  Parties  provided  information  on  the  legal  and  policy 
+frameworks  that  facilitate  the  implementation  of  their  NDCs.  Some  8  per  cent  of  Parties 
+reported  that  their  national  constitutions  provide  the  overarching  legal  basis  or  guiding 
+framework  for  national  climate  action;  and  41  per  cent  pointed  to  the  adoption  of 
+comprehensive climate change acts, laws or decrees that establish the legal framework  for 
+NDC implementation. In addition, 39 per cent of Parties referred to their national climate 
+change  policies  and  41  per  cent  to  their  national  climate  change  strategies  and  plans  as 
+important instruments for supporting NDC implementation. 
+
+44.  Regarding mitigation measures, 17 per cent of Parties cited national acts or decrees 
+specifically addressing mitigation and 19 per cent referred to their national climate change 
+mitigation strategies, policies or plans. A total of 33 per cent of Parties highlighted their low 
+greenhouse gas emission strategies or plans and how these policy instruments inform their 
+NDCs, while 14 per cent reported having net zero emission legislation or strategies in place 
+and 17 per cent provided information on laws or policies establishing mitigation mechanisms, 
+such as national carbon markets, carbon budgets and carbon trading schemes. 
+
+45.  With respect to adaptation measures, 41 per cent of Parties reported having national 
+climate  change  adaptation  plans,  while  17  per  cent  indicated  that  such  plans  are  under 
+development. In addition, 20 per cent of Parties referred to national climate change adaptation 
+programmes,  strategies  or  policies  and  16  per  cent  mentioned  climate  change  adaptation 
+strategies or plans specific to different sectors. Legal instruments addressing adaptation and 
+climate change were reported by 5 per cent of Parties. 
+
+46.  A  total  of  94  per  cent  of  Parties  reported  on  legal  and  policy  instruments  that 
+contribute to the implementation of their NDCs in key sectors such as energy, environment, 
+water, waste, agriculture and food security, forestry, disaster risk reduction and management, 
+health, urban and spatial planning, transport, and buildings, construction and infrastructure 
+(see figure 1). 
+
+47.  A total of 69 per cent of Parties referred to energy-related legal and policy frameworks 
+that  contribute  to  the  implementation  of  their  NDCs.  These  frameworks  include  both 
+overarching  instruments  and specific  laws  and  policies,  for  example  on  energy  transition, 
+renewable energy, energy efficiency and electrification. Information on environment-related 
+legal and policy instruments with climate change components was provided by 77 per cent 
+of  Parties.  These  instruments  include  general  environmental  legislation  as  well  as  sector-
+specific frameworks primarily related to biodiversity, coastal zones, oceans and pollution. 
+
+48.  Water-related  legal  and policy frameworks were reported by  33 per cent of Parties 
+and waste-related legal and policy frameworks by 38 per cent of Parties as contributing to 
+the implementation of their NDCs. In addition, 41 per cent of Parties reported on legal and 
+policy frameworks related to agriculture and food security and 44 per cent on forestry-related 
+legal and policy frameworks, of which 32 per cent specifically referred to national REDD+ 
+strategies as instrumental in supporting NDC implementation. Legal and policy frameworks 
+pertaining  to  disaster  risk  reduction  and  management  were  highlighted  by  34  per  cent  of 
+Parties as supporting NDC implementation.  
+
+49.  A total of 13 per cent of Parties reported legislative and policy instruments addressing 
+health,  28  per  cent  highlighted  legislation,  strategies  and  policies  related  to  transport, 
+including  decarbonization,  13  per  cent  of  Parties  mentioned  legal  and  policy  frameworks 
+related  to  urban  and  spatial  planning,  13  per  cent  of  Parties  referred  to  circular  economy 
+instruments and 25 per cent of Parties reported legislation, policies and strategies related to 
+buildings, construction and infrastructure. These were all noted as contributing to the broader 
+legal and policy frameworks underpinning NDC implementation. 
+
+12 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+Figure 1 
+Share of Parties that reported legal and policy instruments that contribute to the 
+implementation of their nationally determined contributions by key sector 
+
+Circular economy, 13%
+
+Buildings, construction and 
+infrastructure, 25%
+
+Urban and spatial 
+planning, 13%
+
+Transport, 28%
+
+Health, 13%
+
+Disaster risk 
+reduction and 
+management, 34%
+
+Forestry, 44%
+
+Energy, 69%
+
+Environment, 
+77%
+
+Agriculture and 
+food security, 
+41%
+
+Water, 33%
+
+Waste, 38%
+
+50.  Climate  change  considerations  have  been 
+incorporated  within  sustainable 
+development related frameworks. For instance, 47 per cent of Parties highlighted sustainable 
+development legislation, agendas, strategies and plans as instruments for aligning national 
+development priorities with climate change action, thereby supporting NDC implementation, 
+and 22 per cent referred to economic and financial instruments as part of the legal and policy 
+frameworks supporting NDC implementation. 
+
+2.  Governance mechanisms 
+
+51.  A  total  of  94  per  cent  of  Parties  provided  information  on  their  processes  for 
+coordinating the preparation or update of their NDCs. Of those Parties, 98 per cent identified 
+the  specific  arrangements  in  place  for  NDC  preparation,  such  as  inter-institutional 
+commissions,  councils  and  committees,  led  by  interministerial  designated  entities  with 
+coordination  roles  and  including  members  from  public  entities,  the  private  sector,  non-
+governmental organizations and/or academia. As for NDC implementation specifically, 86 
+per cent of Parties reflected a strong reliance on national governance structures, including 
+interministerial committees, local entities, councils and sectoral coordination bodies. 
+
+3. 
+
+Stakeholder consultation mechanisms 
+
+52.  A total of 95 per cent of Parties referred to formal arrangements in place for consulting 
+stakeholders, including the general public, local communities, Indigenous Peoples, private 
+entities,  business  and  trade  associations,  civil  society  organizations,  youth  associations, 
+women’s associations, regional development partners, academia, and research communities. 
+Of those Parties, 67 per cent indicated that they conducted such consultation and engagement 
+processes  in  an  inclusive  and  participatory  manner,  with  such  processes  including  the 
+establishment  of  committees  or  councils;  the  use  of  legal  instruments  like  national  laws, 
+decrees  and  acts;  the  deployment  of  digital  platforms;  government-led  online  stakeholder 
+engagement with a structured submission process; multi-stakeholder consultations through 
+co-creation workshops, bilateral meetings and public hearings; and mandated parliamentary 
+consent or legislative hearings for NDC adoption. 
+
+4.  Measurement, reporting and verification systems 
+
+53.  A total of 92 per cent of Parties provided information on their domestic MRV systems, 
+of which 34 per cent indicated that the systems are under development, planned for future 
+
+13 
+
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+development or partially operational and 29 per cent reported that the systems are operational 
+and being revamped or enhanced. Of these 92 per cent of Parties, 80 per cent directly linked 
+the MRV systems to the processes for preparing or updating their national GHG inventories 
+and BTRs or for meeting other reporting requirements under the ETF.  
+
+54.  A  total  of  75 per  cent of  Parties  provided  information  on  the  formal processes  for 
+tracking the progress of NDC implementation and achievement, including structured tracking 
+mechanisms such as MRV systems or institutional arrangements as well as legal and policy 
+frameworks. Of those Parties, 38 per cent referred to legal and policy frameworks in place or 
+under development for supporting tracking efforts and 42 per cent reported that their existing 
+tracking mechanisms are being enhanced. Additionally, among these 75 per cent of Parties, 
+40  per  cent  indicated  plans  to  periodically  review,  update  and  revise  their  tracking 
+mechanisms, which include national MRV frameworks, monitoring and evaluation systems, 
+climate observatories and digital platforms for data collection and analysis. 
+
+B.  Gender 
+
+55.  A total of 89 per cent of Parties provided information related to gender and  80 per 
+cent affirmed that they will take gender into account in implementing their NDCs. 
+
+56.  While 73 per cent of Parties referred to relevant policies and legislation, 83 per cent 
+affirmed a general commitment to gender equality. Others also included information on how 
+gender had been or was planned to be mainstreamed in NDC implementation; for instance, 
+66 per cent of Parties reported the use of specific tools and methods, such as gender analyses, 
+gender indicators, gender-disaggregated data and gender-responsive budgeting. 
+
+57.  Overall, 61 per cent of Parties referred to their planned gender-responsive and 30 per 
+cent  to  gender-sensitive  climate  action  or  generally  elaborated  on  gender  aspects  in  the 
+context of specific sectors or areas, including just transition, agriculture, energy, health, water, 
+LULUCF, disaster risk reduction, waste,  industry, water, sanitation and hygiene, transport 
+and education. 
+
+58.  Meanwhile, 58 per cent of Parties highlighted the importance of providing capacity-
+building,  finance  and  technology  for  gender-specific  action  and  of  these  means  of 
+implementation being gender-responsive. 
+
+59. 
+In  addition,  44  per  cent  of  Parties  implicitly  or  explicitly  considered  gender  as  it 
+intersects  with  other  social  factors;  72  per  cent  explicitly  considered  specific  gender-
+differentiated needs and perspectives and gender-differentiated impacts of and contributions 
+to climate change and climate action; 72 per cent framed women as being vulnerable; 53 per 
+cent framed women as stakeholders or agents of change; and 13 per cent explicitly considered 
+people of other genders. 
+
+60. 
+Parties  are  increasingly  considering  gender  in  their  NDCs  and  recognizing  gender 
+integration as a means of increasing the ambition and effectiveness of their climate action. A 
+greater share of Parties referred to gender in the new NDCs compared with in their previous 
+NDCs and the share of Parties considering gender as a cross-cutting issue has also risen (see 
+figure 2). 
+
+61.  Of the Parties that considered gender, 42 per cent elaborated more on the topic in their 
+new than in their previous NDCs, 16 per cent had previously not included any reference to 
+gender  in  their  NDCs  and  40  per  cent  considered  gender  to  a  similar  or decreased  extent 
+compared with previously. 
+
+62.  A total of 13 per cent of Parties considered the outcomes of the first GST as they relate 
+to gender. For instance, three Parties presented information on the implementation of climate 
+policy and action that is gender-responsive and fully respects human rights. 
+
+14 
+
+ 
+Figure 2 
+Reference to gender in nationally determined contributions 
+
+FCCC/PA/CMA/2025/8 
+
+33%
+
+50%
+
+Cross-cutting
+
+Focus: adaptation
+
+Focus: mitigation
+
+5%
+
+3%
+
+17%
+17%
+
+8%
+
+2%
+
+2%
+2%
+
+Adaptation
+
+Mitigation
+
+Not clear
+
+13%
+
+16%
+
+No reference
+
+11%
+
+23%
+
+Previous NDCs
+
+New NDCs
+
+C.  Children and youth 
+
+63. 
+In  total,  52  per  cent  of  Parties  referred  to  the  disproportionate  impacts  of  climate 
+change on children and youth, with 27 per cent highlighting the heightened vulnerabilities of 
+girls in this context in particular. It was noted that children and youth face higher risks from 
+the direct and indirect impacts of climate change as a result of their limited adaptive capacity 
+as well as limited access to information, resources and decision-making processes, with 30 
+per  cent  of  Parties  mentioning  specific  measures  to  strengthen  the  climate  resilience  and 
+promote a just transition of children and youth, particularly through targeted action on health, 
+education  (see  para. 72  below),  food  security,  water,  sanitation  and  hygiene,  disaster  risk 
+reduction and social protection. 
+
+64.  A total of 88 per cent of Parties (compared with 61 per cent in their previous NDCs) 
+included  information,  generally  more  clearly  and  in  more  detail  than  previously,  on  how 
+children and youth have been or will be considered in NDC development and implementation, 
+with enhanced recognition of the role of children and youth as agents of change.16 Of those 
+Parties, 79 per cent set out their vision and priorities for engaging and empowering children 
+and youth to contribute to climate action, 77 per cent put forward specific measures to involve 
+them  in  the  implementation  of  climate  policies  and  action  (e.g.  awareness-raising  and 
+capacity-building  activities,  support  for  youth-led  initiatives  and  innovations,  child-  and 
+youth-inclusive  decision-making  processes,  and  collection  of  age-disaggregated  data  in 
+relation to climate change) and 57 per cent explicitly mentioned that they engaged children 
+and youth in developing their NDCs. 
+
+D. 
+
+Indigenous Peoples and local communities 
+
+65.  A total of 72 per cent of Parties reported an increased focus on the role of Indigenous 
+Peoples  and  local  communities  in  climate  action  (6  per  cent  more  than  in  their  previous 
+NDCs), with 52 per cent including information on the involvement of Indigenous Peoples 
+and  local  communities  in  national-level  policymaking,  including  in  NDC  preparation, 
+
+16  In decision 1/CMA.5, para. 178, CMA 5 encouraged Parties to implement climate policy and action 
+
+that empowers youth and children, which was explicitly referred to by 3 per cent of Parties. 
+
+15 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+through consultations on sectoral proposals, risk assessments and application of traditional, 
+Indigenous and local knowledge, compared with 30 per cent of Parties previously.  
+
+66.  Overall, 41 per cent of Parties emphasized the vulnerabilities of Indigenous Peoples 
+and local communities, particularly owing to their reliance on natural resources and risk of 
+poverty,  compared  with  27  per  cent  previously.  The  benefits  of  applying  traditional 
+knowledge and knowledge of Indigenous Peoples and local communities in adaptation and 
+mitigation  efforts  were  highlighted  by  44  per  cent  of  Parties,  compared  with  31  per  cent 
+previously.  Parties  also  stressed  the  importance  of  combining  traditional  and  modern 
+practices  while  ensuring  the  participation  and  leadership  of  Indigenous  Peoples  and  local 
+communities in climate efforts. 
+
+67.  Meanwhile, 64 per cent of Parties provided examples of adaptation action design and 
+implementation efforts by and for Indigenous Peoples and local communities, up from 53 per 
+cent in their previous NDCs. The examples include developing community-based adaptation 
+plans; formulating and implementing adaptation measures, particularly relating to terrestrial 
+and  ocean  ecosystems,  food  security  and  nutrition,  water  resources  and  disaster  risk 
+management; and using quantified targets and indicators focused on Indigenous Peoples and 
+local communities for monitoring and evaluating adaptation progress.  
+
+68. 
+Further,  47  per  cent  of  Parties  described  mitigation  efforts  undertaken  by  and  for 
+Indigenous  Peoples  and  local  communities,  up  from  23  per  cent  in  their  previous  NDCs, 
+which include the development and implementation of sustainable waste management and 
+forestry plans, mangrove afforestation strategies, low-carbon maritime transport plans, solar-
+powered irrigation efforts and clean cooking solutions.  
+
+69. 
+In addition, 20 per cent of Parties outlined the need for increased financial resources, 
+capacity-building and technology for Indigenous Peoples and local communities, compared 
+with 16 per cent in their previous NDCs. 
+
+E.  Action for Climate Empowerment17 
+
+70.  All  Parties  provided  information  on  using  at  least  one  ACE  element  to  promote 
+implementation  of  mitigation  and  adaptation  activities,  generally  communicating  more 
+clearly, and in more detail, than in previous NDCs on general principles, past achievements, 
+future commitments, and needs and gaps in relation to ACE. 
+
+71. 
+In total, 22 per cent of Parties referred to ACE as a necessary means of mobilizing 
+and empowering society to deliver the mitigation and adaptation objectives outlined in their 
+NDCs,  including  by  upholding  ACE  as  a  guiding  principle  and  cross-cutting  priority  for 
+climate  policies  and  action,  developing  and  implementing  national  ACE  strategies,  and 
+incorporating ACE and its elements into general and sectoral climate policies and plans. 
+
+72.  A total of 78 per cent of Parties, up from 55 per cent in their previous NDCs, reported 
+on climate change education measures aimed at equipping learners with the knowledge, skills, 
+attitudes and values necessary to contribute to climate action. Measures include establishing 
+laws and policies to ensure the provision of climate change education, updating curricula to 
+ensure coverage of climate change topics at all levels of education, implementing climate-
+focused educational programmes and activities, making schools and educational institutions 
+more low-carbon and climate-resilient, and providing training and resources for teachers and 
+educators.  Compared  with  in  their  previous  NDCs,  Parties’  focus  on  strengthening  the 
+resilience  of  the  education  system,  thus  minimizing  education  disruption  in  the  face  of 
+climate-related shocks, was increased in their new NDCs. 
+
+73.  A total of 84 per cent of Parties reported on efforts to raise public awareness of climate 
+change  with  a  view  to  fostering  changes  in  behaviour  and  lifestyle  and  enhancing  the 
+effectiveness of climate policies and action, compared with 64 per cent, and generally in more 
+detail than, in the previous NDCs. Measures include developing dedicated communication 
+strategies and plans, identifying awareness-raising as a key pillar of climate policies, plans 
+and strategies, conducting public awareness campaigns at all levels, and applying awareness-
+
+17   As footnote 3 above. 
+
+16 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+raising measures for specific sectors, most commonly energy, health, agriculture, fisheries, 
+forestry and waste.  
+
+74. 
+In  addition,  80  per  cent  of  Parties,  up  from  55  per  cent  in  their  previous  NDCs, 
+provided  information  on  training  measures,  with  an  increasing  emphasis  on  the  skilling, 
+reskilling and upskilling of the population in the context of achieving  a just transition and 
+promoting  the  uptake  of  green  jobs.  Measures  to  build  the  skills  and  capacity  of  diverse 
+stakeholders for implementing climate mitigation and adaptation action include integrating 
+climate change into training programmes for government officials and other stakeholders in 
+both the public and the private sector, and using training as a sector-specific mitigation and 
+adaptation  measure,  particularly  in  the  agriculture,  energy,  fisheries,  forestry,  health  and 
+disaster risk reduction sectors.  
+
+75.  As regards public participation, 95 per cent of Parties (compared with 88 per cent in 
+their previous NDCs) indicated, generally more clearly and in more detail than previously, 
+that  this  is  key  to  applying  a  whole-of-society  approach  to  effective,  ambitious  climate 
+decision-making  and  action.  In  particular,  Parties  presented  information  on  inclusive  and 
+participatory  processes  undertaken  to  involve  diverse  stakeholders,  including  the  general 
+public, in developing, implementing, monitoring and evaluating climate policies and plans.18 
+A  total  of  61  per  cent  of  Parties  highlighted  support  provided  for  community-based  and 
+locally  led  climate  action,  thus  enabling  local  communities  and  organizations  to  play key 
+roles in planning and implementing climate action and enhancing their capacities to respond 
+to climate change. 
+
+76. 
+Further,  66  per  cent  of  Parties  reported  on  public  access  to  information,  aimed  at 
+ensuring transparency of and accountability for climate policies and action, compared with 
+41 per cent in their previous NDCs. Measures include upholding public access to information 
+as a principle in and priority of climate decision-making and action in order to increase public 
+awareness and the engagement of diverse stakeholders, and developing databases, websites 
+and systems to facilitate open access to reliable, robust and up-to-date climate information 
+and  data.  Also,  25  per  cent  of  Parties  are  using  labelling  to  inform  consumers  about  the 
+sustainability of products and services. 
+
+F.  Broad non-Party stakeholder engagement and voluntary efforts to 
+
+support climate action 
+
+77.  A total of 98 per cent of Parties highlighted the engagement of non-Party stakeholders 
+in  NDC  preparation  and/or  implementation,  reflecting  their  importance  therein,  compared 
+with 91 per cent of Parties in their previous NDCs. Similarly, 95 per cent of Parties reported 
+engagement  of  non-Party  stakeholders  specifically  in  NDC  implementation  –  20  per  cent 
+more than in their previous NDCs. Subnational entities, private sector stakeholders and civil 
+society were frequently cited. Parties reported involving these stakeholders across mitigation, 
+adaptation  and  means  of  implementation.  The  level  of  detail  varied  from  general 
+acknowledgements of their role in NDC design and delivery to comprehensive descriptions 
+of their contributions to accelerating climate action.19 In their new NDCs, Parties provided 
+greater  detail  than  previously  on  the  roles  and  contributions  of  non-Party  stakeholders  in 
+relation  to  climate  action,  generally  engaging  a  broader  range  of  actors.  Parties  are 
+increasingly  shifting  from  broad  consultations  with  non-Party  stakeholders  towards  more 
+structured, multi-stakeholder implementation, with defined roles for subnational entities, the 
+private sector as co-implementer and financier, and civil society as a catalyst for awareness 
+and inclusivity. 
+
+78.  Overall, 80 per cent of Parties referenced subnational entities, an increase of 19 per 
+cent compared with their previous NDCs, with 63 per cent of Parties recognizing them as 
+partners in planning, implementing and monitoring climate action, in some cases having their 
+
+18  See para. 52 above for more information on stakeholder consultation mechanisms with regard to NDC 
+
+development, including the relevant institutional arrangements. 
+
+19  See paras. 51 and 52 above on governance mechanisms and stakeholder consultation mechanisms 
+respectively, which include information on the involvement of non-Party stakeholders in NDC 
+development. 
+
+17 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+roles defined through frameworks that enable them to undertake local planning activities and 
+implementation. A total of 69 per cent of Parties mentioned consultative processes involving 
+subnational entities in NDC and adaptation planning as well as embedding national climate 
+targets  into  regional  and  local  plans  for  coherent  and  multi-stakeholder  implementation. 
+Further, 42 per cent of Parties emphasized the importance of capacity-building, financial and 
+technical support for subnational  entities in  climate  action, and  mentioned providing such 
+support.  Climate  action  undertaken  by  subnational  entities  was  reported  across  multiple 
+sectors,  including  energy,  transport,  agriculture,  water,  ocean  and  coastal  zones,  waste 
+management, buildings and urban planning, health, biodiversity, industry and tourism. 
+
+79.  A  total  of  92  per  cent of  Parties  referred  to  involving  the  private  sector,  including 
+businesses and industry stakeholders, in NDC preparation and implementation, with 86 per 
+cent of Parties (15 per cent more than in their previous NDCs) emphasizing its role in climate 
+action. This role was reported as including co-developing and delivering renewable energy 
+and  energy  efficiency programmes,  driving  industrial  and  sectoral  decarbonization  efforts 
+and  implementing  adaptation measures  in  areas  such  as  water  supply,  agriculture,  coastal 
+protection  and  tourism.  Further,  67  per  cent of  Parties  highlighted  enabling  environments 
+such as policies or incentives to guide businesses in NDC implementation, with 19 per cent 
+of  Parties  specifically  mentioning  national  or  sectoral  road  maps  and  strategies  for  this 
+purpose.  In  addition,  31  per  cent  of  Parties  reported  using  public–private  partnerships  as 
+delivery models for operationalizing the aforementioned measures. Meanwhile, 11 per cent 
+of Parties mentioned disclosure or reporting frameworks for aligning business practices with 
+climate objectives. A total of 42 per cent of Parties underscored the private sector’s role in 
+innovation, including the development, transfer and deployment of low-carbon technology, 
+with 22 per cent of Parties specifically noting micro-, small and medium-sized enterprises, 
+start-ups and entrepreneurs as drivers of low-carbon development, innovation and green job 
+creation. Further, 34 per cent of Parties referred to capacity-building of the private sector to 
+enhance  its  ability  to  implement  climate  action,  and  capacity-building  delivered  by  the 
+private sector, including through public–private collaboration. 
+
+80.  A  total  of  75  per  cent  of  Parties  (20  per  cent  more  than  in  their  previous  NDCs) 
+referenced the mobilization of private finance, including the role of financial institutions such 
+as investors, banks and insurers, for implementing NDCs. A total of 70 per cent of Parties 
+reported  efforts  to  mobilize  private  investment  through  financial  mechanisms  and 
+instruments such as blended-finance schemes or green bonds, while citing the use of risk-
+sharing and risk-transfer mechanisms for addressing adaptation. Meanwhile, 64 per cent of 
+Parties reported creating or strengthening enabling environments to crowd in private capital 
+to  finance  climate  action,  including  through  national or  sectoral  investment plans,  project 
+pipelines, green taxonomies and fiscal or regulatory incentives.20 Private sector investment 
+was  most  frequently  referred  to  in  relation  to  climate  action  in  the  areas  of  energy, 
+infrastructure and urban development, agriculture, industry, water, ocean and coastal zones, 
+and  waste  management,  with  increasing  private  sector  investment  also  in  adaptation  and 
+resilience-building.  
+
+81.  A total of 94 per cent of Parties reported engaging civil society,21 including academia, 
+in  NDC  design  and  implementation  for,  among  others,  policy  formulation,  technical  and 
+scientific  analysis,  capacity-building  and  monitoring.  A  total  of  63  per  cent  of  Parties 
+reported that civil society actors help to raise awareness of climate change and its impacts, 
+promote inclusivity and support the implementation of mitigation, adaptation and loss and 
+damage  measures.  Some  36  per  cent  of  Parties  recognized  the  role  of  civil  society  in 
+advancing just transition and climate  justice, while 22 per  cent of Parties  mentioned civil 
+society actors as partners in mobilizing support for local climate action, including through 
+resource  mobilization,  community-level  project  implementation,  and  efforts  to  improve 
+access to capacity and funding opportunities. Meanwhile, 55 per cent of Parties highlighted 
+the role of academic institutions in climate and sectoral modelling, data provision and training 
+
+20  See chap. VIII below for related information, including para. 185 below on carbon markets under 
+
+Article 6 of the Paris Agreement often linked by Parties to the private sector and para. 188(c) below 
+on difficulties in mobilizing private finance.  
+
+21  See chap. IV.B–E above on gender, children and youth, Indigenous Peoples and local communities, 
+
+and ACE for related information.  
+
+18 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+on  climate  change  related  technical  skills,  often  through  national  knowledge  hubs  or 
+partnerships  with  international  networks.  Further,  36  per  cent  of  Parties  described  how 
+academic institutions can help to bridge the gaps between government, science and society, 
+ensuring that climate policies are informed by local realities and scientific evidence. 
+
+82.  A total of 56 per cent of Parties reported participating in international voluntary efforts, 
+initiatives and coalitions as means of scaling up and implementing climate action, mobilizing 
+resources and advancing NDC implementation,22 all of which involve non-Party stakeholders. 
+Some  22  per  cent  of  Parties  described  non-Party  stakeholder  participation  in  domestic 
+initiatives focusing on forest protection and restoration, marine protection, decarbonization 
+and emission management, among other areas. Further, 6 per cent of Parties referred to the 
+Marrakech Partnership for Global Climate Action, under the leadership of the climate high-
+level  champions,  or  to  their  products,  tools  and  campaigns  launched  to  scale  up  and 
+strengthen voluntary efforts, initiatives and coalitions. 
+
+83.  A total of 25 per cent of Parties described the role of non-Party stakeholders in the 
+context of the outcomes of the first GST, with 9 per cent of Parties highlighting partnerships 
+with the private sector, research institutions and local communities for advancing measures 
+related  to  renewable  energy,  zero-  and  low-emission  technologies,  and  energy  efficiency. 
+Some  5  per  cent  of  Parties  mentioned  deforestation  reduction,  forest  restoration  and 
+biodiversity protection as priority areas for action, often involving agribusiness leaders, local 
+governments  and  international  partners  in  joint  initiatives;  while  11  per  cent  of  Parties 
+underscored  the  importance  of  engaging  non-Party  stakeholders  for  inclusive  climate 
+governance, responding to the outcome of the first GST emphasizing the need for whole-of-
+society engagement in climate action. 
+
+G. 
+
+International cooperation 
+
+84.  A  total  of  97  per  cent  of  Parties  expressed  their  intention  to  pursue  international 
+cooperation in strengthening their climate action with a view to achieving their NDCs and 
+the goals of the Paris Agreement. They indicated the importance of international cooperation 
+for mobilizing resources, exchanging views, information and good practices, and promoting 
+an international system that enables cooperation and sustainable development. Various areas 
+of  international  cooperation  were  described  in  the  NDCs,  including  with  regard  to  NDC 
+preparation  and  implementation;  sectoral  mitigation  and  adaptation  measures;  voluntary 
+initiatives for supporting climate action; regional cooperation; MRV of GHG emissions and 
+removals; measures for addressing loss and damage; finance, technology development and 
+transfer, and capacity-building support and voluntary cooperation under Article 6 of the Paris 
+Agreement (see figure 3).23  
+
+22  See chap. IV.G, including para. 88 below for more information on international voluntary initiatives.  
+23   See chap. VIII below for more information on finance, technology development and transfer, and 
+capacity-building support and chap. IV.J on voluntary cooperation under Article 6 of the Paris 
+Agreement below. 
+
+19 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+Figure 3 
+Shares of Parties referring to areas of international cooperation in their nationally 
+determined contributions 
+
+72%
+
+58%
+
+44%
+
+41%
+
+39%
+
+NDC implementation
+
+Voluntary initiatives
+
+Regional cooperation
+
+Energy
+
+NDC preparation
+
+GHG data MRV
+
+Agriculture
+
+Forestry
+
+Waste
+
+Water
+
+19%
+
+17%
+
+17%
+
+13%
+
+13%
+
+85.  A total of 72 per cent of Parties highlighted that international cooperation is critical 
+for  fully  implementing  NDCs,  particularly  with  regard  to  climate  finance,  technology 
+development and transfer, and capacity-building support. They emphasized the importance 
+of  strengthening  partnerships  and  support  to  bridge  the  gap  between  NDC  ambition  and 
+implementation. 
+
+86.  A  total  of  39  per  cent  of  Parties  reported  the  support  received  and  provided  for 
+preparing  NDCs,  often  involving  extensive  collaboration  with  international  partners, 
+including  through  technical  assistance,  capacity-building  and  financial  contributions, 
+enabling the conduct of stakeholder consultations and sectoral studies, the development of 
+GHG inventories and the strengthening of MRV systems.  
+
+87.  Overall, 52 per cent of Parties described engaging in international cooperation in key 
+sectors  such  as  energy,  agriculture,  forestry,  health,  water  and  waste  management  to 
+accelerate sector-specific decarbonization, enhance climate resilience and address adaptation 
+priorities. Such cooperation focuses on, for example, expanding renewable energy generation; 
+improving  energy  efficiency;  promoting 
+implementation  of 
+technologies such as low-carbon hydrogen, CCUS and ocean thermal energy; engaging in 
+cross-border  electricity  trading;  climate-smart  agriculture;  REDD+;  sustainable  land  and 
+forest  management;  protecting  marine  and  coastal  ecosystems;  sustainable  water 
+management; and developing climate-resilient infrastructure. 
+
+the  development  and 
+
+88.  A  total  of  56  per  cent of  Parties  reported  participating  in voluntary  initiatives  as  a 
+means of scaling up and implementing climate action, mobilizing resources and advancing 
+NDC implementation.24 These initiatives are aimed, for example, at reducing CH4 emissions 
+and other short-lived climate pollutants, accelerating energy transitions from fossil fuel use, 
+promoting  renewable  energy, 
+improving  energy  efficiency  of  cooling,  enhancing 
+collaboration between national and subnational governments on climate actions, advancing 
+regional  cooperation  on  addressing  climate  change,  and  restoring  forests  and  landscapes. 
+Participation  in  these  initiatives  was  reported  as  enabling Parties  to  share  knowledge  and 
+coordinate  action  beyond  national  efforts,  thereby  complementing  formal  multilateral 
+processes and creating additional momentum for achieving the goals of the Paris Agreement. 
+
+24  See chap. IV.F on broad non-Party stakeholder engagement and voluntary efforts to support climate 
+action above for more information on voluntary initiatives in the context of non-Party stakeholder 
+engagement. 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+89.  A total of 66 per cent of Parties reported on collaboration with international partners, 
+including  a  number  of  United  Nations  agencies,  multilateral  development  banks,  bilateral 
+donors, partner countries, development agencies, technical institutions and regional partners, 
+in advancing their climate  action and NDCs. The areas of collaboration  include preparing 
+NDCs,  identifying  priority  measures,  implementing  mitigation  and  adaptation  projects, 
+including those at the sectoral level, and  involving children, youth and women in climate 
+action. Partners mentioned in several NDCs include  the  German Agency for International 
+Cooperation,  the  Food  and  Agriculture  Organization  of  the  United  Nations,  the  Green 
+Climate Fund, the Global Environment Facility, the  NDC Partnership, the United Nations 
+Children’s Fund, the United Nations Development Programme, the United Nations Entity for 
+Gender Equality and the Empowerment of Women, UNEP, UNFCCC regional collaboration 
+centres and the World Bank, while bilateral cooperation was also highlighted. Coordinated 
+support  from  United  Nations  agencies  and  joint  efforts  with  other  international  partners 
+strengthen Parties’ capacity to prepare and implement NDCs, foster effective and inclusive 
+climate action and contribute to collective progress towards the goals of the Paris Agreement. 
+
+H.  How the outcomes of the first global stocktake are informing nationally 
+
+determined contributions25 
+
+90.  CMA  5  adopted  decision  1/CMA.5  on  the  outcome  of  the  first  GST,  which  shall 
+inform Parties in updating and enhancing, in a nationally determined manner, their actions 
+and support in accordance with the relevant provisions of the Paris Agreement as well as in 
+enhancing international cooperation for climate action.26 
+
+91.  A  total  of  88  per  cent  of  Parties  indicated  that  the  preparation  of  their  NDCs  was 
+informed by the outcomes of the first GST, with 80 per cent of Parties providing information 
+on  how  this  was  the  case,  covering  the  elements  of  mitigation,  adaptation,  means  of 
+implementation,  response  measures,  loss  and  damage  and  international  cooperation  (see 
+figure 4). Reported approaches to considering the GST outcomes as part of NDC preparation 
+include  enhancing  mitigation  and  adaptation  ambition,  aligning  the  NDC  with  the  best 
+available science, broadening the scope of action covered, including new sectoral targets and 
+approaches,  and  taking  into  account  cross-cutting  issues,  such  as  stakeholder  engagement 
+and just transition. Of the Parties that provided information, 27 per cent included detailed 
+quantitative or qualitative information on how implementing their domestic climate targets 
+or measures will contribute to the global efforts called for or goals set out in the outcomes of 
+the first GST. 
+
+25  This subchapter covers information provided by Parties pursuant to para. 4(c) of annex I to decision 
+4/CMA.1. Other GST-related information provided in the NDCs is synthesized in other relevant 
+subchapters.  
+
+26  According to Article 14, para. 3, of the Paris Agreement.  
+
+21 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+Figure 4 
+Shares of Parties that referred to elements of the outcomes of the first global stocktake 
+in their nationally determined contributions 
+
+77%
+
+38%
+
+33%
+
+14%
+
+13%
+
+17%
+
+Mitigation
+
+Adaptation
+
+Means of
+implementation
+
+Loss and
+damage
+
+Response
+measures
+
+International
+cooperation
+
+92.  A  total  of  66  per  cent  of  Parties  indicated  that  they  developed  NDC  targets  or 
+enhanced ambition in the light of their respective national circumstances, informed by the 
+outcomes of the first GST, including the best available science, with 44 per cent of Parties 
+emphasizing their commitment to keeping the 1.5 °C temperature goal within reach, 23 per 
+cent  indicating  that  their  NDC  targets  are  aligned  with  a 1.5 °C  pathway  and  14 per  cent 
+highlighting  that  they  have  come  forward  with  economy-wide  emission  reduction  targets 
+covering  all  GHGs,  sectors  and  categories  in  response  to  the  outcomes  of  the  first  GST. 
+Moreover, 14 per cent of Parties reported that they aligned their NDCs with their LT-LEDS 
+and 5 per cent indicated that they revisited or strengthened the 2030 targets in their NDCs.  
+
+93.  A total of 77 per cent of Parties reported on mitigation ambition and action in response 
+to the outcomes of the first GST. Of those Parties, 71 per cent outlined efforts to advance the 
+energy  transition,  40  per  cent  of  which  elaborated  on  their  domestic  targets  and  policies 
+related to, inter alia, increasing renewable energy capacity and energy efficiency, accelerating 
+the phase-down of unabated coal power, transitioning away from fossil  fuel use in energy 
+systems, accelerating the development of zero- and low-emission technologies, and reducing 
+CH4  and  other  non-CO2  emissions;  36  per  cent  set  out  nature-  and  ecosystem-based 
+approaches, particularly to halt and reverse deforestation and forest degradation, 38 per cent 
+of which also addressing marine and coastal conservation; and 18 per cent of Parties reported 
+on strategies for promoting sustainable lifestyles and patterns of consumption and production, 
+and circular economy approaches. 
+
+94.  A total of 38 per cent of Parties reported on efforts to strengthen adaptation, with 13 
+per cent of Parties indicating that they are aligning national adaptation targets with the global 
+goal on adaptation, recognizing the importance of enhancing adaptive capacity, strengthening 
+resilience and reducing vulnerability to climate change, as highlighted in the outcomes of the 
+GST.  The  adaptation  actions  reported  include  strengthening  early  warning  systems, 
+improving agricultural resilience, designing and constructing climate-resilient infrastructure, 
+developing climate-related health care plans, and preserving and restoring coastal ecosystems. 
+
+95. 
+Some 33 per cent of Parties highlighted the importance of means of implementation 
+for NDC formulation and implementation, particularly by estimating the extent of finance, 
+technology transfer and capacity-building required; emphasizing the need to scale up means 
+of implementation support for NDC implementation, particularly for developing countries; 
+and  highlighting  efforts  to  invest  in  research  into  and  the  development  of  low-carbon 
+technologies and provide financial support to and share knowledge and technical expertise 
+with developing countries in this regard. 
+
+22 
+
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+96.  Overall, 14 per cent of Parties mentioned efforts to avert, minimize and address loss 
+and damage associated with climate change impact, 22 per cent of which mentioned that their 
+NDCs  include  targets  relevant  to  addressing  loss  and  damage.  Parties  emphasized  the 
+incorporation  of  considerations  related  to  addressing  loss  and  damage  into  adaptation 
+priorities, and international cooperation and means of implementation support needed to take 
+action in this regard.  
+
+97.  Response measures were reported by 13 per cent of Parties and include assessing and 
+analysing the impacts of response measures; identifying opportunities for climate  policies 
+and  investments  to  promote  economic  diversification  and  socioeconomic  development, 
+particularly during the transition away from fossil fuels; and minimizing negative impacts of 
+response  measures  and  directing  the  benefits  of  clean  energy,  job  creation  and  other 
+investments towards communities and workers vulnerable in the energy transition and the 
+transition to a net zero economy. 
+
+98.  A total of 17 per cent of Parties referred to international cooperation in the context of 
+responding to the outcomes of the GST, expressing support for multilateral initiatives and 
+forums  on  climate  action,  the  sharing  of  experience  through  international  dialogues,  the 
+promotion of a supportive and open international economic system that enables countries to 
+better  address  climate  change,  and  the  mobilization  of  means  of  implementation  through 
+international cooperation. 
+
+I.  Just transition 
+
+99.  A total of 70 per cent of Parties explicitly referred to just transition or used similar 
+terms such as “fair transition” or just development pathways in their NDCs. Most of these 
+Parties further elaborated on these concepts and/or specific areas of priority for addressing 
+just  transition:  they  mentioned,  for  example,  ‘leaving  no  one  behind’;  social  protection, 
+inclusion,  justice  and  equity;  human  rights,  Indigenous  People’s  rights,  rights  of  future 
+generations and  labour rights; education and participation; reskilling and upskilling, skills 
+development  and  training;  gender  equality  and  responsiveness;  poverty  reduction  and 
+eradication; health; sustainable development; decent, clean energy, sustainable, green jobs; 
+the principle of common but differentiated responsibilities; promoting access to sustainable, 
+clean  and  affordable  electricity;  circular  economy;  and  protecting  and  empowering 
+vulnerable groups. Of the Parties that explicitly referred to just transition or similar terms, 56 
+per cent included chapters or subchapters on just transition in their NDCs; while 16 per cent 
+of Parties indicated that just transition principles were specifically integrated into the NDC 
+preparation process. 
+
+100.  A  total  of  28  per  cent  of  Parties  included  direct references  to  just  transition  in  the 
+context of detailing how their NDC preparation was informed by the outcomes of the first 
+GST. A total of 61 per cent of these Parties referred specifically to transitioning away from 
+fossil fuels in energy systems in a just, orderly and equitable manner consistently with the 
+language used in decision 1/CMA.5. 
+
+101.  Most of the 30 per cent of Parties that did not explicitly refer to just transition or use 
+a  similar  term  in  their  NDCs  mentioned  concepts  that  are  broadly  associated  with  just 
+transition  and  that  have  been  used  by  Parties  that  did  include  explicit  references  to  just 
+transition to substantiate the reference. Examples include reference to economic and social 
+resilience, protection of vulnerable groups, gender equality and responsiveness, human rights, 
+sustainable development, social inclusion and participation, poverty eradication, managing 
+distributional 
+fair  and  equitable  approaches,  and 
+intergenerational equity. 
+
+impacts  of  climate  policies, 
+
+102.  Parties  highlighted  a  broad  range  of  stakeholders  alongside  references  to  just 
+transition and associated terms and concepts. In some instances, these references were in the 
+context of aligning just transition pathways with recognition of the differentiated impacts of 
+climate change on children, women, the elderly, persons with disabilities, young people and 
+other  social  groups.  In  other  cases,  references  to  specific  stakeholder  groups  were  in  the 
+context of identifying target groups for NDC implementation, including vulnerable groups, 
+communities (rural, local, outer island), the workforce and informal workers, women, youth, 
+
+23 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+children, persons with disabilities, Indigenous Peoples, underrepresented and marginalized 
+groups, companies, industries and enterprises. 
+
+103.  The  Parties  that  referenced  just  transition  explicitly  did  so  across  chapters  of  their 
+NDCs related to mitigation (16 per cent of Parties) and adaptation (8 per cent of Parties). 
+Some  23  per  cent  of  Parties  referred  to  just  transition  in  the  context  of  means  of 
+implementation, with references most commonly linked to finance but also included in the 
+context  of  technology  transfer  and  capacity-building,  as  well  as  broader  references  to 
+international support and cooperation.  
+
+104.  The references to just transition in the mitigation chapter or subchapters of the NDCs 
+address a range of issues, including developing energy transition plans, adopting a holistic 
+multi-sector approach to just transitions, just transition principles for guiding implementation, 
+implementing  mitigation measures  and related  investments  and  awareness-raising  needed, 
+investments  in  renewable  energy  capacity,  energy  efficiency  and  sustainable  heating, 
+transitioning away from fossil fuels, energy affordability, eliminating inefficient fossil fuel 
+subsidies,  and  links  between  just  transitions  and  limiting  global  warming  to  1.5  °C. 
+References  to  just  transition  in  the  adaptation  chapter  or  subchapters  of  the  NDCs  were 
+included  in  the  context  of  integrating  just  transition  principles  into  the  measurement 
+adaptation  progress  and  outcomes,  national  adaptation  guidelines  and  objectives,  social 
+protection,  training  initiatives  and  skills  development  programmes,  just  transition  impact 
+assessments, social dialogue and meaningful participation. References to just transition in the 
+context of means of implementation were included, for example, in addressing financing and 
+international support for just transition, capacity-building for integrating new technologies 
+into  economies  and  societies,  support  for  transformation  of  the  energy  sector,  poverty 
+eradication, hunger and  inequality, and scaling up new  and additional grant-based, highly 
+concessional finance and other non-debt instruments. 
+
+105. 
+In  referencing  just  transition,  55  per  cent  of  Parties  included  details  of  initiatives 
+related to implementing just transition pathways, ranging from broad statements such as an 
+intention  to  integrate  just  transition  principles  into  policies  and  measures  guiding 
+decarbonization,  to  more  specific  steps  for  integrating  just  transition  considerations  into 
+targeted national policies, legislation, plans, frameworks and strategies (e.g. skills and jobs 
+strategies;  legislation  promoting  accountability  for,  transparency  of  and  stakeholder 
+engagement  in  climate  action).  Many  of  the  specific  initiatives  related  to  implementation 
+strategies in the context of adaptation, while some were focused on mitigation. Moreover, 5 
+per  cent  of  Parties  outlined  details  of  just  transition  bodies  to  support  integrating  just 
+transition considerations into NDC implementation, and 8 per cent of Parties indicated that 
+NDC  implementation  plans  may  include  indicators  for  tracking  implementation  of  just 
+transition principles and related issues.  
+
+J.  Voluntary cooperation under Article 6 of the Paris Agreement 
+
+106.  A  total  of  89  per  cent  of  Parties,  in  comparison  with  64  per  cent  in  their  previous 
+NDCs,  communicated  that  they  plan  to  or  will  possibly  use  at  least  one  of  the  scopes  of 
+voluntary cooperation in implementing their NDCs (see figure 5) by directly or indirectly 
+referring to the scopes in their NDCs: general use of voluntary cooperation under Article 6 
+of the Paris Agreement; use of internationally transferred mitigation outcomes under Article 
+6, including through cooperative approaches referred to in Article 6, paragraph 2, or under 
+the  mechanism  established  by  Article  6,  paragraph  4;  and  use  of  non-market  approaches 
+under Article 6, paragraph 8. 
+
+24 
+
+ 
+ 
+ 
+Figure 5 
+Shares of Parties indicating in their nationally determined contributions the intention to use or possibility  
+of using specific scopes of voluntary cooperation under Article 6 of the Paris Agreement  
+
+FCCC/PA/CMA/2025/8 
+
+89%
+
+30%
+
+59%
+
+64%
+
+31%
+
+33%
+
+16%
+
+9%
+
+6%
+
+Previous
+NDCs
+
+New
+NDCs
+
+Previous
+NDCs
+
+72%
+
+22%
+
+50%
+
+63%
+
+31%
+
+31%
+
+13%
+
+5%
+8%
+
+Previous
+NDCs
+
+New
+NDCs
+
+Previous
+NDCs
+
+20%
+
+9%
+
+11%
+
+New
+NDCs
+
+17%
+
+8%
+
+9%
+
+New
+NDCs
+
+At least one scope of use
+
+Voluntary cooperation (Article
+6 general)
+
+Internationally transferred
+mitigation outcomes
+(Article 6.2 and/or Article 6.4)
+
+Non-market approaches
+(Article 6.8)
+
+Intention to use
+
+Possibility of using
+
+Note: The sums of the shares of Parties intending to use and possibly using voluntary cooperation for previous NDCs and 
+
+internationally transferred mitigation outcomes for previous NDCs do not match the totals presented owing to rounding. 
+
+107.  A total of 17 per cent of Parties mentioned the general use of voluntary cooperation 
+under Article 6 of the Paris Agreement, compared with 16 per cent in their previous NDCs; 
+72  per  cent  referenced  planned  or  possible  use  of  internationally  transferred  mitigation 
+outcomes, including through cooperative approaches referred to in Article 6, paragraph 2, or 
+under  the  mechanism  established  by  Article  6,  paragraph  4,  compared  with  63  per  cent 
+previously; and 20 per cent referred to the planned or possible use of non-market approaches, 
+compared with 13 per cent previously.  
+
+108.  A total of 38 per cent of Parties, compared with 27 per cent in their previous NDCs, 
+defined their approach to the use of voluntary cooperation: 5 per cent stated that they will use 
+voluntary cooperation as a means of achieving conditional elements of their mitigation targets; 
+3  per  cent  have  set  quantitative  goals  for  the  extent  of  use  of  voluntary  cooperation  for 
+achieving their mitigation targets; and 36 per cent highlighted the importance of their use of 
+voluntary  cooperation  for  achieving  their  mitigation  targets  in  a  manner  consistent  with 
+guidance adopted by the CMA, such as applying robust accounting to avoid double counting, 
+reporting  in  the  BTRs,  ensuring  environmental  integrity  and  promoting  sustainable 
+development. 
+
+109.  Notably, 34 per cent of Parties indicated that they plan to develop, are developing or 
+have  already  developed  the  legal  and  regulatory  arrangements,  policy  frameworks  or 
+operational manuals, as well as established, for example, the institutional structures, approval 
+and authorization processes and carbon registries, necessary to facilitate the implementation 
+of Article 6 of the Paris Agreement. 
+
+K.  Forests  
+
+110.  Reducing emissions from forests and land-use change and simultaneously enhancing 
+removals from forests was mentioned in NDCs as a key mitigation option, with 84 per cent 
+of Parties including the LULUCF sector in their economy-wide mitigation target. A total of 
+53 per cent of Parties defined a separate LULUCF-specific target, such as increasing carbon 
+
+25 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+sequestration  in  the  LULUCF  sector  or  increasing  woodland  and  tree  canopy  cover  by  a 
+certain  percentage.  Moreover,  14  per  cent  indicated  that  the  outcomes  of  the  first  GST 
+informed  their  increased  ambition  with  regard  to  forests,  with  several  mentioning  the 
+possibility  of  raising  mitigation  ambition  further,  subject  to  the  availability  of  financial 
+resources, capacity-building and technology transfer.  
+
+111.  Compared with their previous NDCs, more Parties included in their new NDCs forest-
+related climate action expected to contribute to achieving the NDCs (see figure 6). A total of 
+69 per cent  mentioned afforestation and reforestation through, for example, establishment 
+and  management  of  forest  plantations,  rehabilitation  of  native  species  and  integrated 
+ecosystem management, and 56 per cent  reported sustainable forest management,  such as 
+strengthening  forest-control  systems,  enhancing  varieties  of  tree  species  and  thinning 
+encroacher bushes to promote biomass use. Parties emphasized that such action helps to both 
+maintain and enhance forest carbon stocks and generates employment opportunities. 
+
+112.  Globally, deforestation and forest degradation are the main sources of GHG emissions 
+in  the  LULUCF  sector.  Of  the  Parties,  27  per  cent  described  measures  for  reducing 
+deforestation,  with  several  selecting  quantitative  non-GHG  indicators  to  determine  a 
+measure’s success such as deforestation rate and area of natural forest burned, while 22 per 
+cent outlined actions for reducing forest degradation. Further, 25 per cent of Parties reported 
+on activities designed to address wildfires and pest or disease outbreaks, which have become 
+significant drivers of deforestation and forest degradation. 
+
+113. 
+In this context, many developing country Parties that submitted new NDCs referred 
+to the important role of REDD+ activities in guiding mitigation actions in the forest sector, 
+with 25 per cent of developing country Parties referring to national REDD+ strategies and 
+action plans for planning and coordinating forest-related mitigation actions, 29 per cent of 
+developing  country  Parties  reporting  implementing  REDD+  activities  as  part  of  their 
+mitigation  measures  and  13  per  cent  of  developing  country  Parties  emphasizing  the 
+importance of international collaboration and results-based payments in this regard. 
+
+114.  Further, 31 per cent of Parties reported conservation and/or restoration of high-carbon 
+wetlands,  particularly  mangroves  and  peatland,  recognizing  their  high  carbon  storage 
+potential.  In  addition,  23  per  cent  referred  to  agroforestry  as  part  of  their  mitigation  or 
+adaptation forest-related climate actions. 
+
+115.  A total of 38 per cent of Parties outlined forest-related climate action across specific 
+policy  and  institutional  frameworks,  such  as  developing  national  policy  frameworks  and 
+land-use  plans;  adopting  and  implementing  national  action  plans  for  forests,  water  and 
+biodiversity; establishing a compensation payments mechanism for forest ecosystem services; 
+strengthening forest governance in line with Warsaw framework for REDD+ and Article 6 
+mechanism  of  the  Paris  Agreement  to  facilitate  access  to  climate  finance;  improving 
+governance structures across the agriculture, forestry and natural resource sectors through 
+updated  legislation  and  institutional  capacity-building;  and  promoting  integrated  and 
+ecosystem-based resource management. 
+
+116. 
+In  total,  34  per  cent  of  Parties  identified  the  need  for  enhanced  forest  monitoring 
+systems, citing requirements in this context for national forest inventories, traceability and 
+control platforms for authorized timber production, peatland and mangrove maps, invasive 
+species databases and early warning systems. In addition, 14 per cent of Parties noted the 
+need for further research, including into native-species adaptability; forest fire management; 
+carbon stock data by forest type and species; and methodologies more adjusted to national 
+circumstances for estimating forest carbon stocks. 
+
+26 
+
+ 
+ 
+ 
+Figure 6 
+Comparison of the shares of Parties that referred to forest-related climate action in 
+their previous and new nationally determined contributions 
+
+FCCC/PA/CMA/2025/8 
+
+69%
+
+52%
+
+56%
+
+47%
+
+Afforestation/reforestation
+
+Sustainable forest management
+
+Conservation/restoration of
+wetlands
+
+31%
+
+22%
+
+Reducing deforestation
+
+Addressing wildfire, pest or
+disease
+
+Agroforestry
+
+Implementing REDD+ activities
+
+27%
+27%
+
+25%
+
+23%
+
+23%
+
+13%
+
+14%
+
+14%
+
+Reducing forest degradation
+
+22%
+
+19%
+
+New NDCs
+
+Previous NDCs
+
+117.  A total of 25 per cent of Parties reported forest-related capacity-building programmes, 
+aimed at forest-dependent communities and key stakeholders, including government officials, 
+the private sector and non-governmental organizations, designed to strengthen conservation 
+efforts and create opportunities for green jobs that support just transition. In addition, 19 per 
+cent of Parties highlighted the potential for empowering vulnerable groups such as women, 
+Indigenous Peoples and local communities in forest management with a view to promoting 
+gender  equality  and  inclusive  decision-making,  enhancing  community  resilience  and 
+promoting equitable benefit-sharing. 
+
+118.  A  total  of  45  per  cent  of  Parties  clearly  identified  co-benefits  arising  from  forest-
+related  mitigation  and  adaptation  actions.  Examples  are  biodiversity  conservation; 
+rehabilitation  and  conservation  of  degraded public  and private  land  through  afforestation, 
+reforestation  and  protection 
+to  enhance  nature-  and  ecosystem-based  adaptation; 
+enhancement of water and food security through forest restoration and integrated watershed 
+management;  green  job  opportunities;  and  integrated  land-use  planning  compatible  with 
+sustainable management of natural resources and sustainable development. 
+
+119.  Synergies  among  the  Rio  Conventions  were  highlighted:  39  per  cent  of  Parties 
+referenced linkages between forest-related climate actions and the Convention on Biological 
+Diversity,  while  22  per  cent  mentioned  synergies  with  the  United  Nations  Convention  to 
+Combat  Diversification.  These  Parties  emphasized  the  benefit  of  integrating  use  of 
+instruments  such  as  national  biodiversity  strategies  and  action  plans  and  national  action 
+programmes  with  NDC  implementation,  including  to  enhance  financial  efficiency  and 
+maximize  impact.  A  total  of  22  per  cent  of  Parties  highlighted  that  forest-related  climate 
+action,  such  as  afforestation  and  reforestation,  sustainable  forest  management,  forest  fire 
+prevention  and  REDD+,  contributes  directly  to  achieving  the  2030  targets  under  the 
+Kunming-Montreal  Global  Biodiversity  Framework and/or the  land degradation neutrality 
+target. A total of 16 per cent of Parties noted that mainstreaming nature-based solutions and 
+ecosystem-based  adaptation  across  the  Rio  Conventions  enhances  the  coherence  and 
+effectiveness of national responses, delivering simultaneous benefits for climate adaptation, 
+biodiversity conservation and land restoration. 
+
+120.  A  total  of  27  per  cent  of  Parties  quantified  the  costs  of  implementing  their  forest-
+related climate action, and 17 per cent identified a financial gap in this area and called for 
+additional international funding and investments to bridge it. 
+
+27 
+
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+L.  The Ocean 
+
+121.  Parties  reported  a  significant  increase  in  ocean-based  climate  action  in  their  new 
+NDCs compared with in their previous NDCs, with an additional 39 per cent including an 
+ocean-based reference in their new NDCs. Overall, 78 per cent of Parties included at least 
+one explicit reference to the ocean, of which 82 per cent included ocean-based adaptation 
+measures  and  54 per  cent  ocean-based  mitigation  measures.  For  the  ocean,  a  total  of  192 
+adaptation measures and 55 mitigation measures were reported, along with 22 cross-cutting 
+measures  (see  figure  7),  highlighting  the  type  and  spread  of  sectoral  mitigation  and 
+adaptation-based measures in NDCs. 
+
+122.  Most ocean-based adaptation and mitigation actions were noted in the form of policies, 
+programmes and initiatives, with 25 quantified targets identified (19 for adaptation and 6 for 
+mitigation). These targets include measurable outcomes like hectares of restored mangroves, 
+increase in ocean renewable energy capacity, and reduction in marine transport emissions.  
+
+123.  Of the Parties with an ocean-related adaptation or mitigation component of their new 
+NDC,  12  per  cent  reported  progress  in  implementing  ocean-based  measures  since  their 
+previous  NDC.  The  measures  where  progress  was  reported  include  strengthening  inshore 
+community-based  fishery  enforcement  capacity,  enhancing  marine  scientific  research, 
+decarbonizing  maritime  transport,  increasing  mangrove  sequestration,  deploying  marine 
+technologies and strengthening marine conservation. A total of 16 per cent of Parties noted 
+the need for robust data to track progress in implementing their ocean-related commitments, 
+particularly for the ocean-based adaptation measures. 
+
+124.  Overall,  62  ocean-based  adaptation  measures  target  coastal  resilience  through  the 
+development of integrated coastal zone  management frameworks, climate-resilient coastal 
+infrastructure  planning,  strengthening  coastal  and  marine  tourism  resilience,  shoreline 
+restoration and marine spatial planning; 85 adaptation measures support the conservation and 
+restoration  of  blue  carbon  ecosystems  in  the  form  of  nature-based  solutions  that  include 
+mangrove reforestation, coral reef rehabilitation, seagrass restoration and marine protected 
+areas; and 45 adaptation measures pertain to the fisheries and aquaculture sectors, aimed at 
+transitioning  to  climate-resilient  fishing  techniques,  integrating  early  warning  systems, 
+promoting  sustainable  aquaculture,  and  protecting  food  security  and  coastal  livelihoods 
+through community-based management of fisheries. 
+
+125.  Of the 42 per cent of Parties that reported on ocean-based mitigation measures, 19 per 
+cent explicitly referenced paragraph 35 of decision 1/CMA.5 on preserving and restoring the 
+ocean and coastal ecosystems and scaling up ocean-based mitigation action. Though fewer 
+in  number  than  adaptation  measures,  ocean-based  mitigation  measures  show  increasing 
+innovation  and  sectoral  diversity,  spanning  renewable  energy  deployment,  carbon 
+sequestration and decarbonization of maritime transport and shipping. 
+
+126.  Overall,  8  mitigation  measures  relate  to  ocean-based  renewable  energy,  including 
+offshore wind, wave and tidal energy and thermal energy conversion; 22 mitigation measures 
+focus  on  blue  carbon  sequestration  through  the  protection  and  restoration  of  blue  carbon 
+ecosystems, with some exploring the use of marine CO2 removal technologies; 19 mitigation 
+measures  target  the  decarbonization  of  maritime  transport  through  low-emission  fuels, 
+energy-efficient shipping and greener port infrastructure; and 6 mitigation measures target 
+the  fisheries  and  aquaculture  sectors.  Of  the  Parties  that  included  ocean-based  mitigation 
+measures,  30  per  cent  detailed  projects,  partnerships  and  methodologies  for  marine  CO2 
+removal. 
+
+127.  The  22  cross-cutting  measures  aimed  at  fostering  mitigation  and  adaptation  co-
+benefits  include implementation of nature-based solutions in degraded coastal zones, blue 
+economy initiatives for resilient marine ecosystems and integrated tourism planning.  
+
+128.  Means of implementing ocean-based adaptation and mitigation measures were a key 
+focus of reporting in the NDCs. Overall, 28 per cent of Parties referenced science-based needs, 
+including, for example, ocean monitoring, and  collection of and access to  ocean  data and 
+research.  Some  30  per  cent  of  Parties  highlighted  capacity-building  needs,  including  for 
+strengthening  data  collection  for  ocean  observation  and  monitoring  systems,  using 
+
+28 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+forecasting  systems  to  assess  sea  level  rise,  deploying  ocean-based  technologies  and 
+strengthening capacity of national institutions for marine management and planning. A total 
+of  48 per  cent  of  Parties  reported  finance-related  needs,  of  which  46  per  cent  have  made 
+conditional  commitments,  which  were  identified  particularly  by  small  island  developing 
+States to implement ocean-related climate measures.  
+
+Figure 7 
+Number of ocean-based adaptation, mitigation and cross-cutting measures reported in Parties’ nationally 
+determined contributions, by area of measure 
+
+Decarbonization of maritime transport
+
+19
+
+Ocean-based renewable energy
+
+Fisheries and aquaculture
+
+8
+
+6
+
+45
+
+2
+
+Conservation and restoration of blue carbon ecosystems
+
+22
+
+Coastal resilience
+
+62
+
+Mitigation
+
+Adaptation
+
+Cross-cutting
+
+85
+
+4
+
+16
+
+V.  Mitigation co-benefits resulting from adaptation action 
+
+and/or economic diversification plans 
+
+129.  A total of 63 per cent of Parties considered mitigation co-benefits resulting from their 
+adaptation  action  and/or  economic  diversification  plans.  Of  those  Parties,  48  per  cent 
+considered  social  and  economic  consequences  of  response  measures  and  included  an 
+economic diversification plan and/or a just transition or social pillar for designing climate 
+policies. Some other Parties (17 per cent) considered positive and/or negative economic and 
+social consequences of response measures without linking them to the mitigation co-benefits 
+of their adaptation action and/or economic diversification plans. 
+
+130.  Parties highlighted unequal impacts on different groups27 of society or the workforce 
+as  consequences  of  response  measures,  with  impacts  on  the  workforce  being  the  most 
+frequently  mentioned.  A  total  of  59  per  cent  of  Parties  plan  to  address  such  impacts  by 
+considering just transition as part of their NDC implementation, such as through a green skills 
+and job strategy, establishment of an authority to oversee just transition, social protection to 
+safeguard  those  affected  by  the  transition,  an  initiative  to  disburse  funds  to  vulnerable 
+communities, and consultations with specific groups of stakeholders. Some 27 per cent of 
+Parties paid special attention to addressing the impacts of response measures on vulnerable 
+groups and communities in relation to poverty, job opportunities and inequality during  the 
+transition. 
+
+131.  Of the 39 per cent of Parties that referenced economic diversification as part of their 
+national development plans and climate policies to boost the country’s resilience to climate 
+change  and  response  measures,  24  per  cent  linked  such  plans  to  specific  sectors  such  as 
+agriculture, construction, energy, LULUCF, hospitality, industry, real estate, transport and 
+waste. 
+
+27  Such as low-income groups, women, children and youth, Indigenous Peoples and people with 
+
+disabilities. 
+
+29 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+VI.  Adaptation 
+
+1. 
+
+Scope and coverage of adaptation components 
+
+132.  A  total  of  73  per  cent  of  Parties  included  a  distinct  adaptation  component  in  their 
+NDCs. In particular, they provided information on adaptation strategies, policies and plans; 
+risks  and  vulnerabilities;  sectoral  adaptation  measures;  alignment  of  adaptation  priority 
+sectors  with  the  United  Arab  Emirates  Framework  for  Global  Climate  Resilience  and  the 
+targets under the global goal on adaptation;28 monitoring and evaluation of adaptation; and 
+synergies between adaptation and mitigation actions as well as between adaptation actions 
+and environmental international policy frameworks. 
+
+133.  The information provided illustrates how Parties have advanced adaptation since their 
+previous NDCs. For example, there has been an increase in the share of NDCs that: 
+
+(a) 
+
+Provide  more  detailed  information  on  institutional  arrangements  and  legal 
+frameworks  for  adaptation,  describing  in  more  detail  efforts  to  integrate  adaptation  into 
+national and subnational policies and strategies (by 2 per cent); 
+
+(b)  Describe  the  status  of  the  NAP  process  and  demonstrate  how  the  NAP  was 
+
+established as the main national instrument for adaptation (by 6 per cent);  
+
+(c) 
+
+Include time-bound quantified adaptation targets for monitoring the progress 
+of  adaptation  measures  and  identify  the  adaptation  indicators  intended  to  be  used  for 
+monitoring progress (by 21 per cent);  
+
+(d) 
+
+Identify synergies and co-benefits between adaptation and mitigation actions 
+(by 28 per cent) as well as linkages between adaptation and efforts towards achieving the 
+SDGs (by 23 per cent). 
+
+2. 
+
+Impacts, risks and vulnerabilities 
+
+134.  The  adaptation  components  describe  key  climatic-impact  drivers,  referring  in 
+particular  to  temperature  increase,  precipitation  changes,  sea  level  rise,  increases  in 
+frequency or intensity of drought, flooding, heatwaves, heavy rainfall, coastal erosion and 
+flooding,  saltwater  intrusion,  fires,  extreme  storms  and  tropical  cyclones,  as  well  as 
+landslides and increases in ocean acidification, ocean temperature and thawing glacier, snow 
+and permafrost. All Parties described how these climatic-impact drivers affect various sectors 
+(see figure 8). Of particular concern are food security and nutrition (covering the agriculture, 
+livestock and fisheries sectors), water resources, health, terrestrial ecosystems, key economic 
+sectors (e.g. infrastructure, energy, transport, tourism and cultural heritage), urban and rural 
+areas,  and  poverty  and  livelihoods.  A  total  of  21  per  cent  of  Parties  identified  the 
+transboundary risks to which their water resources, terrestrial ecosystems, energy systems 
+and coastal areas are exposed, such as flooding, drought, and thawing glacier and snow. 
+
+28  Contained in decision 1/CMA.5, paras. 9–10. 
+
+30 
+
+ 
+ 
+ 
+Figure 8 
+Extent to which climatic-impact drivers affect various sectors, as reported in Parties’ nationally determined 
+contributions 
+
+FCCC/PA/CMA/2025/8 
+
+Food security and nutrition
+
+16%
+
+4%
+
+19%
+
+12%
+
+8%
+
+12%
+
+9%
+
+11%
+
+10%
+
+Water resources
+
+10%
+
+1%
+
+24%
+
+17%
+
+9%
+
+18%
+
+7%
+
+14%
+
+Health
+
+17%
+
+18%
+
+15%
+
+8%
+
+3%
+
+20%
+
+12%
+
+6%
+
+1%
+
+Terrestrial ecosystems
+
+20%
+
+8%
+
+24%
+
+13%
+
+6%
+
+12%
+
+4%
+
+9%
+
+3%
+
+Ocean ecosystems
+
+3%
+
+11%
+
+36%
+
+50%
+
+Coastal and low-lying areas
+
+4%
+
+2%
+
+11%
+
+6%
+
+6%
+
+7%
+
+15%
+
+41%
+
+9%
+
+Urban and rural areas
+
+6%
+
+10%
+
+8%
+
+6%
+
+11%
+
+26%
+
+14%
+
+19%
+
+Energy
+
+10%
+
+18%
+
+18%
+
+13%
+
+3%
+
+18%
+
+18%
+
+5%
+
+Infrastructure
+
+7%
+
+5%
+
+12%
+
+5%
+
+9%
+
+24%
+
+19%
+
+16%
+
+2%
+
+Transport
+
+5%
+
+8%
+
+3%
+
+10%
+
+25%
+
+30%
+
+15%
+
+Tourism
+
+8%
+
+8%
+
+11%
+
+8%
+
+6%
+
+6%
+
+19%
+
+19%
+
+14%
+
+Cultural heritage
+
+13%
+
+8%
+
+8%
+
+17%
+
+13%
+
+8%
+
+29%
+
+4%
+
+Poverty and livelihoods
+
+2%
+
+9%
+
+22%
+
+4%
+
+7%
+
+22%
+
+18%
+
+16%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+Percentage of Parties identifing climatic-impact drivers within each sector
+
+Mean air temperature
+Droughts
+Heavy precipitation
+Tropical cyclones and extreme winds
+
+Temperature extemes
+Mean precipitation
+Floods
+Relative sea level
+
+135. 
+In total, 89 per cent of Parties, compared with 64 per cent in their previous NDCs, 
+highlighted that children and youth, women, people with disabilities, the elderly, Indigenous 
+Peoples and local communities, rural and urban populations, and low-income and displaced 
+populations are particularly vulnerable to climate change. Specifically, 53 per cent of Parties 
+emphasized the vulnerability of populations living in coastal areas, on islands, near rivers, in 
+mountainous areas and in or near forests, while 91 per cent highlighted geographical location 
+or characteristics, dependence on climate-sensitive sectors, economic challenges and poverty, 
+reliance  on  natural  resources,  demographic  challenges,  the  coronavirus  disease  2019 
+pandemic, inequality, inadequate infrastructure, and political instability as factors affecting 
+vulnerability to climate change impacts.  
+
+31 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+3.  Enhancing adaptation-related research for policymaking 
+
+136.  All Parties that provided an adaptation component in their NDCs considered how to 
+improve  adaptation-relevant  research,  data,  information  and  monitoring,  and  ensure  that 
+adaptation efforts are informed by science, for example through data-collection programmes, 
+national databases on impacts, monitoring systems, observation networks, research centres, 
+strengthened  climate  services,  climate  and  risk  modelling,  multi-scale  risk  maps 
+incorporating climate data and scenarios, and international research cooperation. 
+
+4.  National adaptation plans and policy frameworks 
+
+137.  The  share  of  Parties  that  described  in  their  adaptation  component  the  process  for 
+formulating and implementing their NAP and its status increased from  77 per cent for the 
+previous NDCs to 83 per cent for the new NDCs. While 47 per cent of Parties reported in 
+their new NDCs that they have developed a NAP, 36 per cent indicated their intention to do 
+so, including a timeline for completion or update and/or implementation. In addition, 70 per 
+cent of Parties outlined links between their NAP and NDC, including how the NAP provided 
+the basis for the adaptation component, how both build on the same vulnerability assessment, 
+and how the NAP can provide a monitoring and evaluation framework for the NDC. 
+
+138. 
+In addition, all Parties with an adaptation component in their NDCs described policy 
+frameworks relevant to adaptation, including information on how such frameworks provide 
+a basis for adaptation efforts and how adaptation is integrated into and strengthened under 
+other frameworks, such as adaptation-specific frameworks, national climate plans, national 
+development plans, local government or community-level plans, sectoral plans relevant to 
+adaptation  priorities,  disaster  risk  management  strategies,  regional  and  transboundary 
+strategies,  and  UNFCCC  frameworks  (e.g.  national  adaptation  programmes  of  action  and 
+technology  needs  assessments).  Some  9  per  cent  of  Parties  highlighted  the  inclusion  of 
+adaptation considerations in their national constitution. 
+
+5.  Adaptation priorities 
+
+139.  Parties provided a wide range of information on adaptation in various priority areas 
+and sectors (see figure 9). The new NDCs illustrate a focus on food security and nutrition, 
+water  resources,  health,  terrestrial  ecosystems,  key  economic  sectors  and  disaster  risk 
+management,  followed by urban  and rural  areas, ocean ecosystems, coastal and low-lying 
+areas,  poverty  and  livelihoods,  and  education  (see  additional  information  from  adaptation 
+components of NDCs29). 
+
+29  Available at https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-
+
+contributions-ndcs/2025-ndc-synthesis-report.  
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+Figure 9 
+Share of adaptation components of nationally determined contributions referring to specific adaptation priority 
+areas and sectors 
+
+FCCC/PA/CMA/2025/8 
+
+140.  A total of 40 per cent of Parties described how their adaptation strategies and policies, 
+including the adaptation component of the NDCs, are guided by the provisions of the United 
+Arab  Emirates  Framework  for  Global  Climate  Resilience.  Of  those  Parties,  23  per  cent 
+described  how  the  measures  in  sectors  prioritized  for  adaptation  planning  align  with  or 
+contribute to the achievement of the targets under the global goal on adaptation. 
+
+141. 
+In total, 53 per cent of Parties, compared with 36 per cent in their previous NDCs, 
+referred  to  the  importance  of  transformational  adaptation,  including  measures  related  to 
+agriculture,  fisheries  and  livestock,  policy  and  governance,  terrestrial  ecosystems,  urban 
+areas,  infrastructure  and  energy.  The  aim  of  these  measures  is  to  promote  technological 
+innovation  and  policy  or  legal  reform,  build  institutional  capacity  for  transformational 
+adaptation, create new financing mechanisms and influence the behavioural change needed 
+for transformational adaptation. The importance of promoting the inclusion of children and 
+youth in, as well as gender-inclusive approaches to, transformational adaptation, and the need 
+for  a  deeper  understanding  of  fairness  and  just  transition  in  transformational  adaptation, 
+particularly with regard to Indigenous Peoples and local communities, were also highlighted. 
+
+33 
+
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+6.  Monitoring and evaluation  
+
+142. 
+In the adaptation component, 45 per cent of Parties, compared with 36 per cent in their 
+previous  NDCs,  described  efforts  undertaken  previously  or  ongoing  efforts  to  enhance 
+monitoring and evaluation of adaptation. Such efforts include reviewing and consolidating 
+monitoring  and  evaluation  frameworks  and  tools,  tracking  progress  in  implementing  and 
+achieving NDC targets, developing methods for evaluating the effectiveness of adaptation 
+actions, strengthening climate transparency systems such as the ETF, improving institutional 
+arrangements for monitoring and evaluation, aligning adaptation indicators with the SDGs 
+and other international frameworks, and  improving inclusivity by collecting disaggregated 
+data on gender, children and youth, Indigenous Peoples and local communities, people with 
+disabilities and the elderly. Additionally, 62 per cent of Parties identified and described their 
+intention to apply time-bound quantified adaptation targets for monitoring the progress of 
+adaptation  measures,  while  28  per  cent reported  developing  the  adaptation  indicators  that 
+they intend to use for monitoring progress. 
+
+7. 
+
+Synergies with mitigation and sustainable development 
+
+143.  The share of Parties that identified in their adaptation component synergies between 
+adaptation and mitigation, particularly in the terrestrial and ocean ecosystems, food security 
+and nutrition, water resources and health sectors, increased from 53 per cent in the previous 
+NDCs  to  81  per  cent  in  the  new  NDCs  (mitigation  co-benefits  of  adaptation  actions  are 
+covered  in  chap.  V  above).  Examples  of  synergies  include  increasing  the  resilience  of 
+mangroves and seagrasses (nature-based solutions) to reduce coastal flooding and increase 
+carbon sequestration; improving forest carbon stock through restoration, afforestation and 
+conservation  of  native  forest  species;  implementing  climate-smart  agriculture  in  order  to 
+diversify crops, foster soil conservation and increase carbon sequestration; improving water 
+reservoirs and pumped storage schemes to ensure water security; and reducing respiratory 
+diseases through reduced use of fossil fuels (pollution).  
+
+144.  A total of 68 per cent of Parties described how adaptation actions relate to sustainable 
+development  frameworks,  describing  the  overall  linkages  and  synergies  between  their 
+adaptation  efforts  and  efforts  towards  the  SDGs;  and  identifying  the  essential  role  of 
+adaptation in the achievement of SDGs, as well as the role of sustainable development in 
+successful  adaptation.  Further,  36  per  cent  of  Parties  specified  how  adaptation  in  specific 
+priority areas contributes to achieving individual SDGs. Figure 10 provides an overview of 
+the specific synergies identified between sectoral adaptation efforts and efforts towards the 
+SDGs. 
+
+34 
+
+ 
+ 
+ 
+Figure 10 
+Synergies between efforts in adaptation priority sectors and efforts towards the Sustainable Development Goals 
+identified in nationally determined contributions  
+
+FCCC/PA/CMA/2025/8 
+
+Note: The shading reflects how frequently linkages were identified by Parties: the darker the shading, the more frequently linkages 
+
+were identified. 
+
+8.  Loss and damage associated with climate change impacts 
+
+145.  A total of 94 per cent of Parties with an adaptation component referred to loss and 
+damage,  outlining  the  associated  risks  and  impacts  in  various  key  sectors  and  describing 
+planned  or  implemented  measures  to  address  them,  compared  with  68  per  cent  in  their 
+previous  NDCs  (see  figure  11).  They  also  considered  the  financial  and  capacity-building 
+needs and commitments associated with addressing loss and damage.  
+
+146.  Overall, 79 per cent of Parties, compared with 45 per cent in their previous NDCs, 
+reported experiencing loss and damage, for example owing to the increasing frequency and 
+intensity of extreme weather events such as drought, floods and tropical cyclones, as well as 
+slow-onset  events  such  as  rising  sea  levels,  glacier  retreat,  and  ocean  warming  and 
+acidification. Both economic and non-economic loss and damage was reported. Economic 
+loss  and  damage  was  typically  expressed  as  annual  monetary  damage  or  loss  in  gross 
+domestic product relating to the sectors of food security and nutrition, infrastructure, ocean 
+and terrestrial ecosystems, and water resources, while non-economic loss and damage was 
+reported in relation to cultural heritage values (both tangible and intangible), loss of human 
+life, and community displacement or climate-led migration. In addition, 55 per cent of Parties, 
+up from 28 per cent in their previous NDCs, reported projected loss and damage, namely 
+from  drought,  increasing  temperature,  rising  sea  levels  and  ocean  warming,  in  relation to 
+food security and nutrition, coastal and low-lying areas and ocean ecosystems. 
+
+147.  A total of 72 per cent of Parties, compared with 45 per cent in their previous NDCs, 
+provided information on their planned actions to avert, minimize or address loss and damage, 
+particularly  in  sectors  related  to  disaster  risk  management,  adaptation  policy  frameworks, 
+food security and nutrition, health, infrastructure and cultural heritage. Actions to avert loss 
+and damage include introducing insurance schemes related to food security and nutrition, and 
+
+35 
+
+Adaptation priority sectorFood security and nutritionWater resourcesHealthTerrestrial ecosystemsKey economic sectors and servicesDisaster risk managementUrban and rural areasOcean ecosystemsCoastal and low-lying areasPoverty and livelihoodsEducationSDG 
+ 
+FCCC/PA/CMA/2025/8 
+
+developing multi-hazard early warning systems for coastal areas and the health sector, while 
+actions  to  minimize  loss  and  damage  include  providing  community  relocation  or 
+displacement  assistance,  constructing  flood-resistant  infrastructure  and  developing  heat-
+resilient livestock breeds. Further, actions to address loss and damage include developing a 
+national assessment of loss and damage needs, promoting research into economic and non-
+economic  loss  and  damage,  implementing  capacity-building  programmes  for  adaptation 
+planning  at  the  sectoral  level,  and  strengthening  institutional  frameworks  and governance 
+mechanisms designed to operationalize international funding mechanisms related to loss and 
+damage. 
+
+148.  Compared with 4 per cent in their previous NDCs, 26 per cent of Parties documented 
+efforts undertaken to reduce loss and damage, which were primarily in the form of improving 
+institutional and technical capacities by, for example, formulating a national loss and damage 
+framework,  integrating  loss  and  damage  considerations  into  national  monitoring  and 
+evaluation  systems,  developing  a  cultural  heritage  adaptation  plan  through  community 
+consultations,  providing  training  on  economic  and  non-economic  loss  and  damage  in key 
+sectors, ensuring emergency water supplies during extended drought periods, and providing 
+temporary shelter and financial aid for disaster recovery. 
+
+Figure 11 
+Overview of references to loss and damage in adaptation components of nationally 
+determined contributions 
+
+Reference to loss and damage
+
+Observed loss and damage
+
+Projected loss and damage
+
+Measures undertaken to avert, minimize or
+address loss and damage
+
+Measures planned to avert, minimize or
+address loss and damage
+
+94%
+
+68%
+
+79%
+
+45%
+
+55%
+
+28%
+
+26%
+
+4%
+
+72%
+
+45%
+
+New NDCs
+
+Previous NDCs
+
+VII.  Mitigation 
+
+A.  Targets 
+
+149.  All Parties provided information on mitigation targets, including absolute emission 
+reduction  targets,30 emission  peaking  targets, 31 carbon  budget  targets,32 relative  targets  for 
+reducing emissions below ‘business as usual’ level by a specified year and emission intensity 
+targets,33 strategies, policies, plans and actions for low-emission development, and mitigation 
+co-benefits resulting from their adaptation actions and/or economic diversification plans (see 
+figure 12 and chap. V above).34 
+
+30  Targets expressed as an emission reduction from the level in a specified base year. 
+31  Targets for a year or time frame in which emissions are expected to peak or reach a maximum level of 
+
+absolute emissions. 
+
+32  Targets to limit overall GHGs to be emitted over a specified period of time (e.g. between 2021 and 
+
+2030). 
+
+33  Targets for reducing specific GHG emissions per unit of gross domestic product relative to a base-
+
+year (e.g. 1990) level. 
+
+34  Mitigation co-benefits are mostly communicated in combination with other targets. 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 12 
+Types of mitigation target and share of Parties that communicated them in nationally 
+determined contributions 
+
+FCCC/PA/CMA/2025/8 
+
+Policies and Measures
+
+Emission Intensity
+
+Carbon Budget
+
+Peaking
+
+11%
+5%
+
+2%
+2%
+
+5%
+3%
+
+3%
+5%
+
+Emission reduction below ‘business as usual’
+
+Absolute emission reduction
+
+Absolute economy-wide emission reduction
+
+47%
+48%
+
+38%
+
+45%
+
+34%
+
+42%
+
+Economy-wide
+
+81%
+
+89%
+
+Previous NDCs
+
+Latest NDCs
+
+Note: Policies and measures refers to strategies, policies, plans and actions for low-emission development. 
+
+150.  The  share  of  Parties  that  came  forward  with  absolute  economy-wide  emission 
+reduction targets increased to 42 per cent in the new NDCs from 34 per cent in the previous 
+NDCs,  with  27  per  cent  of  Parties  communicating  economy-wide  absolute  emission 
+reduction  targets  covering  all  GHGs,  sectors  and  categories  of  emissions  and  removals, 
+compared with 23 per cent in their previous NDCs. 
+
+1.  Time frames and/or periods of implementation 
+
+151.  All  Parties  communicated  a  target  year  for  their  mitigation  targets,  expressing  a 
+single-year target, a multi-year target (i.e. for a period of consecutive years) or multiple target 
+years (i.e. several non-consecutive target years) depending on the target. Of the Parties, 73 
+per cent communicated a single-year target for 2035 and 11 per cent for 2030, while 14 per 
+cent communicated multiple target years, including when target years were associated with 
+the implementation of different policies and measures. Other Parties (17 per cent) indicated 
+having a multi-year target for NDC implementation.  
+
+152. 
+In addition to communicating information on mitigation targets or plans for the near 
+to medium term, 70 per cent of Parties provided information on long-term mitigation visions, 
+strategies or targets for up to and beyond 2050 that either have already been formulated or 
+are under preparation as part of their LT-LEDS,35 often including net zero, carbon neutrality 
+and  GHG  neutrality  targets.  They  indicated  that  the  mitigation  targets  in  their  NDCs  are 
+aligned with their LT-LEDS in line with paragraph 40 of decision 1/CMA.5. 
+
+2. 
+
+Scope and coverage 
+
+153.  A total of 89 per cent of Parties have economy-wide NDCs, with 84 per cent covering 
+all sectors defined in the 2006 IPCC Guidelines (see figures 12 and 13), compared with 81 
+and  71  per  cent  respectively  in  their  previous  NDCs.  In  addition,  6  per  cent  of  Parties 
+provided information on the coverage of sectors of national importance, which are often a 
+subset of one or more IPCC sectors, such as shipping and aviation, cooling, food production, 
+transport, mining and buildings, while others mentioned specific carbon pools, including the 
+ocean and blue carbon. 
+
+35  As at 30 September 2025, 79 LT-LEDS had been communicated, representing 86 Parties.  
+
+37 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+154.  A  total  of  30  per  cent  of  Parties  covered  all  GHGs  defined  in  the  2006  IPCC 
+Guidelines (see figure 14), compared with 25 per cent in their previous NDCs. In addition to 
+those  GHGs,  17  per  cent  of  Parties  included  additional  gases  and  emissions,  including 
+emissions from short-lived climate pollutants, such as black carbon, sulfur dioxide and non-
+methane volatile organic compounds. 
+
+Figure 13 
+Sectors covered by Parties that communicated them in nationally determined 
+contributions 
+
+Energy
+
+IPPU
+
+Agriculture
+
+LULUCF
+
+Waste
+
+100%
+
+100%
+
+70%
+
+84%
+
+84%
+
+92%
+
+83%
+
+88%
+
+84%
+
+92%
+
+Previous NDCs
+
+New NDCs
+
+Figure 14 
+Greenhouse gases covered by Parties that communicated them in nationally 
+determined contributions 
+
+100%
+100%
+
+95%
+
+100%
+
+91%
+
+97%
+
+CO₂
+
+CH₄
+
+N₂O
+
+HFCs
+
+PFCs
+
+SF₆
+
+NF₃
+
+58%
+
+66%
+
+31%
+
+38%
+
+36%
+36%
+
+25%
+
+30%
+
+SLCPs
+
+19%
+
+17%
+
+Previous NDCs
+
+New NDCs
+
+38 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+155.  A  total  of  94  per  cent  of  Parties  provided  information  on how  they  are  striving  to 
+include all categories of anthropogenic emissions and removals in their NDCs over time, as 
+well as explanations for the exclusion of any categories: 48 per cent stated that they already 
+have economy-wide NDCs including all sectors and GHGs, while 41 per cent explained why 
+certain sectors and/or gases had been excluded, such as owing to categories being negligible 
+or insignificant, data unavailability or inaccuracy, and lack of technical capacity. 
+
+3.  Greenhouse gas emission estimates taking into account implementation of the new 
+
+nationally determined contributions 
+
+156.  Total GHG emission levels resulting from the implementation of Parties’ new NDCs 
+are projected to be around 13.9 (13.3–14.6)Gt CO2 eq in 2030 and around 13.0 (12.0–13.9) 
+Gt CO2 eq in 203536 for the Parties that submitted the NDCs (see figure 15). 
+
+157. 
+In  comparison  with  the  GHG  emission  levels  reported  in  those  Parties’  previous 
+NDCs, the new NDCs are estimated to result in emission levels for the Parties in 2035 that 
+are 6 per cent (0.8 Gt CO2 eq) below the 2030 level reported in the previous NDCs. When 
+looking  exclusively  at  the  2030  level,  the  projected  emission  levels  do  not  change 
+substantially between the new and previous NDCs as the new NDCs predominantly focus on 
+2035. 
+
+158.  A  total  of  88  per  cent  of  Parties  included  unconditional  elements  and  67  per  cent 
+included additional, more ambitious conditional elements, implementation of which depends 
+mostly on access to enhanced financial resources, technology transfer, technical cooperation 
+and  capacity-building  support;  availability  of  market-based  mechanisms;  an  international 
+system that facilitates NDC implementation and sustainable development; and the absorptive 
+capacity of forests and other ecosystems. Compared with  their previous NDCs, 5 per cent 
+fewer Parties included unconditional elements in their new NDCs. 
+
+159.  Total GHG emission levels resulting from  the implementation of the unconditional 
+elements of the new NDCs are estimated to be 14.5 (14.4–14.6) Gt CO2 eq in 2030 and 13.6 
+(13.3–13.9) Gt CO2 eq in 2035 for the relevant group of Parties. On the other hand, assuming 
+full  implementation  of  all  new  NDCs,  including  all  conditional  elements,  those  emission 
+levels are estimated to be lower in 2030, at 13.4 (13.3–13.5) Gt CO2 eq, and even lower in 
+2035, at 12.3 (12.0–12.7) Gt CO2 eq (see figure 15). 
+
+Figure 15 
+Projected range of greenhouse gas emission levels for the Parties that have submitted 2035 targets 
+according to their new nationally determined contributions
+
+Note: NDC targets for 2030 as at December 2023 and September 2025 imply substantially lower emissions 
+
+compared with the levels implied in the INDCs as at April 2016. For the Parties that submitted new NDCs, 
+implementation of unconditional elements (top lighter blue band) implies a strong emission reduction by 2035 below 
+
+36  This report includes GHG emission estimates with and without LULUCF emissions. If not otherwise 
+stated, total GHG emissions are presented excluding LULUCF, and emissions are quantified for the 
+58 Parties that submitted new NDCs with targets for 2035. A triplet of emission levels indicates the 
+best-estimate and the min-max projection range arising from ranges in NDC targets, and uncertainties 
+in the quantification. If not otherwise stated, the full range spans both high and low quantifications of 
+conditional and unconditional targets. 
+
+39 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+the 2030 level. If NDCs are fully implemented (including all conditional elements), an even stronger emission 
+reduction is projected from today to 2035 (bottom darker blue band). 
+
+4.  Quantifiable information on the reference point (including, as appropriate, a base 
+
+year) 
+
+160.  Overall, 98 per cent of Parties provided information on the reference year, base year, 
+reference period or other starting point for measuring progress towards the target, with  16 
+per cent selecting 1990 and 64 per cent selecting a year between 2000 and 2020. Of the Parties 
+that  provided  information  on  the  starting  point  for  measuring  progress,  47  per  cent  are 
+measuring achievement of their targets against a base-year level; 17 per cent have chosen to 
+measure progress in terms of a deviation from a level in the target year, with most selecting 
+2030; and 36 per cent provided a reference period. 
+
+161.  A total of 97 per cent of Parties provided information on the sources of the emission 
+data used for quantifying the reference point, including national inventory reports, biennial 
+reports,  biennial  update  reports  and/or  national  communications.  Other  sources  of 
+information identified were national documents and statistics, such as sector activity reports; 
+national  development  plans  and/or  strategies;  sustainable  development  plans;  economic 
+development  projections;  national  climate  change  plans;  energy  master  plans;  national 
+statistics on economy, energy and/or trade; waste management strategies; national resource 
+plans; energy road maps; national forest reports; and socioeconomic forecasts. 
+
+162.  Most  Parties  that  included  strategies,  plans  and  actions  as  referred  to  in  Article  4, 
+paragraph 6, of the Paris Agreement provided other information for clarification, including 
+on expected levels of emission reduction or prevention, increased forest coverage, reduction 
+of deforestation, energy efficiency targets, renewable energy share or other non-GHG policy 
+targets. 
+
+163.  A total of 94 per cent of Parties presented information on the  circumstances under 
+which  they  update  the  values  of  their  reference  indicators,  such  as  owing  to  significant 
+changes in specific financial, economic, technological and/or political conditions, or impacts 
+of  extreme  natural  disasters;  owing  to  the  scale  of  access  to  support  and  other  means  of 
+implementation,  expected  improvements  or  modifications  to  activity  data,  variables  or 
+methodologies used in estimating national emissions, baselines or projections; or to reflect 
+the actual situation during the implementation period. 
+
+5.  Assumptions and methodological approaches, including for estimating and accounting 
+
+for anthropogenic greenhouse gas emissions and, as appropriate, removals 
+
+(a) 
+
+Intergovernmental Panel on Climate Change methodologies and metrics 
+
+164.  Of  the  95  per  cent  of  Parties  that  communicated  information  on  assumptions  and 
+approaches to be used in accounting for anthropogenic GHG emissions and, as appropriate, 
+removals, corresponding to their NDCs, 87 per cent referred to the 2006 IPCC Guidelines, 
+while 5 per cent referred to the Revised 1996 IPCC Guidelines for National Greenhouse Gas 
+Inventories.  
+
+165.  Some 33 per cent also mentioned the 2019 Refinement to the 2006 IPCC Guidelines 
+for  National  Greenhouse  Gas  Inventories,  the  IPCC  Good  Practice  Guidance  and 
+Uncertainty  Management in National Greenhouse Gas Inventories and/or the IPCC  Good 
+Practice Guidance for Land Use, Land-Use Change and Forestry. In addition, 39 per cent of 
+Parties referred to the methods and procedures outlined in the 2013 Revised Supplementary 
+Methods  and  Good  Practice  Guidance  Arising  from  the  Kyoto  Protocol  and  the  2013 
+Supplement  to  the  2006  IPCC  Guidelines  for  National  Greenhouse  Gas  Inventories: 
+Wetlands. 
+
+166.  With regard to metrics, 72 per cent of Parties provided information, all of which was 
+based on global warming potential values over a 100-year time-horizon. Of these, 75 per cent 
+used values from the AR5, 4 per cent values from the AR4 and 6 per cent values from the 
+AR2. 
+
+40 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+(b)  Assumptions and methodological approaches 
+
+167.  A total of 48 per cent of Parties expressed mitigation targets as a deviation from a 
+‘business  as  usual’  level,  mainly  providing  information  on  quantitative  baselines  and 
+mitigation scenarios such as baselines and projections based on historical data and trends in 
+emissions and economic parameters.  
+
+168.  Furthermore,  13  per  cent  of Parties  communicated  additional  information  on other 
+approaches used for estimating sector- or activity-specific emissions or baselines, including 
+using regional data sources for downscaling data or generating data at the national level, and 
+calculation  tools  or  approaches  for  estimating  short-lived  climate  pollutants  or  precursor 
+emissions. Meanwhile, 28 per cent of Parties mentioned using specific modelling tools for 
+estimating their emissions or baselines. 
+
+169. 
+In total, 83 per cent of Parties provided more detailed information than previously on 
+the  assumptions,  methodological  approaches  and  procedures  used  for  developing  their 
+baselines or mitigation scenarios. 
+
+(c)  Land use, land-use change and forestry 
+
+170.  A total of 28 per cent of Parties clarified how they intend to address emissions and 
+subsequent  removals  due  to  natural  disturbances  on  managed  land  if  such  events  occur. 
+Overall,  6  per  cent  of  Parties  mentioned  having  developed  country-specific  approaches 
+consistently with IPCC guidance.  
+
+171.  Some 38 per cent of Parties stated that emissions and removals from harvested wood 
+products will be accounted for as part of their NDCs, with only a few of them (6 per cent of 
+all Parties) mentioning the use of an approach other than the production approach.  
+
+In addition, 25 per cent of Parties mentioned that the effects of age-class structure in 
+
+172. 
+forests will be taken into account when estimating the mitigation contribution of forests. 
+
+B.  Domestic mitigation measures 
+
+1.  Domestic mitigation measures for priority areas 
+
+173.  A total of 98 per cent of Parties (the same share as in their previous NDCs) outlined 
+in their new NDCs domestic mitigation measures as key instruments for achieving mitigation 
+targets  for  their  NDCs  and/or  specific  priority  areas,  including  energy  supply,  transport, 
+buildings, industry, AFOLU and waste. Specifically, Parties communicated measures most 
+frequently  in  the  priority  area  of  energy  supply,  followed  by  transport  and  AFOLU. 
+According to UNEP,37 these three priority areas together accounted for about 70 per cent of 
+global GHG emissions in 2023 (see figure 16).  
+
+37  Emissions shares of priority areas were estimated on the basis of data from UNEP. 2024. Emissions 
+Gap Report 2024: No more hot air … please! With a massive gap between rhetoric and reality, 
+countries draft new climate commitments. Nairobi: UNEP. Available at 
+https://www.unep.org/resources/emissions-gap-report-2024; and UNEP Copenhagen Climate Centre 
+and Common Futures. 2024. Bridging the gap: Sectoral greenhouse gas mitigation potentials in 2035. 
+Copenhagen: UNEP Copenhagen Climate Centre. Available at 
+https://unepccc.org/publications/bridging-the-gap-sectoral-greenhouse-gas-mitigation-potentials-in-
+2035/. 
+
+41 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+Figure 16 
+Estimated share in global greenhouse gas emissions of priority areas in 2023 
+
+Waste and other, 4%
+
+Buildings, 6%
+
+Transport, 15%
+
+Energy supply, 36%
+
+AFOLU, 19%
+
+Industry, 20%
+
+2.  Feasible, effective and low-cost mitigation options in priority areas in 2035 
+
+174.  According  to  the  UNEP  Bridging  the  gap report,38 mitigation  options  costing  USD 
+200/t CO2 eq or less could, if fully implemented, reduce emissions sufficiently by 2035 to 
+align with its 1.5 °C pathway with no or limited overshoot. These options have a projected 
+net mitigation potential of 41 (36–46) Gt CO2 eq/year, with about 90 per cent of this potential 
+coming from options costing USD 100/t CO2 eq or less. Many of these options have been 
+assessed as technically viable. Parties reported measures for such options in their NDCs, as 
+illustrated in figure 17.  
+
+38  See footnote 37 above. 
+
+42 
+
+ 
+ 
+ 
+ 
+Figure 17 
+Share of Parties referring to domestic mitigation measures for specific priority areas and mitigation options with 
+high mitigation potential costing USD 200/t CO2 eq or less in 2035 in nationally determined contributions 
+
+FCCC/PA/CMA/2025/8 
+
+Notes: (1) The shares reflect measures included in the new NDCs that are aimed at achieving 2035 mitigation targets;  
+
+(2) if a Party communicated more than one measure for a mitigation option (e.g. three different measures for solar energy), it was 
+counted as one Party communicating measures for that option; (3) the estimated net mitigation potential (in Gt CO2 eq/year) of each 
+option costing below USD 200/t CO2 eq in 2035 is presented in parentheses, for example, “(7.9)” in the case of solar energy. These 
+estimates are based on data from the UNEP Bridging the gap report and are associated with uncertainties.  
+
+175.  Table  1  summarizes the  conditionality of these mitigation  options with the highest 
+mitigation  potential,  each  exceeding  more  than  2  Gt  CO2  eq/year.  It  shows  that  domestic 
+mitigation  measures  aimed  at  fully  or  partially  conditional  targets39 were  most  frequently 
+reported in NDCs  in relation  to  afforestation and reforestation, solar energy and reducing 
+
+39  Includes domestic mitigation measures aimed at achieving targets that are fully conditional and 
+
+measures aimed at achieving both unconditional and conditional targets.  
+
+43 
+
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+deforestation.  A  conditionality  gap 40  can  also  be  observed  in  relation  to  reducing 
+deforestation (28 percentage points), afforestation and reforestation (27 percentage points) 
+and solar energy (25 percentage points). These conditionality gaps, combined with the data 
+in table 1, provide an indication of the challenges faced by Parties in relation to the high level 
+of support required for the implementation of specific measures. 
+
+Table 1 
+Conditionality of mitigation options with the highest estimated mitigation potential 
+costing USD 200/t CO2 eq or less in 2035 according to the measures reported in 
+nationally determined contributions 
+
+Mitigation option 
+
+Solar energy 
+
+Wind energy 
+
+Afforestation and reforestation 
+
+Reduced deforestation 
+
+Improved sustainable forest 
+management 
+
+Fuel switching in industry, including 
+electrification 
+
+Share of Parties 
+reporting measures 
+(%) 
+
+Share of Parties reporting 
+measures for fully or 
+partially conditional targets 
+(%) 
+
+Share of Parties reporting 
+measures for fully 
+unconditional targets  
+(%) 
+
+50 
+
+33 
+
+56 
+
+42 
+
+47 
+
+41 
+
+39 
+
+27 
+
+42 
+
+36 
+
+34 
+
+22 
+
+14 
+
+8 
+
+16 
+
+8 
+
+12 
+
+20 
+
+Notes: (1) As notes (1) and (2) to figure 17; (2) see footnote 39 above for the definition of measures 
+aimed at fully or partially conditional targets. 
+
+3.  Global efforts and mitigation options covered in recent decisions 
+
+176.  As shown in figure 16, energy-related emissions accounted for over three quarters of 
+global emissions in 2023. A total of 75 per cent of Parties reported in their NDCs quantitative 
+targets relevant to at least one of energy-related global efforts or mitigation options covered 
+in decisions 1/CMA.3, 1/CMA.4 and 1/CMA.541 (for further information, see the additional 
+information on domestic mitigation measures42). These include, but are not limited to:43 
+
+(a) 
+
+Tripling renewable energy capacity globally by 2030:  44 per cent of Parties 
+indicated  quantitative  targets  for  increasing  the  installed  capacity  for  renewables-based 
+electricity generation by 2030, amounting to 0.6 TW; 
+
+(b)  Doubling the global average annual rate of energy efficiency improvement by 
+2030: 5 per cent of Parties communicated targets for increasing the average annual rate of 
+primary energy intensity  improvement by 2030, equating to an aggregated average annual 
+improvement rate through to 2030 of 2.3 per cent; 
+
+40  The difference between the shares of Parties that communicated domestic mitigation measures in their 
+NDCs aimed at fully or partially conditional targets and the share that referred to measures aimed at 
+fully unconditional targets. It is calculated by subtracting the share of Parties referring to measures 
+aimed at fully unconditional mitigation targets from the share referring to measures aimed at fully or 
+partially conditional mitigation targets. For example, the conditionality gap for solar energy (25 
+percentage points) is derived from 39 per cent of Parties that included measures for solar energy 
+aimed at fully or partially conditional mitigation targets and 14 per cent that communicated measures 
+for solar energy aimed at fully unconditional mitigation targets. 
+
+41  For non-energy-related global efforts or mitigation options, see chap. IV.K–L above related to the 
+
+roles of forests and the ocean in NDC ambition and implementation.  
+
+42  Available at https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-
+
+contributions-ndcs/2025-ndc-synthesis-report.  
+
+43  Taking into account contributions to the efforts and options covered in the three recent CMA 
+
+decisions, including those with the 2030 timeline and focus on this critical decade, this chap. VII.B.3 
+considers measures and quantitative targets reported in both Parties’ new and previous NDCs. A 
+comprehensive estimate of the aggregated targets referred to in this paragraph will only be possible 
+once all new NDCs have been submitted.  
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+(c) 
+
+Phasing down unabated coal power: 13 per cent of Parties reported quantitative 
+targets  for  reducing  coal  power  generation  by  2030,  amounting  to  a  33  TWh  reduction. 
+Additionally, 16 per cent communicated such targets for 2035, totalling a 776 TWh reduction; 
+
+(d) 
+
+Transitioning away from fossil fuels in energy systems in a just, orderly and 
+equitable manner: nearly half of Parties (47 per cent), accounting for 9 per cent of total global 
+electricity generation from fossil fuels in 2023, indicated quantitative targets for reducing the 
+share of unabated fossil fuels in electricity generation by 2030, while 73 per cent of Parties 
+reported  the  need  and/or  measures  for  a  just  transition  for  communities  and  workers 
+dependent on fossil fuels; 
+
+(e) 
+
+Accelerating  zero-  and  low-emission  technologies:  3  per  cent  of  Parties 
+indicated quantitative targets for installed nuclear power capacity by 2035, amounting to 10 
+GW. Additionally, 8 per cent communicated quantitative targets for increasing annual carbon 
+capture  capacity  by  2035,  totalling  39  Mt  CO2.  Further,  3  per  cent  reported  quantitative 
+targets for increasing low-carbon hydrogen production by 2035, amounting to 1.5 Mt; 
+
+(f) 
+
+Accelerating  the  substantial  reduction  of  non-CO2  emissions  globally,  in 
+particular  CH4  emissions,  by  2030:  3  per  cent  of  Parties  included  quantitative  targets  for 
+reducing CH4 emissions from fossil fuel operations by 2030, amounting to a 2 Mt reduction. 
+
+177. 
+In  addition  to  the  information  in  NDCs,  some  Parties  have  announced  domestic 
+pledges  and  projects 44 relevant  to  the  above-mentioned  global  efforts,  including  tripling 
+renewable energy capacity globally by 2030, enhancing low-carbon hydrogen production and 
+expanding capture capacity for CCUS. The combined effects of these pledges and projects 
+are projected to significantly exceed the aggregated targets based on the NDCs for the same 
+global  efforts,  indicating  that  submitted  NDCs  do  not  cover  all  domestically  announced 
+pledges and projects. Some Parties may nationally determine  that progress in these areas, 
+along with other contributing factors such as enhanced international cooperation and support, 
+contributes to potential for accelerated implementation and more ambition. For example, for 
+the  64  Parties  that  have  submitted  new  NDCs,  it  is  estimated  that  total  domestically 
+announced commitments for renewable energy capacity by 2030 reach 2 TW,45 representing 
+more than 3.5 times the 0.6 TW aggregated target capacity according to the NDCs submitted 
+by the 64 Parties (see para. 176(a) above).  
+
+178.  Regarding CO2 removal technologies other than CCUS referred to in paragraph 176(e) 
+above, 9 per cent of Parties indicated measures for direct air carbon capture and storage and 
+3  per  cent  measures  for  bioenergy  with  carbon  capture  and  storage.  According  to  the 
+Synthesis  Report  of  the  AR6, 46  1.5 °C  pathways  with  no  or  limited  overshoot  require 
+cumulative net-negative  emissions  of 220  Gt  CO2  by  2100,  increasing  to 360  Gt  CO2  for 
+1.5 °C pathways with a high overshoot.47 Deep GHG emission reductions by 2030 and 2040, 
+including substantial reductions in CH4 emissions, as referenced to in paragraph 176(f) above, 
+could reduce peak warming levels, thereby reducing feasibility and sustainability concerns 
+regarding the large-scale deployment of CO2 removal technologies. 
+
+179.  All  Parties  reported  measures  or  quantitative  targets  relevant  to  global  efforts  or 
+mitigation options referred to in decision 1/CMA.5. Informed by the outcomes of the first 
+GST, 61 per cent of Parties made direct references to these efforts or options in their NDCs 
+(see figure 18). The most frequently cited was tripling renewable energy capacity by 2030, 
+followed by doubling the average annual rate of energy efficiency improvement by 2030 and 
+transitioning away from fossil fuels in energy systems. Focusing specifically on quantitative 
+targets relevant to the efforts or options, as referred to in paragraph 176 above, 75 per cent 
+
+44  Existing domestic pledges and projects that were announced separately from the submitted NDCs, 
+
+which may or may not have been included in the NDCs.  
+
+45  Estimated on the basis of data from IEA. 2024. COP28 Tripling Renewable Capacity Pledge: 
+Tracking countries’ ambitions and identifying policies to bridge the gap. Paris: IEA. All rights 
+reserved. Available at https://www.iea.org/reports/cop28-tripling-renewable-capacity-pledge. 
+
+46  IPCC. 2023. Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to 
+the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Core Writing Team, 
+H Lee, and J Romero (eds.). Geneva: IPCC. Available at https://www.ipcc.ch/report/ar6/syr/.  
+
+47  According to the Synthesis Report of the AR6, a high overshoot refers to temporarily exceeding the 
+
+1.5 °C global warming by 0.1–0.3 °C for up to several decades.  
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+of Parties reported such targets in their NDCs. Of these, 47 per cent made direct references 
+to  the  efforts  or  options,  with  tripling  renewable  energy  capacity  by 2030  being  the  most 
+frequently cited, by 28 per cent of Parties. 
+
+Figure 18 
+Shares of Parties that reported domestic mitigation measures or quantitative targets with direct references to the 
+energy-related global efforts or mitigation options referred to in decision 1/CMA.5 in their nationally determined 
+contributions 
+
+Tripling renewable energy capacity by 2030
+
+Doubling average annual rate of energy efficiency improvements by 2030
+
+58%
+
+52%
+
+Phasing down unabated coal power
+
+Utilizing zero- and low-carbon fuels
+
+23%
+
+27%
+
+Transitioning away from fossil fuels in energy systems
+
+Accelerating zero- and low-emission technologies
+
+47%
+
+42%
+
+Substantially reducing non-CO₂ emissions, in particular CH₄, by 2030
+
+Reducing emissions from road transport on a range of pathways
+
+31%
+
+34%
+
+Phasing out inefficient fossil fuel subsidies
+
+16%
+
+Using transitional fuels in facilitating the energy transition
+
+5%
+
+Transitioning to sustainable patterns of consumption and production
+
+17%
+
+Notes: (1) Direct references are to the relevant paragraphs of decision 1/CMA.5, including their paragraph numbers and substantive 
+
+content; (2) if a Party communicated more than one measure for a global effort or mitigation option, it was counted as one Party 
+communicating measures for that effort or option. 
+
+4.  Coherence and synergies with development priorities 
+
+180.  A total of 87 per cent of Parties, a sharp increase from 16858 per cent in their previous 
+NDCs, highlighted policy coherence and synergies between their mitigation measures and 
+development priorities, including LT-LEDS and SDGs.  
+
+181.  Nearly half of those Parties (41 per cent) identified domestic mitigation measures in 
+the context of longer-term measures or targets set out in their LT-LEDS and/or other national 
+long-term low-emission development strategies or laws. In addition, the same share of Parties 
+(41 per cent) communicated one or more SDGs in relation to which there are synergies with 
+their priority areas or mitigation measures (see figure 19), clarifying the alignment between 
+their mitigation measures and efforts towards achieving the SDGs. 
+
+Figure 19 
+Shares of Parties referring to synergies between efforts in mitigation priority areas and efforts towards the 
+Sustainable Development Goals in nationally determined contributions 
+
+Note: The shading reflects how frequently synergies were identified by Parties: the darker the shading, the more frequently 
+
+synergies were identified. 
+
+46 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+VIII.  Means of implementation 
+
+1.  Finance 
+
+182.  A  total  of  88  per  cent  of  Parties  provided  information  on  the  finance  required  to 
+implement activities in line with their NDCs, with 75 per cent characterizing finance in terms 
+of support needed (see figure 20). A total cost in the range of USD 1,970.8–1,975.0 billion 
+in aggregate was reported as climate finance required for NDCs  by 52 per cent of Parties, 
+comprising USD 1,073.88–1074.00 billion identified as support needed from international 
+sources, USD 214.4 billion identified to derive from domestic sources and USD 682.5–686.5 
+billion for which the source was not specified.  
+
+183.  Of the Parties providing information on climate finance support needed, 29 per cent 
+included such information throughout their NDCs, such as in thematic chapters on adaptation 
+and mitigation, 42 per cent in a stand-alone section on climate finance and 31 per cent in a 
+means of implementation section. Further, 63 per cent of Parties also referenced or indicated 
+ongoing  efforts  to  develop  financing  strategies  or  investment  plans  to  support  NDC 
+implementation and 21 per cent did not provide any information on climate finance.  
+
+Figure 20 
+Climate finance information in nationally determined contributions 
+
+184.  The level of detail of cost estimates varied across NDCs, with some Parties reporting 
+total cost estimates at the aggregated level, some presenting cost estimates by sector or area 
+and some differentiating between conditional support required and unconditional funds for 
+implementing their NDCs. The starting points for costed estimates in NDCs also varied, from 
+as early as 2021 to as late as 2031.  
+
+185.  A  total  of  90  per  cent  of  the  Parties  that  provided  information  on  climate  finance 
+required stated the sources of finance expected to be used in implementing their NDCs, with 
+56 per cent referring to a mix of international and domestic sources, including both public 
+and  private  sources,  31  per  cent  to  international  sources  only  and  2  per  cent  to  domestic 
+sources only, with the remaining 10 per cent not specifying this information. Some 46 per 
+cent  of  Parties  differentiated  their  financial  needs  between  conditional  and  unconditional 
+support. Domestic sources are often used to address unconditional commitments outlined in 
+the  NDCs  or  for  a  specific  area  or  sector  being  prioritized,  and  include  national  budget 
+allocations, public sector investment programmes, loans received from international sources 
+(which  are  to  be  repaid  domestically)  and  revenues  from  domestic  fiscal  measures. 
+Meanwhile,  international  sources,  obtained  from  a  variety  of  public,  private  and  blended 
+sources of finance, including bilateral and multilateral channels such as multilateral climate 
+funds, multilateral development banks and the private sector, include green energy bonds, 
+
+47 
+
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+sustainable sovereign bonds, multi-funder trust funds and debt-for-climate swaps. In addition, 
+leveraging mechanisms under Article 6 of the Paris Agreement was mentioned by 53 per cent 
+of Parties as an essential financial instrument for mobilizing financial resources or attracting 
+investment to support NDC implementation.  
+
+186.  Of  the  Parties  reporting  costed  finance  needs,  82  per  cent  identified  needs  for 
+mitigation  in  the  energy  (including  transport  and  power  generation),  AFOLU,  IPPU  and 
+waste  sectors.  Some  76  per  cent  of  the  Parties  reporting  costed  finance  needs  identified 
+adaptation  needs  primarily  related  to  agriculture  and  food  security,  water  resources, 
+infrastructure, health and water, sanitation and hygiene, biodiversity and ecosystems, tourism, 
+and  disaster  and  climate  risk  management.  Some  Parties  highlighted  that  their  NAPs  are 
+central to achieving their adaptation priorities and referenced  specific adaptation needs. A 
+total of 15 per cent of Parties included costed cross-cutting needs, while 12 per cent of Parties 
+included needs related to addressing loss and damage in the adaptation component of their 
+NDCs and 15 per cent of Parties reported needs related to addressing loss and damage in a 
+separate chapter of their NDCs.  
+
+187.  Overall, 47 per cent of Parties recognized the importance of considering gender and 
+the  perspectives  of  Indigenous  Peoples  and  vulnerable  groups  in  financing  NDC 
+implementation, including through gender-responsive budgeting, costed needs assessments, 
+targeted financial incentives, institutional strategies and partnerships.  
+
+188.  Some 77 per cent of Parties that reported needs in their NDCs reported finance-related 
+challenges and limitations related to implementing their NDCs, including: 
+
+(a) 
+
+Difficulties in identifying actual financial needs owing to cost estimates being 
+preliminary  in  nature  or  underestimated,  limited  data  availability  and  quality,  insufficient 
+institutional  and  technical  capacity,  fragmented  planning  frameworks,  and  persistent 
+knowledge management and data availability gaps that impede comprehensive identification 
+of financial needs; 
+
+(b) 
+
+Limited and delayed access to finance owing to lengthy application procedures, 
+co-financing requirements, lack of direct budgetary support, financing structures that are not 
+fit  for  purpose,  geopolitical  restrictions,  and  insufficient  and  unpredictable  global  finance 
+flows; 
+
+(c) 
+
+Difficulties  in  mobilizing  private  finance  owing  to  low  profitability  in 
+vulnerable  sectors,  high  perceived  risks,  limited  investor  appetite  for  adaptation  and 
+inadequate project preparation capacity; 
+
+(d)  Debt burden and fiscal constraints arising from high debt levels, limited fiscal 
+space  and  the  diversion  of  resources  from  sustainable  development  to  address  needs 
+perceived as more urgent. Parties noted that economic shocks, high ratios of debt to gross 
+domestic  product  and  competing  development  priorities  continue  to  erode  fiscal  space, 
+constraining public investment in climate action. 
+
+189.  Compared  with  in  their  previous  NDCs,  21  per  cent  more  Parties  provided  cost 
+estimates for the first time in their new NDCs, while 10 per cent of Parties that had provided 
+quantitative information in their previous NDC did not provide quantitative information in 
+their  new  NDCs.  Additionally,  18  per  cent  more  Parties  provided  cost  estimates  for 
+adaptation-related  needs,  reflecting  a  growing  focus  on  integrating  climate  change 
+considerations into national budgeting processes, public financial management systems and 
+the development of NDC implementation plans, climate finance policies and strategies. 
+
+2.  Technology development and transfer and innovation  
+
+190.  A total of 97 per cent of Parties provided information on technology development and 
+transfer, highlighting their priorities and/or needs, at varying degrees of granularity. About 
+45  per  cent  of  those  Parties  included  both  qualitative  and  quantitative  aspects  related  to 
+technology  needs  and  priorities,  marking  an  increase  in  the  share  of  Parties  including 
+quantitative information since their previous NDCs.  
+
+191.  About  75  per  cent  of  Parties  provided  specific  information  on  technology-related 
+measures,  mainly  in  the  context  of  specific  sectors,  and  some  with  a  focus  on  specific 
+
+48 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+technologies.  Some  34  per  cent  of  Parties  referred  to  information  on  technology-related 
+matters in other reports such as BTRs, NAPs and adaptation communications to complement 
+the information provided in the NDCs. Overall, 27 per cent of Parties (a 13 per cent increase 
+since  their  previous  NDCs)  referred  to  technology  needs  assessments  as  a  source  of 
+information for NDC formulation or an instrument for advancing NDC implementation. 
+
+192. 
+In terms of technology priorities and needs, 92 per cent of Parties outlined measures 
+in support of mitigation. A sectoral analysis of these measures shows that the predominant 
+share of these needs and  priorities is related to the energy sector (cited by  88 per cent of 
+Parties), followed by the transport and AFOLU sectors (cited by 65 and 55 per cent of Parties 
+respectively). Compared with their previous NDCs, there is a notable increase (from 14 to 45 
+per cent) in the share of Parties referring to technology-related measures in the IPPU sector, 
+including related to refrigeration and air conditioning. When referring to the outcomes of the 
+first GST, in addition to priorities related to renewable energy and energy efficiency, around 
+23  per  cent  of  Parties  highlighted  the  current  or  potential  role  of  CCUS  technologies  in 
+achieving their mitigation targets, particularly in the energy and IPPU sectors. 
+
+193.  A total of 72 per cent of Parties elaborated on technology-related measures focused 
+on adaptation. A majority of the Parties (more than 50 per cent) cited technology measures 
+related to agrifood systems, climate monitoring and observations (increased from 22 to 55 
+per  cent  since  previous  NDCs)  and  the  water  sector.  Many  of  the  adaptation-focused 
+measures  were  formulated  to  address  adaptation  priorities  in  multiple  sectors  (e.g.  early 
+warning systems  in the agriculture, water and health  sectors) and/or designed to yield co-
+benefits  for  mitigation,  biodiversity  and/or  sustainable  development  (e.g.  nature-based 
+solutions and ecosystem services of forests and ocean).  
+
+194.  Frequently  cited  cross-cutting  and  multi-sector  technology  measures  include  the 
+application  of  digital  solutions,  including  artificial  intelligence;  energy  and  material 
+efficiency measures; measures for ‘climate proofing infrastructure’; and the use of integrated 
+spatial planning tools and climate observation technologies across various sectors to reduce 
+GHG emissions and/or enhance climate resilience. Some 20 per cent of Parties referenced 
+technology  aspects  in  the  context  of  addressing  loss  and  damage,  including  for  assessing 
+associated needs. 
+
+195. 
+In  articulating  their  needs  and  priorities  related  to  technology  development  and 
+transfer  for  achieving  their  NDCs,  Parties  included  information  on  various  types  of 
+technology (see figure 21). There is broad consistency with their previous NDCs in terms of 
+the order of frequently cited categories of technology needs and priorities, but with a notable 
+increase in the share of Parties referring to measures other than a specific technology, namely 
+those pertaining to research and innovation, institutional aspects, enabling environments and 
+planning  tools.  In  addition,  some  30  per  cent  of  Parties  underscored  the  interplay  of 
+technology  development,  implementation  and  uptake  with  capacity-building,  skills 
+development, and the creation of decent work and quality jobs. 
+
+49 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+Figure 21 
+Categories of technology needs and priorities communicated in nationally determined 
+contributions 
+
+Specific technology
+
+Innovation, research and  development
+
+Policy, regulatory and legal measures (enabling
+environment)
+
+75%
+
+73%
+
+73%
+
+Institutional strengthening and coordination
+
+59%
+
+Planning tools (technology needs assessments
+and technology roadmaps)
+
+Multi-category and others
+
+48%
+
+42%
+
+196. 
+Identified  measures  concerning  policy,  regulatory  and  legal  aspects  in  support  of 
+technology  development  and  transfer  are  varied  and  include  development  of  sectoral 
+guidelines and standards, certification and rating systems, as well as regulatory and policy 
+frameworks, accompanied  by financial incentives, including  with the aim of  engaging the 
+private sector in technology implementation and uptake. Parties referred to such measures as 
+being  instrumental  to  strengthening  enabling  environments  for  promoting  the  use  of  low-
+carbon  and  climate-resilient  technologies,  highlighting  actions  in  the  energy,  transport, 
+AFOLU and ecosystem sectors, among others. In this context, some Parties underscored the 
+importance of robust monitoring and reporting mechanisms, often combined with geospatial 
+tools  and  information  systems,  for  ensuring  transparency  of  actions  and  their  policy  and 
+regulatory compliance, including in the context of cooperation under Article 6 of the Paris 
+Agreement. 
+
+197.  The focus on technology-related data and knowledge management systems was also 
+underscored in the context of strengthening institutional and coordination capabilities. Parties 
+emphasized the pivotal role of such systems, which are often powered by digital solutions 
+and  accompanied  by  related  institutional  arrangements,  in  enabling  cooperation  among 
+institutions and at different levels of governance, including for sharing information, tracking 
+action, improving reporting and monitoring and evaluation, mobilizing support and fostering 
+partnerships. In addition, Parties referred to government-led initiatives and programmes that 
+are  designed  to  promote  enhanced  and  coordinated  domestic  action  for  technology 
+development and deployment, including action by the private sector, citizens and youth.  
+
+198.  When  referring  to  measures  related  to  technology  innovation,  research  and 
+demonstration (which 73 per cent of  Parties did), 57 per cent of those  Parties highlighted 
+them as overarching priorities for advancing technology development and transfer for both 
+mitigation and adaptation. When specified, such measures were most frequently highlighted 
+in the context of the agriculture, forestry and energy sectors, followed by measures focused 
+on  ecosystems  including  ocean,  and  the  water  and  waste  sectors.  In  this  regard,  Parties 
+underscored the importance of context-specific research and innovation and local technology 
+testing,  piloting  and  demonstration,  including  to  foster  the  engagement  of  youth  in 
+technological innovation.  
+
+199.  Parties  communicated  a  widespread  whole-of-society  approach  to  technology 
+implementation,  with  92  per  cent  of  Parties  that  included  information  on  technology 
+development and transfer referring to domestic implementation actors beyond the national 
+Government for  advancing  technology development and transfer and  63 per cent of those 
+Parties  citing  subnational  governments,  local  authorities  and  local  communities  as  key 
+implementation actors. The private sector, farmers and worker communities, youth, women, 
+Indigenous Peoples and members of academia were also frequently cited in this regard.  
+
+50 
+
+ 
+ 
+3.  Capacity-building and institutional strengthening  
+
+FCCC/PA/CMA/2025/8 
+
+200.  A total of 84 per cent of Parties referenced capacity-building in varying detail, with 
+31 per cent of those Parties discussing it in sections on means of implementation or capacity-
+building,  14 per cent discussing it throughout their NDCs and 53 per cent providing only 
+limited references or referring to external sources, such as adaptation communications, BTRs 
+and  NAPs,  for  more  information  on  capacity-building  support  provided  or  needed.  This 
+broadly aligns with the Parties’ previous NDCs and reflects a steady commitment towards 
+building  the  capacity  of  developing  countries.  However,  opportunities  remain  to  further 
+elevate national ambition on and adopt a more systematic approach to building capacity that 
+could facilitate enhanced climate action.  
+
+201.  A total of 66 per cent of Parties explicitly stated that the implementation of their NDCs 
+is either fully or partially dependent on receiving capacity-building support. Parties continued 
+to  emphasize  capacity-building  as  a  critical  enabler  for  achieving  their  climate  goals. 
+Capacity-building  support  needs  were  highlighted  across  adaptation  (by  66  per  cent  of 
+Parties), mitigation (by 69 per cent of Parties) and cross-cutting objectives (by 47 per cent of 
+Parties),  including  transparency,  technology  deployment  and  access  to  climate  finance. 
+Notably, 25 per cent of Parties identified specific capacity needs related to addressing loss 
+and damage, marking a new development not reflected in their previous NDCs.  
+
+202.  Parties  articulated  capacity  gaps  and  needs  across  multiple  cross-cutting  priorities, 
+including with regard to strengthening institutional coordination, enhancing the availability 
+and  sharing of  climate  data  and  information  and  improving  collaboration  between  public, 
+private and international stakeholders. Many Parties reported challenges in accessing climate 
+finance, particularly in navigating financial mechanisms, attracting private investment and 
+improving  financial  planning,  resource  mobilization  and  utilization.  Technology-related 
+capacity needs were frequently mentioned, especially regarding the adoption of low-carbon 
+technologies  and  tools  for  sustainable  resource  management  and  reduced  environmental 
+impacts.  Additionally,  capacity  gaps  were  identified  in  relation  to  meeting  the  reporting 
+requirements under the ETF, such as with regard to securing the technical expertise needed 
+for  sector-level  monitoring  of  emission  reductions,  improving  institutional  coordination 
+across ministries and between national and local institutions, and establishing and enabling 
+robust MRV systems. Several Parties emphasized the need to build capacity for addressing 
+loss and damage, such as with regard to accessing financial support, strengthening research 
+and assessment of economic and non-economic losses and participating in the mechanisms 
+under Article 6 of the Paris Agreement and in carbon markets. 
+
+203. 
+ Capacity needs were reported both across multiple sectors and within specific sectors. 
+A  total  of 53  per  cent  of  Parties  cited  capacity  needs  in  the  agriculture  sector,  such  as  in 
+relation  to  improving  climate  modelling  for  emergency  responses,  promoting  sustainable 
+farming  practices  and  advancing  climate-smart  agriculture;  and  30  per  cent  of  Parties 
+highlighted needs in the energy sector, including related to strengthening energy resilience 
+and  building  technical  capacity  for  renewable  energy  technologies.  Other  sector-specific 
+needs relate to, inter alia, addressing climate change related diseases and impacts on human 
+health,  enhancing  disaster  risk  reduction  efforts,  decarbonizing  transport,  enhancing  the 
+resilience of built environments, and raising public awareness of waste management practices 
+and sustainable water management. 
+
+204.  Parties described capacity-building activities aimed at enhancing public engagement 
+and  awareness-raising,  technical  training,  education,  research  and  innovation.  Parties 
+acknowledged the value of UNFCCC reporting processes, such as BTRs and NAPs, for their 
+capacity  development.  Non-Party  stakeholders,  development  agencies,  United  Nations 
+agencies  and  financial  mechanisms  were  emphasized  as  vital  to  implementing  capacity-
+building efforts and achieving climate action objectives. 
+
+205.  Consistently  with  their  previous  NDCs,  Parties  emphasized  their  capacity-building 
+priorities for vulnerable groups, such as  women, youth, and Indigenous Peoples and local 
+communities,  in  relation  to  strengthening  engagement  in  decision-making,  increasing 
+awareness  and  understanding  of  climate  change  and  health-related  and  disaster  risks,  and 
+expanding training and skills-building initiatives for green jobs. Capacity-building activities 
+were reported frequently as having the aim of addressing capacity gaps for the stakeholders 
+
+51 
+
+ 
+FCCC/PA/CMA/2025/8 
+
+mentioned  above  as  well  as  for  government  employees,  educators,  the  private  sector  and 
+those active in vulnerable sectors, such as agriculture, fisheries, public health and tourism.  
+
+IX.  Contribution towards achieving the objective of the 
+
+Convention as set out in its Article 2, and towards Article 2, 
+paragraph 1(a), and Article 4, paragraph 1, of the Paris 
+Agreement 
+
+206.  The  information  necessary  to  facilitate  clarity,  transparency  and  understanding  of 
+NDCs, which 91 per cent of Parties communicated, includes information on how the NDC 
+contributes towards:48 
+
+(a) 
+
+Achieving the objective of the Convention as set out in its Article 2; 
+
+(b)  Article 2, paragraph 1(a), and Article 4, paragraph 1, of the Paris Agreement. 
+
+207.  A  total  of  36  per  cent  of  Parties  indicated  that  their  level  of  future  emissions  is 
+expected to fall within the scope of a global emission pathway that is consistent with the goal 
+of keeping the global average temperature increase well below 2 or limited to 1.5 °C. In that 
+context, Parties highlighted their national mitigation and/or adaptation efforts aligned with 
+sustainable  development  objectives  and  national  circumstances,  economy-wide  emission 
+reduction targets, commitment to reach net zero by mid-century, development pathways for 
+decoupling  emissions  from  economic  growth  and  advancing  decarbonization,  enhanced 
+measures  for reforestation  and  ecosystem  conservation,  and  mobilization  of  domestic  and 
+international support.  
+
+208.  Since  this  report  considers  64  new  NDCs,  covering  30  per  cent  of  global  GHG 
+emissions in 2019, it is not possible to provide a clear picture of the aggregated effect of all 
+NDCs  towards  achieving  the  objective  of  the  Convention  as  set  out  in  its  Article  2,  and 
+towards Article 2, paragraph 1(a), and Article 4, paragraph 1, of the Paris Agreement on basis 
+of the new NDCs, as was done in previous NDC synthesis reports.49 
+
+Aggregate emissions of Parties that submitted new nationally determined 
+contributions 
+
+209.  Total GHG emission levels resulting from the implementation of the new NDCs are 
+projected to be around 13.9 (13.3–14.6) Gt CO2 eq in 2030 and around 13.0 (12.0–13.9) Gt 
+CO2 eq in 2035 for the relevant group of Parties. In comparison, total global GHG emissions 
+(without LULUCF) are estimated to be around 54.1 (51.2–57.0) Gt CO2 eq in 2030 (see figure 
+22).  
+
+210.  Compared with their 2019 GHG emission levels, the implementation of Parties’ new 
+NDCs is estimated to result in a strong decline in their emissions of 11 (7–15) per cent by 
+2030 and an even stronger decline of 17 (11–24) per cent by 2035 (see table 2). 
+
+Table 2 
+Projected emission reductions by 2030 and 2035 compared with historical and estimated emission 
+levels for the group of Parties that submitted a new NDC 
+
+Years of comparison emission level 
+
+Year of projected 
+emission level 
+
+2030 
+
+2035 
+
+1990 
+
+2000 
+
+2005 
+
+2010 
+
+2015 
+
+2019 
+
+2025 
+
+2030 
+
+7 (3–12) 
+
+9 (5–14)  13 (8–17)  12 (7–16)  11 (7–16)  11 (7–15) 
+
+3 (0–6) 
+
+– 
+
+14 (7–20) 
+
+16 (10–
+22) 
+
+19 (13–
+25) 
+
+18 (12–
+24) 
+
+18 (11–
+24) 
+
+17 (11–
+24) 
+
+10 (4–15) 
+
+7 (5–10) 
+
+Notes: (1) A positive number indicates a reduction below historical levels; (2) the range is the min-
+
+max range across high and low conditional and unconditional case. 
+
+48  See decision 4/CMA.1, annex I, para. 7. 
+49  See https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-
+
+ndcs/2024-ndc-synthesis-report.  
+
+52 
+
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+211. 
+Implementation  of  their  new  NDCs,  even  considering  only  their  unconditional 
+elements, will result in a peaking of GHG emissions for the group of Parties before 2030, 
+with  strong  emission  reductions  thereafter  until  2035  (see  figure  22).  If  all  conditional 
+elements of the new NDCs are fully implemented, the GHG emission reductions of the group 
+of Parties for 2035 would change from 11–24 per cent (full range) to 19–24 per cent below 
+the 2019 level. If none of the conditional elements are implemented, these Parties’ 2035 GHG 
+emissions are projected to be 11–15 per cent below the 2019 level. 
+
+Figure 22 
+Global emissions and aggregate emissions of Parties that submitted new nationally determined contributions 
+
+212.  The  Synthesis  Report  of  the  AR6  indicates  that,  in  order  to  be  in  line  with  global 
+modelled pathways to limiting warming to 1.5 C (with over 50 per cent likelihood in 2100) 
+with no or limited overshoot and those to limiting warming to below 2 °C (with over 67 per 
+cent likelihood), GHG emission reductions will have to be reduced by 60 (49–77) per cent 
+by 2035 relative to the 2019 level and by 35 (22–55) per cent by 2035 relative to the 2019 
+level respectively. For 2040 and 2050, further emission reductions will be needed in order to 
+limit warming to below 1.5 °C with no or limited overshoot, including  achieving net zero 
+CO2 emissions by 2050 (a 99 per cent CO2 emission reduction relative to the 2019 level).  
+
+213.  With their GHG emissions in 2035 on average estimated to be  17 (11–24) per cent 
+below  their  2019  level  (see  para.  211  above),  the  scale  of  the  total  emission  reduction 
+expected to be achieved by the group of Parties (noting that this is only about 33 per cent of 
+Parties  to  the  Paris  Agreement)  through  implementation  of  their  new  NDCs  falls  short of 
+what is necessary according to the IPCC ranges referred to in paragraph 212 above. 
+
+214.  On a per capita basis, the Parties with new NDCs are estimated to have approximately 
+11 per cent higher per capita emission levels in 2019 (at 7.6 t CO2 eq) compared with the 
+global  average  (6.8  t  CO2  eq).  The  new  NDCs  indicate  a  declining  trend  in  the  group  of 
+Parties’ per capita emissions, from more than  8.5 t CO2 eq in 2010 to about 5.3 t CO2 eq 
+projected for 2035 (see figure 23). Per capita emissions for this group of Parties are estimated 
+to decline by 11 per cent from 2030 to 2035.50 
+
+215.  A total of 70 per cent of Parties with new NDCs have both 2035 emission targets in 
+their new NDCs and long-term visions, development pathways and targets communicated in 
+their  NDCs  or  LT-LEDS  (see  para.  152  above).51 On  the  basis  of  that  information,  and 
+assuming the full implementation of all NDCs and LT-LEDS, those Parties’ total emissions 
+in 2050 are estimated at 7.1 (6.2–7.9) Gt CO2 eq.52 The link between the NDCs and long-
+term  visions,  development  pathways  and  targets  or  LT-LEDS  is  also  reflected  in  the 
+
+50    Per capita emission levels were calculated on the basis of the AR6 Working Group III scenario 
+database (available at https://data.ece.iiasa.ac.at/ar6/) for the categories “C3a” and “C1a” 
+respectively. 
+
+51    See decision 1/CMA.5, para. 40. 
+52  Assuming constant emissions after 2035 for Parties without a long-term target. 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FCCC/PA/CMA/2025/8 
+
+aggregate emission levels of those Parties in 2035, which are approximately consistent with 
+following  a  linear  emissions  trajectory  from  2030  estimated  emission  levels  towards 
+aggregated  emission  levels  resulting  from  the  implementation  of  the  long-term  visions, 
+development pathways and targets communicated in NDCs or LT-LEDS. 
+
+216.  Mindful of the inherent uncertainty of such long-term estimates, and the need for full 
+implementation  of  NDCs,  the  information  indicates  that  the  total  GHG  emission  level  of 
+Parties with new NDCs could be around 55 (50–60) per cent lower in 2050 than in 2019, and 
+their annual per capita emissions would be  around 2.6 (2.3–2.9) t CO2 eq by 2050. Under 
+scenarios of limiting warming to likely below 2 °C (with over 67 per cent likelihood), global 
+annual  per  capita  emissions  are  estimated  at  2.3  (1.8–2.7)  t  CO2  eq  in  2050;  hence  the 
+estimated long- term per capita emissions of these Parties are estimated at a level consistent 
+with 2 °C scenarios. However, for scenarios of limiting warming to 1.5 °C (with 50 per cent 
+likelihood by 2100) with limited overshoot, annual per capita emissions are required to be at 
+1.2 (1.0–1.5) t CO2 eq, which is two times lower than the projections based on new NDCs 
+and LT-LEDS by 2050. 
+
+Figure 23 
+Emission levels of Parties that have submitted new nationally determined contributions in the context of per 
+capita emission levels of scenarios that limit warming to 1.5 °C or below 2 °C warming and in the context of the 
+long-term targets of the Parties 
+
+Note: Globally averaged per capita emissions under scenarios of limiting warming to 1.5 °C and below 2 °C (coloured bands) are 
+
+shown in the context of global per capita emissions (dashed line) and NDC targets until 2030, as well as in comparison with per 
+capita emission levels (solid line) of Parties that have submitted new NDCs (left panel); the scenarios are the C1 (“1.5 °C”), C3a 
+(“2 °C”)and “NDC and delayed action (P3b)” C2 & C3 scenarios assessed by the contribution of Working Group III to AR6 (left 
+panel); emissions of Parties that have submitted new NDCs are compared with a linear trajectory between their recent historical 
+emissions (2023 level) and emission levels in line with their long-term visions, quantified for 2050 (red dashed line), showing a near-
+linear transition (right panel). 
+
+54 
+
+ 
+ 
+  
+ 
+ 
+ 
+

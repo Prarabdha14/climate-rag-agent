@@ -1,0 +1,26 @@
+# --- System & Logs ---
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+backups/
+.vscode/
+
+# --- Heavy Dependencies (User installs these via requirements.txt) ---
+.venv/
+env/
+venv/
+frontend/node_modules/
+
+# --- Large Assets (User downloads these via README instructions) ---
+models/
+data/audio/*.mp3
+data/audio/*.wav
+# Keep the text/PDFs in data so they have samples, but ignore massive ones if you added any
+# data/images/NorthMiss-2011.jpg
+
+# --- Runtime Generated Files ---
+uploads/
+demo/outputs/
+*.db
+*.sqlite

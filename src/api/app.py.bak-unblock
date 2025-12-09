@@ -1,0 +1,201 @@
+# src/api/app.py
+"""
+FastAPI wrapper around the Climate RAG pipeline.
+Robust: lazy-instantiates heavy components and handles missing/variant constructors.
+"""
+import traceback
+from pathlib import Path
+from fastapi import FastAPI, File, UploadFile
+from fastapi.middleware.cors import CORSMiddleware
+import shutil
+
+# lazy placeholders
+_orch = None
+_retriever = None
+
+def get_orchestrator():
+    global _orch
+    if _orch is not None:
+        return _orch
+    try:
+        # import lazily so startup errors are visible and handled
+        from core.orchestrator import PipelineOrchestrator
+        _orch = PipelineOrchestrator()
+        return _orch
+    except Exception:
+        traceback.print_exc()
+        raise
+
+def build_candidate_docs():
+    """
+    Return a reasonable default list/path to pass to Retriever if needed.
+    We prefer the index folder if present, otherwise the text folder.
+    """
+    repo_root = Path.cwd()
+    # prefer data/index
+    idx = repo_root / "data" / "index"
+    txt = repo_root / "data" / "text"
+    if idx.exists():
+        return {"index_dir": str(idx)}
+    if txt.exists():
+        # pass a list of text files or the folder path depending on Retriever signature
+        return {"docs": [str(p) for p in sorted(txt.glob("*.txt"))]}
+    return {}
+
+def get_retriever():
+def get_retriever():
+    """Lazily instantiate Retriever. Build a docs list from data/text/*.txt and pass it
+    as the required positional `docs` argument if possible. Try several fallbacks.
+    """
+    global _retriever
+    if _retriever is not None:
+        return _retriever
+
+    try:
+        from core.retrieval import Retriever
+    except Exception:
+        import traceback
+        traceback.print_exc()
+        return None
+
+    # Build docs list from data/text/*.txt as a list of dicts {id, text, source}
+    docs = []
+    try:
+        from pathlib import Path as _P
+        txt_dir = _P.cwd() / "data" / "text"
+        if txt_dir.exists():
+            for fp in sorted(txt_dir.glob("*.txt")):
+                try:
+                    text = fp.read_text(encoding="utf-8")
+                except Exception:
+                    text = ""
+                docs.append({"id": fp.name, "text": text, "source": str(fp.resolve())})
+    except Exception:
+        # ignore problems building docs; we'll try other constructors below
+        docs = []
+
+    # Try constructing Retriever with docs (positional) first because this implementation requires it.
+    try:
+        if docs:
+            _retriever = Retriever(docs)
+            return _retriever
+    except Exception:
+        import traceback
+        traceback.print_exc()
+
+    # Try multiple common constructor signatures in order.
+    try:
+        _retriever = Retriever()
+        return _retriever
+    except TypeError:
+        pass
+    except Exception:
+        import traceback
+        traceback.print_exc()
+
+    try:
+        if docs:
+            _retriever = Retriever(docs=dics)  # try keyword (some variants)
+            return _retriever
+    except Exception:
+        import traceback
+        traceback.print_exc()
+
+    try:
+        idx = str((_P.cwd() / "data" / "index").resolve())
+        _retriever = Retriever(idx)
+        return _retriever
+    except Exception:
+        import traceback
+        traceback.print_exc()
+
+    try:
+        _retriever = Retriever(index_dir=idx)
+        return _retriever
+    except Exception:
+        import traceback
+        traceback.print_exc()
+
+    print("[WARN] Could not construct Retriever with tried signatures.")
+    return None
+    # if none worked, leave _retriever as None
+    print("[WARN] Could not construct Retriever with tried signatures.")
+    return None
+
+
+app = FastAPI(title="Climate RAG API (robust)")
+
+# allow local dev UI (be cautious in production)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+
+@app.post("/process")
+async def process(file: UploadFile = File(...)):
+    """
+    Accepts a single file upload and processes it via the orchestrator.
+    Returns the summary JSON produced by the pipeline.
+    """
+    try:
+        orch = get_orchestrator()
+    except Exception as e:
+        return {"error": "orchestrator_unavailable", "detail": str(e)}
+
+    UPLOAD_DIR = Path("uploads")
+    UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+
+    temp_path = UPLOAD_DIR / file.filename
+    try:
+        with open(temp_path, "wb") as buffer:
+            shutil.copyfileobj(file.file, buffer)
+    except Exception as e:
+        return {"error": "upload_failed", "detail": str(e)}
+
+    suf = temp_path.suffix.lower()
+    try:
+        if suf == ".pdf":
+            out = orch.process_pdf(temp_path)
+        elif suf in [".jpg", ".jpeg", ".png", ".webp"]:
+            out = orch.process_image(temp_path)
+        elif suf in [".wav", ".mp3"]:
+            out = orch.process_audio(temp_path)
+        else:
+            # treat as text by default
+            out = orch.process_text(temp_path)
+    except Exception as e:
+        traceback.print_exc()
+        return {"error": "processing_failed", "detail": str(e)}
+
+    return out
+
+
+@app.post("/query")
+async def query(payload: dict):
+    q = payload.get("query", "")
+    if not q:
+        return {"error": "missing_query"}
+
+    retr = get_retriever()
+    if retr is None:
+        return {"error": "retriever_unavailable", "detail": "Could not instantiate Retriever; check core/retrieval.py"}
+
+    # some Retriever implementations may provide a `search` or `query` method
+    try:
+        if hasattr(retr, "search"):
+            return retr.search(q, k=5)
+        elif hasattr(retr, "query"):
+            return retr.query(q, top_k=5)
+        else:
+            return {"error": "retriever_interface_unknown", "detail": "Retriever has no search/query method"}
+    except Exception as e:
+        traceback.print_exc()
+        return {"error": "retrieval_failed", "detail": str(e)}

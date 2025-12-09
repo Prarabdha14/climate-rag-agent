@@ -1,0 +1,1444 @@
+National Aeronautics and 
+Space Administration
+
+Advancing 
+NASA’s 
+Climate 
+Strategy
+
+www.nasa.gov
+
+Advancing NASA’s Climate Strategy  |  1
+
+2023National Aeronautics and 
+Space Administration
+
+Advancing 
+NASA’s 
+Climate 
+Strategy
+
+NASATable of 
+Contents
+
+National Aeronautics and 
+Space Administration
+
+Executive Summary
+
+Background and Context
+
+NASA’s Climate Portfolio 
+
+2
+
+4
+
+7
+
+Status and Challenges  10
+
+Priorities and Needs
+
+Priority 1: Innovate
+
+Priority 2: Inform
+
+Priority 3: Inspire
+
+Priority 4: Partner
+
+Last Word
+
+14
+
+15
+
+19
+
+22
+
+24
+
+27
+
+Advancing NASA’s Climate Strategy  |  1
+
+ 
+ 
+ 
+ 
+ 
+Executive 
+Summary
+
+NASA’s climate mission is 
+to observe, understand, and 
+address climate change 
+through science, exploration 
+and innovation for the 
+benefit for all. 
+
+NASA uses the vantage point of space and its expertise in aeronautics to 
+innovate, inform, and inspire for the benefit of all. NASA is a leader and trusted 
+partner in providing climate and Earth system observations, modeling, research, 
+applications, technology, and actionable information to scientists, decision-
+makers, and the public. NASA’s free and open data powers research across 
+the federal government, academia, and the private sector. The agency also 
+works alongside international, federal, state, and local partners to advance 
+understanding of and response to our changing planet. 
+
+NASA’s climate portfolio is varied, extensive, and covers multiple missions and 
+focus areas. To help assess and advance NASA’s climate strategy, a Climate 
+Strategy Working Group (CSWG) was created and now falls under the guidance of 
+the Office of the Chief Scientist. The CSWG found:
+
+• With more than two dozen satellites and instruments observing key climate 
+
+indicators, NASA, in coordination with its domestic and international 
+partners, remains the world’s leading agency for observing and 
+understanding changes to the Earth system;
+
+• NASA has decades of experience developing technologies that contribute 
+
+to reducing emissions and enhancing sustainability; and 
+
+• NASA delivers climate-related information and resources to a wide range of 
+
+government and university partners as well as the public.
+
+The breadth of NASA’s climate efforts presents challenges in, and opportunities 
+for, intra-agency coordination. In addition, there are many other governmental and 
+non-governmental entities engaged in climate-related research and technology 
+
+development that present partnering opportunities and a need to clearly 
+articulate NASA’s role. There is also a need to continue to improve 
+the discoverability, accessibility, and usability of NASA’s climate 
+
+information and technology. Finally, climate is changing, which 
+impacts research needs and our own operations (including 
+
+mission safety and timely attainment of milestones).
+
+To address these challenges and achieve our climate 
+mission, the CSWG identified four major priorities and 
+several needs within each priority. These priorities are to 
+innovate, inform, inspire, and partner. 
+
+Advancing NASA’s Climate Strategy | 2
+
+Priorities
+
+Priority 1
+INNOVATE
+
+Priority 2
+INFORM
+
+Priority 3
+INSPIRE
+
+Priority 4
+PARTNER
+
+1.1. Advance climate and Earth science through novel observations, including 
+the Earth System Observatory, associated research and modeling, and the 
+creation of societally useful applications.
+1.2. Advance the development and use of aeronautics and space technologies 
+that enable us to understand, mitigate, and adapt to climate change. 
+1.3. Promote Earth-based applications of technologies developed for space 
+exploration, space operations, and aviation for climate adaptation and mitigation.
+1.4. Ensure sustainability of NASA centers and facilities, including reducing 
+agency greenhouse gas (GHG) emissions and increasing resiliency to climate 
+variability and change.
+
+2.1. Increase discoverability, accessibility, and usability of climate and Earth 
+science information.
+2.2. Support communities and stakeholders in preparing for and responding to 
+climate change by enhancing information, tools, applications, and resources that 
+draw on NASA observations, models, and people to improve societal resilience.
+2.3. Address climate change impacts in underserved and vulnerable 
+communities by promoting equity in the collection and use of climate and Earth 
+science information.
+
+3.1. Help humanity understand and prepare for climate change by improving 
+stakeholder and public awareness of and access to NASA climate discoveries, 
+information, and technology.
+3.2. Enhance and support climate literacy of the NASA workforce and those 
+who work with NASA.
+3.3. Inspire and educate the next generation of climate researchers  
+and citizens.
+
+4.1. Facilitate coordination and partnerships with other federal agencies, 
+international entities, and state, local, and tribal governments to deliver 
+actionable climate information to stakeholders, and ensure the broadest 
+applicability of NASA climate information and technologies.
+4.2. Expand ongoing successful partnerships and determine the appropriate role 
+for NASA in collaborating with the growing number of commercial entities and non-
+profit organizations conducting climate observations, research, and applications.
+4.3. Increase coordination and collaboration among NASA centers and 
+mission directorates with respect to climate research and climate-related 
+technology development.
+
+The CSWG has sought to better understand the agency’s current climate portfolio, 
+articulate challenges, and identify opportunities to advance NASA’s climate efforts. 
+The result, “Advancing NASA’s Climate Strategy,” outlines priorities and needs that 
+can enable the continuation and expansion of a legacy of robust contributions to 
+understanding the Earth’s changing climate, providing actionable information to those 
+who need it, and innovating for the benefit of humanity. 
+
+Advancing NASA’s Climate Strategy  |  3
+
+National Aeronautics and 
+Space Administration
+
+Background 
+and Context
+
+Advancing NASA’s Climate Strategy  |  4
+
+NASABackground 
+and Context
+
+Television InfraRed 
+Observations 
+Satellite 1(TIROS-1)
+
+Climate is changing. Earth’s average surface temperature in 2022 was 
+tied for the fifth warmest on record, with the nine most recent years 
+being the warmest since modern record keeping began. Along with 
+increases in temperature, there are other changes in the Earth system, including 
+declines in Arctic sea ice, increases in sea level, and increases in extreme events. 
+For example, the number of record high temperature events in the United States 
+has been increasing since 1950; and the U.S. has also witnessed increasing 
+numbers of intense rainfall events.
+
+NASA is the U.S. space agency that provides end-to-end research about our 
+home planet, including observations, models, decision support, and technology 
+development. NASA has a long history of Earth observations and climate research, 
+beginning with the Television InfraRed Observations Satellite (TIROS) in the 1960s. 
+While NASA has traditionally focused on researching the Earth system, including 
+changes in climate, its centers and facilities are also impacted by climate change.
+
+By statute, NASA is the lead agency for civil aeronautics research and conducts 
+aeronautics research and development to “increase the efficiency of the Nation’s air 
+transportation system” and “protect the environment” (51 U.S.C. § 40102). NASA 
+has also been tasked with performing scientific research that can be productively 
+studied from space, including “Earth Science research and research on the Sun-Earth 
+connection through the development and operation of satellites and other means” 
+(51 U.S.C. § 20301(a)(3)(B)). Specifically, NASA shall “pursue a program of Earth 
+observations, research, and applications activities to better understand the Earth, how 
+it supports life, and how human activities affect its ability to do so in the future” (51 
+U.S.C. § 60501). Additionally, the law acknowledges that “securing practical benefits 
+for society will be an important measure of [the success of these programs] in addition 
+to securing new knowledge about the Earth system and climate change.” NASA 
+is also tasked with ensuring that the climate-related data generated from its grant 
+awards is made available to be shared among other researchers “to enhance and 
+facilitate their availability and widest possible use to ensure public access to accurate 
+and current data on global warming” (51 U.S.C. § 60506). 
+
+Advancing NASA’s Climate Strategy  |  5
+
+NASABackground and Context
+
+NASA is one of many U.S. Government Agencies that researches climate. 
+There are several interagency coordination efforts related to climate change, 
+including the National Climate Task Force and the U.S. Global Change 
+Research Program (USGCRP). In addition, the National Space Council 
+identified climate as a priority topic. There are also several climate-related 
+Executive Orders (E.O.) that affect NASA, including:
+
+EO14008:  
+Tackling the Climate 
+Crisis at Home and 
+Abroad (January 
+27, 2021), which 
+mandated the 
+development of the 
+Agency Climate Action 
+Plan (CAP); 
+
+EO14057: 
+ Catalyzing Clean Energy 
+Industries and Jobs Through 
+Federal Sustainability (Decembe
+8, 2021), which directs the 
+federal government to reduce 
+emissions from federal 
+operations and invest in clean 
+energy industries; and
+
+r 
+
+EO13985: 
+Advancing Racial Equity and 
+Support for Underserved 
+Communities Through the Federa
+l 
+Government (January 20, 2021), 
+which led to the development of 
+NASA’s Equity Action Plan which
+includes an action on climate and
+Earth science information.
+
+The CSWG was created under the leadership of the Senior Climate Advisor to 
+help navigate the intra- and inter-agency climate landscape and develop a NASA-
+wide strategy for climate. The motivating questions that the CSWG is addressing 
+in this report include:
+
+• What is NASA’s current portfolio in climate-related research?
+
+• Where is NASA leading in climate change observations,  
+
+research, and technology?
+
+• Where are there opportunities to strengthen NASA’s climate portfolio? 
+
+• What is NASA’s role in climate-related research and technology 
+
+development, relative to other federal agencies, international agencies, and 
+other actors (e.g., non-profit organizations, private industry)? 
+
+This report is intended to help coordinate and advance NASA’s 
+
+climate efforts internally, as well as facilitate communication of 
+NASA’s portfolio externally.
+
+Artemis I Flight Day 13: 
+Orion, Earth and Moon
+
+Advancing NASA’s Climate Strategy  |  6
+
+NASA 
+ 
+National Aeronautics and 
+Space Administration
+
+NASA’s Climate
+Portfolio
+
+Advancing NASA’s Climate Strategy  |  7
+
+NASANASA’s Climate 
+Portfolio
+
+NASA’s climate portfolio is varied, extensive, and covers multiple 
+missions and focus areas. Research in climate processes and long-
+term trends is conducted mainly, but not exclusively, through the 
+Science Mission Directorate (SMD) in the Earth Science Division (ESD). 
+Broadly, the ESD implements the current and future Earth observing missions, 
+including the mission science and applications teams, modeling and analysis, and 
+technology development to maximize the science and applications potential. This 
+encompasses the development of new Earth observing instruments, monitoring 
+of long-term climate trends, observing the climate processes that are essential 
+to understanding and predicting climate changes, supporting observation-led 
+model development, supporting the use of these models and observations in 
+applications, and provision of data to user communities. Additionally, through 
+ESD’s Commercial Smallsat Data Acquisition Program, NASA is leveraging 
+commercial capabilities through the purchase of data from several commercial 
+remote-sensing companies. 
+
+In the other SMD divisions, the Heliophysics Division (HPD) supports research into 
+the impacts of the Sun on Earth’s climate, while the Planetary Science Division 
+(PSD) and Astrophysics Division (APD) investigate habitability on Earth throughout 
+its 4.5 billion-year history through the Astrobiology Program. These divisions 
+also study climate conditions on solar system bodies and newly characterized 
+exoplanets (planets beyond the solar system), looking at signs of habitability and 
+climate systems in general on distant worlds. This research often uses climate 
+models that were initially developed for modern Earth conditions and expanded to 
+encompass this increasingly broad range of environments. 
+
+NASA’s climate portfolio also encompasses research and technology development 
+in aeronautics and space technology, focused on clean energy, environmental 
+monitoring, and sustainable aviation. The Aeronautics Research Mission 
+Directorate (ARMD) supports U.S. leadership in global aviation by advancing the 
+state of the art to dramatically improve the efficiency of civil aircraft and engines 
+and develop new operational concepts for aviation. This includes research and 
+
+Advancing NASA’s Climate Strategy  |  8
+
+NASA’s Climate Portfolio
+
+An artist’s concept of the 
+transonic truss-braced 
+wing aircraft configuration.
+
+technology development for sustainable aviation 
+through increasing fuel efficiency, reductions in 
+other pollutants, aircraft operations research, 
+and the development of new hybrid and fully 
+electric powertrains for aircraft.1 
+
+The Space Technology Mission Directorate 
+(STMD) seeks to transform NASA space missions 
+and ensure American leadership in the space economy by rapidly developing, 
+demonstrating, and transferring revolutionary, high-payoff space technologies driven 
+by diverse ideas. Climate-relevant investments include technology development 
+across the breadth of NASA’s missions, including: clean energy creation (e.g., 
+solar, small-scale nuclear, and bioenergy, higher efficiency battery and energy 
+storage, cryogenic storage and transfer enabling a hydrogen economy); mitigation 
+solutions (e.g., conversion of carbon dioxide to oxygen, carbon dioxide regulation 
+technology in space environments); sensor and spacecraft platform development for 
+improved Earth observations in situ and from space; software to improve modeling, 
+simulation, assimilation; and decision support for prediction and climate mitigation, 
+as well as increased aircraft efficiency and electric aircraft propulsion. In addition to 
+conducting technology development projects with a diverse group of awardees from 
+early stages to technology demonstrations, STMD also advances NASA’s mission 
+and enhances connections with the public through open innovation tools, and 
+approaches, markets, and licenses NASA’s patent portfolio to create commercial 
+products to benefit the nation.
+
+The International Space Station (ISS), under the purview 
+of the Space Operations Mission Directorate (SOMD), 
+has become a significant Earth observation platform, 
+with numerous science instruments aboard. Many of the 
+Earth observing instruments on the ISS are sponsored by 
+SMD/ESD. Other Earth observation payloads have been 
+developed by external partners (e.g., other U.S. Government 
+Agencies, or international partners such as the Japanese 
+Aerospace Exploration Agency, or JAXA) and sponsored 
+by SOMD. The ISS also advances sustainability technology 
+that benefits Earth, including water and air recycling, and 
+food production. Water recycling technology, sponsored by 
+the Exploration Systems Development Mission Directorate 
+
+International 
+Space Station
+
+(ESDMD) and SOMD, has been used in rural and disaster relief applications 
+on Earth; oxygen recovery and food production technology, sponsored by the 
+ESDMD, are both leveraging from and contributing to terrestrial applications. 
+
+The Mission Support Directorate (MSD) and specifically the Office of Strategic 
+Infrastructure (OSI) work to both assess the agency’s carbon footprint, support 
+center sustainability plans, and track the resilience of NASA infrastructure in the 
+face of climate change. 
+
+1 See here for more details: https://www.nasa.gov/aeroresearch/nasa-aims-for-climate-friendly-aviation; 
+https://www.nasa.gov/aeroresearch/nasa-plans-for-subsonic-flight-demonstrator; https://www.nasa.gov/
+aeroresearch/solicitations; https://sam.gov/opp/6c070678508b4897a48270073da7edfe/view
+
+Advancing NASA’s Climate Strategy  |  9
+
+NASANASA’s Climate Portfolio
+
+CYGNSS (8)
+
+NISTAR, EPIC
+
+GRACE-FO (2)
+
+2015
+
+SMAP
+
+OCO-2
+
+2020
+
+ICESAT-2
+
+SENTINEL-6
+MICHAEL FREILICH
+
+LIS
+
+SAGE III
+
+TSIS-1
+
+ECOSTRESS
+
+GEDI
+
+OCO-3
+
+1995
+
+EMIT
+
+CLARREO-PF
+
+LANDSAT-9
+
+TROPICS (4)
+
+SWOT
+
+TEMPO
+
+LANDSAT 7
+
+TERRA
+
+2000
+
+GPM
+
+LANDSAT 8
+
+SUOMI NPP
+
+2010
+
+CALIPSO
+
+AQUA
+
+AURA
+
+CLOUDSAT
+
+PREFIRE (2)
+
+2005
+
+EARTH FLEET
+
+INVEST/CUBESATS
+
+CIRIS 2023
+NACHOS 2022
+CTIM 2022
+NACHOS-2 2022
+SNOOPI* 2022
+MURI-FO* 2022
+HYTI* 2023
+
+JPSS INSTRUMENTS
+
+OMPS-LIMB 2022
+LIBERA 2027
+OMPS-LIMB 2027
+OMPS-LIMB 2032
+
+ISS INSTRUMENTS
+
+NISAR
+
+MAIA*
+
+KEY
+
+INTERNATIONAL PARTNERS
+U.S. PARTNER
+ISS INSTRUMENT
+JPSS INSTRUMENT
+CUBESAT
+LAUNCH DATE TBD
+
+(PRE) FORMULATION
+IMPLEMENTATION
+OPERATING
+EXTENDED
+
+102.01.22
+
+PACE
+
+TSIS-2*
+
+2025
+
+SENTINEL-6B
+
+GLIMR*
+
+INCUS*
+
+LANDSAT NEXT*
+
+ESO-1, 2, 3, 4*
+
+MISSIONS
+
+NASA’s Earth 
+Fleet is the 
+global leader in 
+surveying climate 
+change and 
+climate process 
+from space
+
+NASA’s communications and outreach efforts are committed to informing, 
+inspiring, and involving the public. Through media engagement, communication 
+campaigns, press releases, web feature stories, video and audio storytelling, a 
+robust web presence, social media and partnerships, NASA informs the public 
+about climate-related research, applications, and technology, and engages people 
+of all ages in learning about climate and the Earth system. NASA’s Office of STEM 
+Engagement (OSTEM) plays an important role in preparing a diverse workforce 
+and bringing NASA climate-related knowledge to students, by engaging students 
+in authentic learning experiences with NASA’s people, content, and facilities, and 
+attracting diverse groups of students to STEM. NASA mission directorates also 
+support these objectives through individual and collaborative activities.
+
+Additionally, NASA’s federated organization through different field centers 
+has allowed for independent development of climate-related expertise and 
+connections to stakeholders across the country and internationally. 
+
+Status and Challenges
+The inventory of current activities reveals an impressive array of efforts across the 
+agency, demonstrating how NASA is paving the way on many aspects of climate-
+related research and applications (see box above). To support this strategy, the 
+CSWG assessed the status of NASA’s climate portfolio and found:
+
+• With more than two dozen satellites and instruments observing key 
+
+climate indicators, and with the upcoming Earth System Observatory 
+(ESO), NASA, in coordination with its domestic and international partners, 
+remains the world’s leading agency for observing and understanding 
+changes to the Earth system; 
+
+Advancing NASA’s Climate Strategy  |  10
+
+NASANASA’s Climate Portfolio
+
+• NASA has decades of experience developing technologies that contribute 
+
+to reducing emissions and enhancing sustainability; and 
+
+• NASA delivers climate-related information and resources to a wide range of 
+
+government and university partners as well as the public.
+
+In assessing the efficacy and impact of the agency’s current activities, the CSWG 
+identified several challenges that this strategy aims to address:
+
+• Climate change involves or touches almost the entire agency, including 
+
+every mission directorate. Agency activities go beyond climate research to 
+significant investment in climate-related technology in aeronautics, clean energy, 
+environmental monitoring, and applications. Furthermore, the agency has key 
+infrastructure at risk from climate change and has begun to consider GHG 
+emissions and climate in its planning and sustainability processes. This breadth 
+presents challenges in, and opportunities for, intra-agency coordination; 
+
+• There are many other governmental and non-governmental actors engaged in 
+climate-related research and technology development that present partnering 
+opportunities and a need to clearly articulate NASA’s role in climate; 
+
+• There is a need to continue to improve the discoverability, accessibility, and 
+
+usability of NASA’s climate information and technology; and
+
+• Climate is changing, which impacts research needs and NASA’s operations 
+
+(including mission safety and timely attainment of milestones). 
+
+Selected Highlights of the Breadth and Quality of NASA’s Climate Portfolio
+
+NASA’s climate portfolio is varied, extensive, and covers multiple missions and focus areas. This 
+box highlights a small set of examples for six different focus areas.
+
+Sea level rise and coastal impacts
+
+Observations: NASA has several satellites and field campaigns focused on ocean, ice, and 
+sea level rise. For example, NASA, together with NOAA, the European Space Agency (ESA), the 
+French Space Agency (CNES), and the European Organisation for the Exploitation of Meteorological 
+Satellites (EUMETSAT), have measured sea level rise for ~30 years using a series of satellite 
+altimeters. Additionally, the GRACE and GRACE-FO missions, a partnership with the German 
+Aeospace Center (DLR) and the German Research Center for Geosciences (GFZ) have provided 
+powerful evidence for ice sheet and glacier loss. The Oceans Melting Greenland field campaign 
+helped scientists understand the role of ocean warming in ice sheet loss.
+
+Research, Analysis, and Applications: The Sea Level Change Portal provides for sea level 
+information based on satellite observations, climate models, and projected scenarios of future sea 
+level change, including the latest Intergovernmental Panel on Climate Change (IPCC) report, National 
+Climate Assessment, and high-tide flood estimates (https://sealevel.nasa.gov). 
+
+Implementation: NASA periodically performs shoreline restoration and beach renourishment efforts 
+at Wallops Flight Facility and Kennedy Space Center. 
+
+Advancing NASA’s Climate Strategy  |  11
+
+NASA’s Climate Portfolio
+
+Selected Highlights of the Breadth and Quality of NASA’s Climate Portfolio (continued)
+
+Health and Air Quality
+
+Observations: The Dutch-Finnish Ozone Monitoring Instrument (OMI) on the Aura satellite is one 
+of a number of space-based instruments that measure ozone and air pollutants from space. 
+
+Research, Analysis, and Applications: The Earth Observing Dashboard, developed by 
+NASA, JAXA, and ESA, provides information on air quality globally (https://eodashboard.org/).
+
+Wildfires 
+
+Observations: NASA has several satellites and instruments in orbit that provide information 
+on wildfires, including active fires, burn perimeters, and fuel for fire. For example, the Moderate 
+Resolution Imaging Spectroradiometer (MODIS) instrument provides information on active fires. 
+
+Research, Analysis, and Applications: The Fire Information for Resource Management System 
+(FIRMS) provides near real-time information on active fires (https://firms.modaps.eosdis.nasa.gov/).
+
+Technology and Innovation: The Scalable Traffic Management for Emergency Response 
+Operations (STEReO) tests the use of NASA technology, like Unmanned Aircraft Systems, in 
+responding to wildfires and other emergencies.
+
+Greenhouse Gases 
+
+Observations: NASA has satellites (e.g., Orbiting Carbon Observatory (OCO)-2), instruments on 
+the ISS (e.g., OCO-3), and field campaigns (e.g., Arctic-Boreal Vulnerability Experiment or ABoVE) that 
+provide information on GHGs and the carbon cycle. 
+
+Research, Analysis, and Applications: The Carbon Monitoring System is a portfolio of projects 
+that develop capabilities to support stakeholder needs for monitoring, reporting, and verification of 
+carbon stocks and fluxes (https://carbon.nasa.gov/).
+
+Technology and Innovation: The CO2 Conversion Challenge is a competition that sought to create 
+a carbon dioxide-based manufacturing system that can be used in space and on Earth. It took place in 
+two phases and awarded $750,000 in prize money. 
+
+Advancing NASA’s Climate Strategy  |  12
+
+NASA’s Climate Portfolio
+
+Selected Highlights of the Breadth and Quality of NASA’s Climate Portfolio (continued)
+
+Energy and Power for Efficient Communities
+
+Research, Analysis, and Applications: NASA POWER provides solar and meteorological data 
+sets from NASA research for support of renewable energy, building energy efficiency and agricultural 
+needs (https://power.larc.nasa.gov).
+
+Technology and Innovation: The Sustainable National Flight Partnership (SNFP) will demonstrate 
+the first-ever high-power hybrid-electric propulsion on a large transport aircraft, ultra-high efficiency 
+long and slender aircraft wings, new large-scale manufacturing techniques of composite materials, 
+and advanced engine technologies based on breakthrough NASA innovation.
+
+Agriculture
+
+Observations: NASA has several satellites and instruments in orbit that provide information 
+about agriculture and land use. For example, the NASA-U.S. Geological Survey (USGS) Landsat 
+program has provided 50 years of continuous observations of land use and land cover, including 
+crops and agriculture.
+
+Research, Analysis, and Applications: NASA Harvest is a consortium of actors, including 
+public, private, and universities, focused on using satellite information for agricultural applications.
+
+Technology and Innovation: The Vegetable Production System (Veggie) is a plant growth unit 
+on the ISS, which helps NASA study plant growth in microgravity to support the crew’s food 
+consumption. Research into growing crops on ISS has led to improvements in LED lighting and 
+fertilizers used on Earth.
+
+In addition to studying individual areas, NASA also studies the Earth as a system, including the 
+development and use of two Earth system models. NASA’s Goddard Institute for Space Studies’ 
+ModelE is NASA’s key modeling contribution to domestic and international assessment efforts, 
+including the IPCC 6th Assessment Report and the upcoming 5th National Climate Assessment. 
+The Goddard Earth Observing System Model (GEOS) represents dynamical, physical, chemical, 
+and biological processes across a wide range of space and time scales.
+
+Advancing NASA’s Climate Strategy  |  13
+
+National Aeronautics and 
+Space Administration
+
+Priorities  
+and Needs
+
+Advancing NASA’s Climate Strategy  |  14
+
+NASAPriorities
+and Needs
+
+To address these challenges and achieve the agency’s climate mission, 
+the CSWG identified four major priorities and several needs within each 
+priority. These priorities are to innovate, inform, inspire, and partner. 
+
+NASA’s Climate Mission and Description 
+
+Mission: To observe, understand, and address climate change through science, 
+exploration, and innovation for the benefit of all.
+
+Description: NASA uses the vantage point of space and its expertise in aeronautics to innovate, 
+inform, and inspire for the benefit of all. NASA is a leader and trusted partner in providing climate and 
+Earth system observations, research, applications, technology, and actionable information to scientists, 
+decision-makers, and the public. NASA’s free and open data powers research across the federal 
+government, academia, and the private sector. The agency also works alongside international, federal, 
+state, tribal and local partners to advance understanding of and response to our changing planet.
+
+Priority 1
+INNOVATE
+
+1.1: Advance climate and Earth science through the initiation of novel 
+observations, including the Earth System Observatory, associated research 
+and modeling, and the creation of societally useful applications. 
+NASA is a world leader in observing and understanding the Earth system. 
+NASA’s existing satellite and instrument fleet provides measurements of changes 
+in vegetation, carbon dioxide, Earth’s energy budget, clouds and precipitation, 
+the mass of ice sheets, oceans, and much more that are integral to our current 
+understanding of the Earth’s climate. NASA integrates these observations into 
+scientific discovery and models to provide a more complete picture of the Earth 
+system and its changes. NASA’s observations, models, and research are global 
+in scope and integrate both human-induced and naturally-occurring changes to 
+the Earth system. NASA’s contributions to Earth observations and modeling have 
+fundamentally improved our understanding of climate and the Earth system.
+
+Advancing NASA’s Climate Strategy  |  15
+
+Priorities and Needs
+
+There are still many questions and uncertainties remaining that require new and 
+innovative observations to answer. Some of these questions have been identified 
+in the National Academies Earth Science Decadal Survey, while others emerge 
+from broader initiatives and scientific efforts. To help address these questions 
+and continue the agency’s leadership in observing and understanding the 
+Earth system, there is a need to continue to provide innovative observations, 
+applications, and associated modeling. As part of that effort, NASA will be 
+developing and launching the ESO. The ESO suite of satellites will be designed 
+to complement each other, working in tandem to create a three-dimensional, 
+holistic view of Earth. In addition, there is a need to consider new technology, 
+architectures, and partnerships for climate-relevant missions to spur new science 
+and applications capabilities that increase societal value.
+
+While most of the Earth observation and modeling efforts reside in NASA’s ESD, 
+there are many opportunities for cross-NASA engagement and innovation. 
+Technologies and sensors developed for other missions could help improve our 
+ability to observe the Earth, just like the sensors used in the James Webb Space 
+Telescope (JWST) informed development of the sensors used in the OCO missions. 
+Improving our understanding and modeling of other planets, whether in our solar 
+system or beyond, could improve our understanding and modeling of Earth. To 
+help spur innovation in Earth observation and modeling, there is a need to facilitate 
+engagement between ESD, other parts of SMD, and STMD (see also 4.3). In 
+the post-ISS era, commercial low-Earth orbit (LEO) destinations could have the 
+capability to host Earth observing instruments. The Commercial LEO Development 
+Program under SOMD is working with SMD/ESD and HPD to identify and integrate 
+their future needs for these next generation platforms. Continued collaboration 
+between SMD and SOMD is needed to ensure a smooth transition post-ISS.
+
+An illustration of NISAR, 
+the pathfinder mission 
+of NASA’s Earth System 
+Observatory.
+
+Advancing NASA’s Climate Strategy  |  16
+
+NASAPriorities and Needs
+
+1.2: Advance the development and use of aeronautics and space technologies 
+that enable us to understand, mitigate, and adapt to climate change.
+NASA has a long history of advancing the state of the art in several technology 
+areas critical to U.S. leadership in aviation, science, and exploration. NASA’s 
+current climate and clean energy technology investments are spread across 
+multiple mission directorates, in several technology focus areas, including: 
+
+• GHG emissions mitigation and reduction; 
+
+• Clean energy (production, distribution, conversion, management, 
+
+storage, transmission, etc.);
+
+• Sustainable aviation; 
+
+• New observation paradigms, technologies for observation platforms, 
+
+and instruments for climate relevant science; and
+
+• New approaches for application, fusion, and integration of relevant 
+
+data and technologies.
+
+NASA’s approach to technology development for climate-related 
+challenges must be strategic to focus on the most critical challenges, 
+leverage limited resources to have the greatest impact, and avoid 
+duplication. There is a need to increase coordination and cross-
+directorate efforts to address climate technology investments (see also 
+4.3). The mission directorates could incorporate climate and clean energy 
+priorities into the agency’s strategic technology (STAR) framework to 
+prioritize technology gaps and future investments. There is a need to use 
+the full set of tools at its disposal to develop technology, including, but not 
+limited to, leveraging Small Business Innovation Research/Small Business 
+Technology Transfer programs to engage small businesses and entrepreneurs, using 
+grants to support early-stage research at universities, and public challenges and 
+prize competitions to engage innovators across the globe.
+
+Cross-directorate coordination should prioritize the transition and infusion of new 
+and innovative technologies with clear pathways for new technology inclusion in 
+flight hardware and missions. This is particularly relevant as new technologies and 
+architectures can spur new capabilities in science and application value including, 
+for example, visualization and decision support. For example, the FireSense 
+working group leverages a coordinated approach across multiple directorates to 
+address wildland fire challenges.  
+
+NASA also recognizes that in some technology areas the innovation is happening 
+outside the walls of government, such as in small businesses and venture-backed 
+companies. Capabilities in artificial intelligence, machine learning, robotics, and 
+autonomy are advancing quickly in response to market demands. There is also a 
+need to engage with the entrepreneurial community, and the funders that support 
+them (see also 4.2), that are developing solutions with an eye towards sustainable 
+commercial space and aeronautics markets. Advancing a culture that embraces 
+risk and experimentation, advancing technology not only for new capabilities but 
+also for national advantage, is paramount to NASA’s ability to support the space 
+economy and combat the climate crisis. 
+
+Advancing NASA’s Climate Strategy  |  17
+
+The X-57 
+project is the 
+agency’s first 
+all-experimental 
+electric aircraft, 
+and an early 
+part of NASA’s 
+work to develop 
+sustainable 
+aviation solutions. 
+
+NASAPriorities and Needs
+
+Astronaut Serena 
+Auñón-Chancellor 
+harvests red 
+Russian kale and 
+dragoon lettuce 
+from Veggie on 
+Nov. 28, 2018, 
+just in time for 
+Thanksgiving. 
+The crew got to 
+enjoy a mid-
+afternoon snack 
+with balsamic 
+vinegar, and 
+Auñón-Chancellor 
+reported the 
+lettuce was 
+“delicious!”
+
+1.3: Promote Earth-based applications of technologies 
+developed for space exploration, space operations, and aviation 
+for climate adaptation and climate mitigation.
+NASA has developed and improved numerous technologies that 
+could have applications on Earth for reducing emissions, increasing 
+energy efficiency, and enhancing sustainability. For example, to support 
+astronauts living on the ISS and in research for space exploration 
+missions, NASA has developed and improved several technologies that 
+have applications on Earth, such as water processing, oxygen recovery 
+from carbon dioxide, and crop and other food production technologies. 
+The ISS National Lab is also sponsoring initiatives in partnership 
+with commercial companies, with a goal of advancing sustainability 
+research, such as addressing the problem of plastic waste and 
+
+enabling scientific and technological advances that improve Earth’s environment. 
+NASA’s investments are also resulting in technologies that have sustainability 
+impacts in space and on Earth, including sustainable food production and clean 
+power and propulsion, such as solar.
+
+NASA has a long history of promoting the transfer of NASA-developed 
+technologies into non-NASA applications for public benefit, including for climate 
+and sustainability. Spinoffs include sustainable farming methods that increase crop 
+yield with fewer resources, clean energy production, and tools or technologies 
+that provide risk assessment models or other capabilities to address flooding and 
+other climate-related natural disasters. There is a need to continue to promote 
+Earth applications of technologies developed for exploration by identifying and 
+protecting NASA’s intellectual property and marketing and licensing NASA’s 
+patent portfolio to create commercial products to benefit the nation. There is also 
+a need to continue to promote startup company formation to leverage NASA’s 
+technology investments, making NASA-developed software available to industry, 
+entrepreneurs, academia, and the public. 
+
+1.4: Ensure sustainability of NASA centers and facilities, including 
+reducing agency GHG emissions and increasing resiliency to climate 
+variability and change. 
+Climate change will have significant impacts on NASA’s ability to fulfill its mission. 
+NASA has made it mandatory to integrate climate considerations into the agency’s 
+policies, strategies, master plans, and partner engagements. At the same 
+time, NASA, like all businesses and agencies, is a source of GHG emissions. 
+Recognizing both the importance of proactively addressing climate change and 
+risks to mission due to climate change, and in compliance with E.O. 14008, 
+NASA prepared a Climate Action Plan to provide NASA’s vision for adapting to 
+climate change effects on its mission, facilities, infrastructure, natural lands, and 
+other assets, now and in the future. NASA also has an ongoing effort, the Climate 
+Adaptation Science Investigators (CASI) working group, that provides updated 
+climate science and information for use in planning and risk analysis at NASA 
+centers. NASA has also tracked agency GHG emissions since 2008 and has seen 
+a consistent downward trend in emissions. 
+
+Advancing NASA’s Climate Strategy  |  18
+
+ESA/Alexander GersPriorities and Needs
+
+Priority 2
+INFORM
+
+Earth observation 
+satellite Landsat 9
+
+While NASA has incorporated climate considerations into agency planning and 
+reduced agency emissions over time, continued work is needed to address 
+continued climate change. Thus, there is a need to ensure the sustainability of 
+its missions, centers, and facilities. There is also a need to periodically review 
+existing efforts to integrate climate adaptation risks and mitigation planning into 
+NASA risk management and budget development processes to ensure they 
+reflect the latest knowledge on climate change. There is also a need to identify 
+and implement specific actions to further reduce the agency’s carbon footprint, 
+in line with E.O. 14057.
+
+NASA facilities are managed by OSI. However, the information and tools 
+developed by ESD can be used to support this analysis. Existing projects, like 
+CASI, can help facilitate the exchange of scientific and infrastructure information to 
+improve the resilience of NASA centers. 
+
+2.1: Increase discoverability, accessibility, and usability of climate 
+and Earth science information through newly developing information 
+delivery technologies.
+Through the NASA Distributed Active Archive Centers (DAACs), the NASA Earth 
+Science Data Systems Program, and the NASA Applied Sciences Program, 
+NASA has demonstrated international leadership in providing free public access 
+to climate and Earth science information. NASA has continued to innovate in 
+the use of open data services and cloud-based data archives and processing 
+systems. NASA has made important progress in using tools to catalogue 
+
+and organize Earth science datasets to improve 
+discoverability and accessibility for the Earth 
+science community. 
+
+While NASA’s climate and Earth science information is 
+publicly available, there are still barriers to its use and 
+a need to increase discoverability, accessibility, and 
+usability of this information. Recent advances in cloud 
+computing, powerful browser-based visualization 
+tools, and the growing adoption of a common open 
+
+data service specification (OpenAPI) provide opportunities to increase broad 
+access to NASA climate and Earth science information, following Findability, 
+Accessibility, Interoperability, and Reuse (FAIR) data access principles. However, 
+further work is needed to organize this information into coherent, actionable 
+information products for specific climate change planning and response activities 
+for diverse user and stakeholder communities. In addition, these efforts, in 
+coordination with other federal agencies, need to consider the importance of 
+ensuring the long-term continuity and reliability of information products and data 
+services that support climate change planning and response. 
+
+A further challenge is that many potential users do not have access to sufficient 
+computing resources to process and use the large volumes of data generated by 
+NASA missions. NASA has been moving data into the cloud to facilitate its use by 
+a broad user community and has identified climate data accessibility as a priority 
+in its recent Equity Action Plan, with plans to move more data into the cloud 
+
+Advancing NASA’s Climate Strategy  |  19
+
+NASAPriorities and Needs
+
+(see also 2.3). There is a need to manage climate and Earth science datasets 
+using both cloud-based and dedicated compute infrastructure. As more users 
+incorporate NASA information into their planning and response efforts, there is a 
+need to ensure users understand how to use the information provided by NASA, 
+including considerations related to data accuracy and uncertainty. Additional 
+trainings, enhanced metadata, and continued development of measures and 
+standards for data accuracy and uncertainty could help address challenges with 
+data accessibility and usability. 
+
+2.2: Support communities and stakeholders in preparing for and 
+responding to climate change by enhancing information, tools, 
+applications, and resources that draw on NASA observations, models, and 
+people to improve societal resilience. 
+NASA has supported the use of climate insights from Earth science to 
+benefit the economy, health, quality of life, and environment. These activities 
+include project and program-level collaborations with local, state, and tribal 
+governmental and non-governmental organizations to develop and demonstrate 
+the use of Earth observation data for climate-related decision making. NASA 
+also supports efforts to enhance the capacity of these organizations to use 
+Earth observation data. Internationally, NASA makes important contributions 
+to national climate change information repositories and visualization tools 
+developed for the public. Activities such as the NASA-U.S. Agency for 
+International Development (USAID) SERVIR program have also established a 
+pathway for increasing use of NASA data by international partners to improve 
+capacity to respond to natural disasters and manage natural resources in the 
+face of climate change. Various NASA activities, such as the NASA Sea Level 
+Projection Tool, the NASA FIRMS, and OpenET, demonstrate how NASA data 
+can be integrated into both long-term climate change planning and short-term 
+response to the emerging impacts of climate change, such as intensifying 
+wildfire events, increasing drought severity and duration, and declines in 
+streamflow. NASA capabilities such as the NASA Advanced Supercomputing 
+Division and NASA Earth Exchange, based at Ames Research Center, and the 
+
+Participants of NASA’s 
+Student Airborne 
+Science Activation 
+inaugural class and 
+some of their mentors 
+pose in front of NASA’s 
+P-3 aircraft, which they 
+used to collect Earth 
+science data needed for 
+their research studies.
+
+Advancing NASA’s Climate Strategy  |  20
+
+NASAPriorities and Needs
+
+TEMPO, a 
+UV-visible 
+spectrometer 
+instrument will 
+be the first ever 
+space-based 
+instrument to 
+monitor air 
+pollutants hourly 
+across the 
+North American 
+continent during 
+daytime
+
+NASA Global Change Data Center, based at Goddard Space 
+Flight Center, have also made important contributions to the 
+production and distribution of key climate change datasets 
+that are broadly used in climate response planning.
+
+Building upon these examples of success, there are 
+important opportunities to broaden both the types of NASA 
+observational and modeled datasets that can be used to 
+prepare for and respond to climate change, as well as the 
+diversity of ways that people and communities can access 
+and use this information. Nearly all upcoming Earth observing 
+satellite missions enable key opportunities to provide new 
+information to support climate response planning. The 2018 
+
+National Academies’ Decadal Survey for Earth Science and Applications from 
+Space highlights the importance of utilizing data from these satellite missions to 
+both support advances in scientific understanding and to improve our collective 
+ability to respond to climate change. There is a need to continue to enhance 
+information, tools, applications, and resources that support efforts by communities 
+and stakeholders in preparing for and responding to climate change. Such efforts 
+could include providing climate change data and information, as well as efforts 
+to engage communities in co-developing resources. The newly announced Earth 
+Information Center provides an opportunity to do both.
+
+2.3: Address climate change impacts in underserved and vulnerable 
+communities by promoting equity in the collection and use of climate and 
+Earth science information.
+NASA’s climate data is used by many researchers and stakeholders. However, 
+for historical and cultural reasons, many communities and organizations have 
+not had equitable and sufficient resources to fully leverage NASA capabilities. 
+In addition, using NASA data and tools can require large computing resources 
+and significant technical knowledge, which can present challenges for many 
+people and communities. NASA’s existing efforts on transforming to open 
+science aim to ensure tools and resources are open and accessible. In addition, 
+NASA’s Equity Action Plan includes an effort to move some Earth science data 
+to the cloud and provide trainings in Spanish language to improve equity and 
+accessibility of Earth science information.
+
+While NASA has initiated efforts to advance equity and accessibility of climate 
+and Earth science information, there are still barriers to its use. There is a need 
+to promote equity and environmental justice in the collection and use of climate 
+information. Such efforts could include:
+
+• Developing information, resources, and tools to help under-resourced 
+
+organizations evaluate their climate risks (see also 2.2); 
+
+• Increasing the accessibility of climate information provided (see also 2.1); and
+
+• Partnering with organizations working in communities most impacted by 
+climate change and identify ways in which NASA can contribute towards 
+environmental and climate justice initiatives (see also 4.2).
+
+Advancing NASA’s Climate Strategy  |  21
+
+NASAPriorities and Needs
+
+Priority 3
+INSPIRE
+
+3.1: Help humanity understand and prepare for climate change by 
+improving stakeholder and public awareness of and access to NASA 
+climate discoveries, information, and technology.
+NASA has a broad portfolio of climate research and climate-related technology 
+development. NASA’s brand provides a powerful pull for other agencies to partner 
+with NASA on these projects to capture the imagination of the public and seek their 
+involvement. Yet, many are not aware of or have incomplete knowledge of NASA’s 
+climate activities. NASA’s Global Climate Change website, climate.nasa.gov, is the 
+top-rated website in the world for users searching for “climate change.” However, 
+thus far, it has focused predominantly on NASA’s Earth science research. Information 
+on climate-related technology development at NASA is sprinkled throughout other 
+NASA websites and does not have a consolidated home online. 
+
+While many are aware of a few aspects of NASA’s climate portfolio, few are 
+aware of the breadth of the Earth and climate-related research and technology 
+development at NASA. To help researchers and the public understand and 
+address climate change, there is a need to improve stakeholder and public 
+awareness of the full extent of the agency’s climate portfolio. Communication 
+products should be designed to engage a broad audience through different media 
+and platforms (e.g., print, social media, podcasts, videos, etc.), with messages 
+designed to showcase NASA’s full climate portfolio. In addition, developing a 
+single website for all of NASA’s climate-related activities, encompassing the 
+agency’s entire climate portfolio, could help facilitate these efforts. 
+
+While the Office of Communications leads all communications efforts for 
+NASA, much of the work is accomplished through mission directorate and 
+center communication strategies and teams. There is opportunity to improve 
+coordination among these organizations to ensure a consistent and impactful 
+voice and messaging strategy. 
+
+3.2: Enhance and support climate literacy of the NASA workforce and 
+those who work with NASA.
+Climate variability and climate change impact all NASA centers and therefore 
+NASA’s ability to fulfill its mission. Recent Executive Orders related to climate 
+(e.g., E.O. 14008 and E.O. 14057) provide direction to NASA with respect to the 
+agency’s climate actions. NASA’s climate portfolio will involve a broad swath of 
+the agency’s workforce beyond traditional climate scientists, including those in 
+mission support organizations, technical mission directorates, and centers. Many 
+of those involved in these activities have limited training in or awareness of climate 
+change, or of the extent of the agency’s climate activities.
+
+There is a need to enhance and support climate literacy within the agency’s 
+workforce. Such climate literacy efforts would provide resources for NASA 
+employees to learn and understand climate change and how it impacts NASA’s 
+mission, the vulnerability of NASA centers and facilities, and what NASA is doing 
+in response to climate change. A variety of means could be used to enhance and 
+support climate literacy, including webinars, trainings, and surveys.
+
+Advancing NASA’s Climate Strategy  |  22
+
+Priorities and Needs
+
+NASA’s SpaceX 
+Crew-2 NASA 
+astronaut Megan 
+McArthur speaks 
+to students 
+during a visit 
+to Arlington 
+Science Focus 
+Elementary 
+School, Friday, 
+June 10, 2022, 
+in Arlington, 
+Virginia.
+
+There are several existing efforts within NASA to provide education and training 
+materials related to climate, including resources for K-12 students and educators 
+(e.g., the Global Learning and Observations to Benefit the Environment (GLOBE) 
+program), training material on NASA’s Earth Science data and applications 
+(e.g., the Applied Remote SEnsing Training Program, or ARSET), and projects 
+connecting climate scientists to mission support organizations who need climate 
+information (e.g., CASI). In addition, climate literacy efforts are also being pursued 
+by other federal agencies as part of their climate action plans. NASA’s climate 
+literacy efforts could bring together information and insights from ESD, OSTEM, 
+and other federal agencies (where appropriate). 
+
+3.3: Inspire and educate the next generation of climate  
+researchers and citizens. 
+NASA has a wide variety of activities designed to inspire and educate researchers 
+and the public, including public prize competitions, challenges, crowdsourcing, 
+and citizen science activities, many of which relate to climate. These activities are 
+designed for all ages, and include resources for K-12 students and educators, 
+research opportunities for high school, undergraduate, and graduate students, 
+and science education activities for the public. 
+
+While existing efforts have had a broad reach, there remains a need to continue 
+to inspire and educate the next generation of climate researchers and citizens, 
+including across all demographic and socioeconomic groups. These efforts could 
+include expanding STEM and public engagement products, and opportunities to 
+learn about climate and NASA’s portfolio; adding a climate focus to more agency-
+supported STEM programs; creating additional climate-related materials to be 
+used by teachers/educators; and integrating STEM activities into major climate 
+science and technology agency initiatives. 
+
+Advancing NASA’s Climate Strategy  |  23
+
+NASA/Aubrey GemignaniPriorities and Needs
+
+Priority 4
+PARTNER
+
+GRACE Follow-
+On (GRACE-
+FO) measures 
+Earth’s surface 
+mass and water 
+changes
+
+There are many different offices at NASA engaged in educating and inspiring the 
+public with respect to climate, including OSTEM, ESD, SMD, STMD, and the 
+Office of Communications.
+
+4.1: Facilitate coordination and partnerships with other federal agencies, 
+international entities, and state, local, and tribal governments to deliver 
+actionable climate information to stakeholders, and ensure the broadest 
+applicability of NASA climate information and technologies.
+NASA is one of many federal agencies conducting climate-related research. NASA 
+currently participates in a broad range of federal interagency working groups (e.g., 
+USGCRP). These groups span a broad range of activities, including observations, 
+climate research, and meteorological services, as well as specific topics, including 
+the ocean, the Arctic, and resilience. NASA also works with other federal agencies 
+in bilateral and multilateral efforts, including partnerships on satellite missions (e.g., 
+with USGS for Landsat) and projects (e.g., with USAID on SERVIR).
+
+NASA’s observations and research are global in scope. NASA works 
+with international partners, including participating in international working 
+groups (e.g., the Committee on Earth Observation Satellites and the 
+Group on Earth Observations), partnering on satellite missions (e.g., 
+with DLR/GFZ on GRACE/GRACE-FO), and co-developing information 
+dissemination portals (e.g., with JAXA and ESA on the Earth Observing 
+Dashboard). NASA scientists also contribute to a variety of national and 
+international assessments, including the IPCC and the National Climate 
+Assessment. NASA also works with state, local, and tribal governments 
+in understanding and responding to climate change. 
+
+While there are many existing collaboration and coordination efforts, 
+strategic sustained and enhanced collaboration is needed to ensure 
+the broadest applicability and use of NASA climate information and 
+
+technologies. NASA’s climate research is complementary to the efforts at other 
+agencies. Furthermore, each agency has its own set of stakeholders and 
+user groups. Continued and enhanced coordination and collaboration with 
+other agencies is needed to meet user needs, ensure a broader reach of all 
+U.S. Government climate information, and provide sustained and innovative 
+observations and information. Similarly, continued collaboration with international 
+partners is needed to provide sustained and innovative observations and 
+information. Since most NASA missions are not planned with successors, 
+balancing the extended operations of NASA missions, planning for new missions 
+that continue the records of current observables, and coordination with other 
+federal agencies and international partners, are all needed to address continuity 
+of data and information products. Finally, as climate changes, the needs of users 
+and researchers for climate information and technology will also change. Such 
+changes may necessitate evolving contributions to existing interagency and 
+international efforts, or engagement with additional interagency and international 
+activities to complement existing efforts.
+
+Advancing NASA’s Climate Strategy  |  24
+
+NASAPriorities and Needs
+
+NASA’s X-57 is 
+an all-electric 
+experimental 
+aircraft designed 
+to demonstrate 
+multiple 
+leading-edge 
+technologies.
+
+4.2: Expand ongoing successful partnerships and determine the 
+appropriate role for NASA in collaborating with the growing number of 
+commercial entities and not-for-profits conducting climate observations, 
+research, and applications.
+There are an increasing number of commercial and not-for-profit entities 
+engaging in Earth observations, climate research, and climate-related technology 
+development. NASA has been introducing commercial small satellite capability 
+into its programs through the purchase of data via the Commercial Smallsat 
+Data Acquisition program. This program provides access to commercial satellite 
+data for scientific use by NASA-funded researchers (and other federal partners in 
+some instances). NASA also has collaborations with non-profits and commercial 
+entities for climate research, including projects, partnerships, consortia, and 
+Space Act agreements. For example, NASA Harvest is a consortium of actors, 
+including public, private, and universities, focused on using satellite information 
+for agricultural applications. For space technology and aviation, NASA is heavily 
+
+invested in cost-sharing partnerships and collaborative 
+research with U.S. industry to research and 
+demonstrate technology advancements. For example, 
+NASA worked with Electric Power Systems to design 
+and develop the batteries for the X-57 experimental 
+electric flight plane. Additionally, NASA’s University 
+Leadership Initiative supports universities pioneering 
+next-generation technologies for a net-zero carbon 
+emissions aviation future.
+
+While NASA has several successful engagements with commercial and not-for-
+profit entities, there continue to be new entities and new products emerging. 
+There is a need to expand ongoing successful partnerships and the community 
+NASA engages with on climate. There is also a need to identify new opportunities 
+for collaboration and consider when and how NASA engages with new entities. 
+
+The opportunities for partnership span many mission directorates and centers. 
+For example, SMD runs the Commercial Smallsat Data Acquisition program and 
+engages in research and application partnerships. ARMD works closely with 
+industry on aviation research and technology demonstrations. STMD works 
+closely with industry and academia on space technology research and technology 
+demonstrations and the commercialization of those inventions through NASA’s 
+technology transfer program. To enhance the engagement with these commercial 
+and not-for-profit entities, NASA could facilitate closer coordination among mission 
+directorates (including mission support) and centers to explore these opportunities.
+
+4.3: Increase coordination and collaboration among NASA centers and 
+mission directorates with respect to climate research and climate-related 
+technology development.
+NASA’s climate research and climate-related technology development spans the 
+agency, with involvement from all mission directorates and centers. While there 
+are many examples of cross-directorate and/or cross-center collaboration efforts 
+on climate, the CSWG has also identified a need for greater integration across 
+the agency’s climate portfolio. Climate change itself involves almost every aspect 
+of the atmosphere-ocean-land-cryosphere system, and human impacts upon it 
+
+Advancing NASA’s Climate Strategy  |  25
+
+NASAPriorities and Needs
+
+involve almost every aspect of global society (power generation, transportation, 
+agriculture, industry, urban design, etc.). Therefore, research into monitoring and 
+understanding that change, developing necessary technologies, and responding to 
+climate change, will all be more impactful through greater integration and enhanced 
+collaboration across the agency. To facilitate that integration and collaboration, 
+NASA could consider organizing and facilitating periodic focused climate summits to 
+share information about NASA’s climate portfolio with others in the agency, identify 
+opportunities for potential future collaborative activities, and identify opportunities for 
+more targeted discussions on intra-agency collaborations on climate. 
+
+Since climate research and climate-related technology development are spread 
+throughout the agency, there are many opportunities for collaborations between the 
+mission directorates and centers. NASA could consider maintaining a small working 
+group under the Office of the Chief Scientist and Senior Climate Advisor, bringing 
+together representatives from all mission directorates and centers to discuss, inform, 
+and advise on potential climate-related initiatives across the agency.
+
+Fires and 
+Smoke Engulf 
+Southeastern 
+Australia
+January 4, 2020
+
+Advancing NASA’s Climate Strategy  |  26
+
+NASANational Aeronautics and 
+Space Administration
+
+Last  
+Word
+
+Advancing NASA’s Climate Strategy  |  27
+
+NASALast 
+Word
+
+Advancing
+NASA’s
+Climate
+Strategy
+
+NASA’s CSWG has sought to better understand 
+the agency’s current climate portfolio, identify 
+existing gaps, make connections, and present 
+recommendations for consideration to enable 
+the agency to become more effective in its 
+approach to tackling the climate crisis. The 
+result, “Advancing NASA’s Climate Strategy,” 
+outlines priorities and needs that will enable the 
+continuation and expansion of a legacy of robust 
+contributions to understanding the Earth, its 
+changing climate, and the impacts to our planet 
+and those who live on it. 
+
+Advancing NASA’s Climate Strategy  |  28
+
+ 
+ 
+ 
+Advancing NASA’s Climate Strategy  |  29
+
+NASANational Aeronautics and Space Administration
+
+Mary W. Jackson NASA Headquarters
+300 E Street SW (Hidden Figures Way) 
+Washington, DC 20546
+https://www.nasa.gov/centers/hq
+
+www.nasa.gov
+
+NP-2023-03-3112-HQ
+
+
