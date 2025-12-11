@@ -3,46 +3,45 @@ from pathlib import Path
 from typing import Optional
 import json
 import math
+from difflib import SequenceMatcher
+import re
+
 from .summarizer import ExtractiveSummarizer
 from .ocr_processor import OCRProcessor
 from .audio_processor import AudioProcessor, AudioUnavailable
 from .utils import clean_text, clean_transcript_text, save_output_json, log_processing
+from core.storage import init_db, record_upload, record_result
+
+# Try importing Sentiment Analyzer (Optional)
 try:
     from nltk.sentiment.vader import SentimentIntensityAnalyzer
 except Exception:
     SentimentIntensityAnalyzer = None
-from core.retrieval import Retriever
-from core.storage import init_db, record_upload, record_result, register_chunks
-from difflib import SequenceMatcher
-import re
 
-# initialize DB on module import
+# Initialize DB on import
 try:
     init_db()
 except Exception as e:
     print("Warning: init_db() failed:", e)
 
+# --- Helper Functions ---
 def _near_duplicate(a: str, b: str, thresh: float = 0.86) -> bool:
-    if not a or not b:
-        return False
+    if not a or not b: return False
     a_n = re.sub(r"\s+", " ", a.strip().lower())
     b_n = re.sub(r"\s+", " ", b.strip().lower())
     sm = SequenceMatcher(None, a_n, b_n)
     return sm.quick_ratio() >= thresh or sm.ratio() >= thresh
 
 def _cleanup_summary_field(text: str, max_chars: int = 400) -> str:
-    if not text:
-        return ""
+    if not text: return ""
     text = text.replace("%", " ")
     text = re.sub(r"[ \t]{2,}", " ", text).strip()
     parts = [p.strip() for p in re.split(r"\n{1,}", text) if p.strip()]
     cleaned = []
     for p in parts:
-        if cleaned and _near_duplicate(p, cleaned[-1]):
-            continue
+        if cleaned and _near_duplicate(p, cleaned[-1]): continue
         cleaned.append(p)
     out = " ".join(cleaned)
-    out = re.sub(r"\b(\w+)( \1\b)+", r"\1", out)
     if len(out) > max_chars:
         out = out[:max_chars].rsplit(" ", 1)[0] + "..."
     return out.strip()
@@ -87,8 +86,7 @@ class PipelineOrchestrator:
     def process_text(self, path: Path):
         path = Path(path)
         raw = path.read_text(encoding="utf-8")
-        suffix = path.suffix.lower()
-        if suffix in (".vtt", ".srt"):
+        if path.suffix.lower() in (".vtt", ".srt"):
             text = clean_transcript_text(raw)
         else:
             text = clean_text(raw)
@@ -107,15 +105,15 @@ class PipelineOrchestrator:
             self.audio = AudioProcessor()
         
         file_size_mb = path.stat().st_size / (1024 * 1024)
-        est_seconds = int(file_size_mb * 60) 
+        est_seconds = int(file_size_mb * 60) # Rough estimate
         
         try:
             transcript = self.audio.transcribe(path)
         except AudioUnavailable as e:
-            print(f"[WARN] Audio unavailable for {path}: {e}")
+            print(f"[WARN] Audio unavailable: {e}")
             return self._postprocess_and_save(path, "", "audio_transcript")
         except Exception as e:
-            print(f"[WARN] Audio processing failed for {path}: {e}")
+            print(f"[WARN] Audio failed: {e}")
             return self._postprocess_and_save(path, "", "audio_transcript")
             
         transcript = clean_text(transcript)
@@ -146,38 +144,22 @@ class PipelineOrchestrator:
         if not text or len(text.strip()) < 20:
             out["summaries"] = {"one_line": "", "three_bullets": "", "five_sentence": ""}
             out["follow_up_needed"] = True
-            out["processing_log"].append("text_too_short")
             save_output_json(out)
-            log_processing(f"{path} processed: short_text via {method}")
-            try:
-                filename = path.name
-                filepath = str(path.resolve())
-                filetype = Path(filename).suffix.lstrip(".").lower() or "unknown"
-                source = "local"
-                upload_id = record_upload(filename, filepath, filetype=filetype, source=source)
-                record_result(upload_id, str(Path("demo/outputs") / f"{path.stem}_summary.json"), out.get("summaries", {}), {"label": "unknown"}, True)
-            except Exception as e:
-                print("Warning: failed to write DB:", e)
             return out
 
         summaries = self.summarizer.summarize_all(text)
+        
+        # Cleanup summary text
         try:
-            if isinstance(summaries, dict):
-                summaries["one_line"] = _cleanup_summary_field(summaries.get("one_line", ""), max_chars=220)
-                summaries["three_bullets"] = _cleanup_summary_field(summaries.get("three_bullets", ""), max_chars=600)
-                summaries["five_sentence"] = _cleanup_summary_field(summaries.get("five_sentence", ""), max_chars=1200)
-            else:
-                joined = str(summaries)
-                summaries = {
-                    "one_line": _cleanup_summary_field(joined, max_chars=220),
-                    "three_bullets": _cleanup_summary_field(joined, max_chars=600),
-                    "five_sentence": _cleanup_summary_field(joined, max_chars=1200)
-                }
-        except Exception as e:
-            print("Warning: summary cleanup failed:", e)
+            for k in ["one_line", "three_bullets", "five_sentence"]:
+                if k in summaries:
+                    summaries[k] = _cleanup_summary_field(summaries[k])
+        except Exception:
+            pass
 
         out["summaries"] = summaries
 
+        # Sentiment
         if self.sentiment:
             try:
                 vs = self.sentiment.polarity_scores(text)
@@ -191,22 +173,15 @@ class PipelineOrchestrator:
             out["sentiment"] = {"label": "unknown", "score": 0.0}
 
         out["follow_up_needed"] = False
-        if len(text.split()) < 50:
-            out["follow_up_needed"] = True
-            out["processing_log"].append("followup:short_text")
-        if not summaries.get("one_line"):
-            out["follow_up_needed"] = True
-            out["processing_log"].append("followup:empty_summary")
-
         save_output_json(out)
         log_processing(f"{path} processed successfully via {method}")
-
+        
+        # Save to DB
         try:
             filename = path.name
             filepath = str(path.resolve())
-            filetype = Path(filename).suffix.lstrip(".").lower() or "unknown"
-            source = "local"
-            upload_id = record_upload(filename, filepath, filetype=filetype, source=source)
+            filetype = Path(filename).suffix.lstrip(".").lower()
+            upload_id = record_upload(filename, filepath, filetype=filetype, source="local")
             record_result(upload_id, str(Path("demo/outputs") / f"{path.stem}_summary.json"), summaries, out.get("sentiment"), out["follow_up_needed"])
         except Exception as e:
             print("Warning: failed to write DB:", e)
