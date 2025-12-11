@@ -27,7 +27,7 @@ RUN mkdir -p models && \
 
 # 4. Copy Your Application Code
 COPY src/ src/
-COPY data/ data/
+COPY Data/ data/
 
 # Create necessary folders for temp storage
 RUN mkdir -p demo/outputs uploads
