@@ -3,7 +3,9 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_BASE = "http://127.0.0.1:8000";
+// Use the Render URL you just copied (ensure no trailing slash)
+
+const API_BASE = "https://climate-rag-backend.onrender.com";
 
 // --- ICONS ---
 const IconUpload = () => <svg width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" /></svg>;
