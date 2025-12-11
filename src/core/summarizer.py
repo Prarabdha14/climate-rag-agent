@@ -1,66 +1,90 @@
 # src/core/summarizer.py
-"""
-Lightweight extractive summarizer using sentence tokenization + TF-IDF scoring.
-Removes dependency on `sumy` so tests are simpler to run in constrained environments.
-"""
-
-from typing import List
-from sklearn.feature_extraction.text import TfidfVectorizer
 import nltk
+import re
+from heapq import nlargest
 
-# ensure punkt is available (download if missing)
+# --- CRITICAL FIX FOR RENDER DEPLOYMENT ---
+# Automatically download missing NLTK data if not present
 try:
-    nltk.data.find("tokenizers/punkt")
+    nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download("punkt", quiet=True)
+    print("Downloading NLTK 'punkt'...")
+    nltk.download('punkt')
 
-from nltk.tokenize import sent_tokenize
+try:
+    nltk.data.find('tokenizers/punkt_tab')
+except LookupError:
+    print("Downloading NLTK 'punkt_tab'...")
+    try:
+        nltk.download('punkt_tab')
+    except:
+        pass # Fallback for older NLTK versions
+
+try:
+    nltk.data.find('corpora/stopwords')
+except LookupError:
+    print("Downloading NLTK 'stopwords'...")
+    nltk.download('stopwords')
+# ------------------------------------------
+
+from nltk.corpus import stopwords
+from nltk.tokenize import sent_tokenize, word_tokenize
 
 class ExtractiveSummarizer:
     def __init__(self):
-        # We'll vectorize sentences with TF-IDF (unigram/bigram)
-        self.vectorizer = TfidfVectorizer(stop_words="english", ngram_range=(1,2))
-
-    def _split_sentences(self, text: str) -> List[str]:
-        sents = [s.strip() for s in sent_tokenize(text) if s.strip()]
-        return sents
-
-    def _score_sentences(self, sentences: List[str]) -> List[float]:
-        if not sentences:
-            return []
         try:
-            X = self.vectorizer.fit_transform(sentences)
-            scores = X.sum(axis=1).A1  # sum of TF-IDF weights per sentence
-            return scores.tolist()
+            self.stop_words = set(stopwords.words('english'))
         except Exception:
-            # fallback: equal scores
-            return [1.0 for _ in sentences]
+            self.stop_words = set()
 
-    def summarize_all(self, text: str):
-        if not text or len(text.strip()) == 0:
-            return {"one_line": "", "three_bullets": "", "five_sentence": ""}
+    def summarize(self, text, num_sentences=5):
+        if not text:
+            return ""
+        
+        # Clean text
+        text = re.sub(r'\s+', ' ', text)
+        
+        try:
+            sentences = sent_tokenize(text)
+        except Exception as e:
+            # Fallback if tokenizer fails
+            print(f"Tokenizer error: {e}")
+            sentences = text.split('. ')
 
-        sentences = self._split_sentences(text)
-        if not sentences:
-            return {"one_line": "", "three_bullets": "", "five_sentence": ""}
+        if len(sentences) <= num_sentences:
+            return text
 
-        scores = self._score_sentences(sentences)
-        # pair sentences with scores and original index
-        ranked = sorted(
-            [(i, s, scores[i] if i < len(scores) else 0.0) for i, s in enumerate(sentences)],
-            key=lambda x: x[2],
-            reverse=True,
-        )
+        word_frequencies = {}
+        for word in word_tokenize(text.lower()):
+            if word not in self.stop_words and word.isalnum():
+                if word not in word_frequencies:
+                    word_frequencies[word] = 1
+                else:
+                    word_frequencies[word] += 1
 
-        # pick top sentence for one-line (highest score)
-        top1 = ranked[0][1] if ranked else ""
+        if not word_frequencies:
+            return " ".join(sentences[:num_sentences])
 
-        # pick top 3 sentences preserving their order in original text
-        top3_idx = sorted([r[0] for r in ranked[:3]]) if ranked else []
-        top3 = " ".join([sentences[i] for i in top3_idx]) if top3_idx else ""
+        max_frequency = max(word_frequencies.values())
+        for word in word_frequencies.keys():
+            word_frequencies[word] = (word_frequencies[word] / max_frequency)
 
-        # pick top 5 sentences preserving order
-        top5_idx = sorted([r[0] for r in ranked[:5]]) if ranked else []
-        top5 = " ".join([sentences[i] for i in top5_idx]) if top5_idx else ""
+        sentence_scores = {}
+        for sent in sentences:
+            for word in word_tokenize(sent.lower()):
+                if word in word_frequencies:
+                    if len(sent.split(' ')) < 30:
+                        if sent not in sentence_scores:
+                            sentence_scores[sent] = word_frequencies[word]
+                        else:
+                            sentence_scores[sent] += word_frequencies[word]
 
-        return {"one_line": top1, "three_bullets": top3, "five_sentence": top5}
+        summary_sentences = nlargest(num_sentences, sentence_scores, key=sentence_scores.get)
+        return ' '.join(summary_sentences)
+
+    def summarize_all(self, text):
+        return {
+            "one_line": self.summarize(text, 1),
+            "three_bullets": self.summarize(text, 3),
+            "five_sentence": self.summarize(text, 5)
+        }
